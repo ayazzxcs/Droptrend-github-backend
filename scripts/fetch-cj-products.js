@@ -103,6 +103,9 @@ async function main() {
       console.log("Last page reached.");
       break;
     }
+
+    await new Promise(resolve => setTimeout(resolve, 1500));
+    }  
   }
 
   all.sort((a, b) => (b.trendScore || 0) - (a.trendScore || 0));
