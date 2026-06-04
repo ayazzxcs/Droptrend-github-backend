@@ -1,7 +1,8 @@
 {
-  "updatedAt": "2026-06-04T11:20:38.080Z",
+  "updatedAt": "2026-06-04T12:44:35.422Z",
   "count": 6000,
   "maxPages": 30,
   "pageSize": 200,
-  "source": "CJdropshipping"
+  "source": "CJdropshipping",
+  "ranking": "winningScore uses order count, sales volume, wishlist/favorites, recent growth, CJ rank if available, profit, margin, image and supplier quality."
 }
