@@ -22,7 +22,7 @@ jobs:
         env:
           CJ_EMAIL: ${{ secrets.CJ_EMAIL }}
           CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
-        run: node scripts/fetch-products.js
+        run: node scripts/fetch-cj-products.js
 
       - name: Commit products
         run: |
