@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 
 const CJ_EMAIL = process.env.CJ_EMAIL;
 const CJ_API_KEY = process.env.CJ_API_KEY;
-const MAX_PAGES = Number(process.env.MAX_PAGES || 50);
+const MAX_PAGES = Number(process.env.MAX_PAGES || 30);
 const PAGE_SIZE = Number(process.env.PAGE_SIZE || 200);
 
 if (!CJ_EMAIL || !CJ_API_KEY) {
