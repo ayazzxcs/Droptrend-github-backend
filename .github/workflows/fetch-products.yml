@@ -55,4 +55,3 @@ jobs:
 
           git diff --staged --quiet || git commit -m "Update products with Meta ad signals"
           git push
-```
