@@ -2,7 +2,7 @@ import fs from "fs";
 import fetch from "node-fetch";
 
 const APIFY_TOKEN = process.env.APIFY_TOKEN;
-const ACTOR_ID = process.env.META_ACTOR_ID || "webdatatabs/meta-ad-library-scraper";
+const ACTOR_ID = process.env.META_ACTOR_ID || "webdatalabs/meta-ad-library-scraper";
 const COUNTRY = process.env.META_COUNTRY || "US";
 const MAX_ADS_PER_QUERY = Number(process.env.META_MAX_ADS_PER_QUERY || 20);
 
