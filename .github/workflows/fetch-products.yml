@@ -1,9 +1,12 @@
-name: Fetch CJ Products
+name: Fetch CJ Products + Meta Ad Signals
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   fetch:
@@ -16,21 +19,34 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: "20"
 
       - name: Install dependencies
         run: npm install
 
-      - name: Run script
+      - name: Fetch CJ products
+        run: node scripts/fetch-cj-products.js
         env:
           CJ_EMAIL: ${{ secrets.CJ_EMAIL }}
           CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
-        run: node scripts/fetch-cj-products.js
+          PAGE_SIZE: 200
+          MAX_PAGES: 30
 
-      - name: Commit products
+      - name: Fetch Meta ad trend signals
+        run: node scripts/fetch-meta-trends.js
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          META_ACTOR_ID: webdatatabs/meta-ad-library-scraper
+          META_COUNTRY: US
+          META_MAX_ADS_PER_QUERY: 20
+
+      - name: Merge Meta signals into products
+        run: node scripts/merge-meta-signals.js
+
+      - name: Commit updated products
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add products.json products-meta.json
-          git commit -m "Update products" || echo "No changes"
+          git add products.json products-meta.json meta-trends.json meta-ads.json
+          git diff --staged --quiet || git commit -m "Update products with Meta ad signals"
           git push
