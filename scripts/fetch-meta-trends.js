@@ -34,9 +34,9 @@ async function runActor() {
   const input = {
     searchQueries: queries,
     country: COUNTRY,
-    adStatus: "ACTIVE",
-    adType: "ALL",
-    mediaType: "ALL",
+    adStatus: "active",
+    adType: "all",
+    mediaType: "all",
     maxAdsPerQuery: MAX_ADS_PER_QUERY
   };
 
