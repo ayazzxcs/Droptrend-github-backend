@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-06-04T19:49:44.401Z",
-  "count": 6000,
+  "updatedAt": "2026-06-05T03:23:57.942Z",
+  "count": 12,
   "maxPages": 30,
   "pageSize": 200,
   "source": "CJdropshipping",
-  "ranking": "winningScore uses order count, sales volume, wishlist/favorites, recent growth, CJ rank if available, profit, margin, image and supplier quality."
+  "mode": "CJ Trending Products",
+  "query": {
+    "searchType": 2,
+    "orderBy": "listedNum",
+    "sort": "desc"
+  },
+  "ranking": "winningScore uses CJ-supported listing count, inventory if provided, orders if provided, valid pricing, profit, margin, image, and supplier quality.",
+  "note": "CJ product list does not always provide public sales volume, wishlist/favorites, recent growth, or bestseller rank."
 }
