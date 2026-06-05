@@ -1,0 +1,13 @@
+{
+  "name": "droptrend-github-actions",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch:cj": "node scripts/fetch-cj-products.js",
+    "fetch:meta": "node scripts/fetch-meta-trends.js",
+    "merge:meta": "node scripts/merge-meta-signals.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
