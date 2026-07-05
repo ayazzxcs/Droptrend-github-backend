@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T03:46:02.756Z",
+  "updatedAt": "2026-07-05T02:48:39.025Z",
   "count": 6012,
   "maxPages": 30,
   "pageSize": 200,
@@ -7,5 +7,8 @@
   "mode": "Full CJ product list + optional CJ trending boost",
   "normalCount": 6000,
   "trendingCount": 12,
-  "note": "CJ trending endpoint can return a small number of products; full product list is used for scale and trending products are boosted when available."
+  "note": "CJ trending endpoint can return a small number of products; full product list is used for scale and trending products are boosted when available.",
+  "metaEnhancedAt": "2026-07-05T02:57:33.135Z",
+  "metaSignals": 7,
+  "metaSource": "Apify Meta Ad Library Scraper"
 }

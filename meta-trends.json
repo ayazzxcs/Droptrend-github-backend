@@ -1,0 +1,270 @@
+{
+  "updatedAt": "2026-07-05T02:57:32.889Z",
+  "source": "Apify Meta Ad Library Scraper",
+  "actorId": "webdatalabs/meta-ad-library-scraper",
+  "country": "US",
+  "adCount": 120,
+  "signals": [
+    {
+      "keyword": "pet products",
+      "activeAds": 54,
+      "totalAds": 54,
+      "avgRunDays": 164,
+      "platforms": {
+        "FACEBOOK": 53,
+        "INSTAGRAM": 52,
+        "AUDIENCE_NETWORK": 35,
+        "MESSENGER": 46,
+        "THREADS": 37,
+        "WHATSAPP": 1
+      },
+      "sampleAds": [
+        {
+          "pageName": "Petlibro",
+          "headline": "",
+          "adCopy": "Safe, smart, and effortless to clean! 🧼 The camera and app make it so easy to keep track of Ringo and Mango’s health habits🐈❤️ Grab yours via the link in my bio! Use code ringo15",
+          "landingUrl": "https://petlibro.com/products/luma-smart-litter-box",
+          "runDurationDays": 175
+        },
+        {
+          "pageName": "Michaela Scott Brand Videos",
+          "headline": "",
+          "adCopy": "if you have a cat and travel… this actually changes everything 🐈‍⬛✈️ no more asking people to come scoop, no stress, just peace of mind #LitterRobot #Whisker #CatParentLife #PetTe",
+          "landingUrl": "https://www.whisker.com/",
+          "runDurationDays": 15
+        },
+        {
+          "pageName": "Catalyst Pet Natural Litter",
+          "headline": "Get 30% off your first order with code CAT30",
+          "adCopy": "Make the switch to a cat litter that's 10x better controlling your stinky litter box odors than clay! Over 5,000 5 ⭐️ ratings, 25,000+ subscribers and 100 shelters agree, Catalyst ",
+          "landingUrl": "https://catalystpet.com/pages/5-reasons",
+          "runDurationDays": 320
+        }
+      ],
+      "metaAdScore": 100
+    },
+    {
+      "keyword": "cat litter box",
+      "activeAds": 31,
+      "totalAds": 31,
+      "avgRunDays": 145,
+      "platforms": {
+        "FACEBOOK": 29,
+        "INSTAGRAM": 29,
+        "AUDIENCE_NETWORK": 15,
+        "MESSENGER": 24,
+        "THREADS": 17,
+        "WHATSAPP": 1
+      },
+      "sampleAds": [
+        {
+          "pageName": "Petlibro",
+          "headline": "",
+          "adCopy": "Safe, smart, and effortless to clean! 🧼 The camera and app make it so easy to keep track of Ringo and Mango’s health habits🐈❤️ Grab yours via the link in my bio! Use code ringo15",
+          "landingUrl": "https://petlibro.com/products/luma-smart-litter-box",
+          "runDurationDays": 175
+        },
+        {
+          "pageName": "Michaela Scott Brand Videos",
+          "headline": "",
+          "adCopy": "if you have a cat and travel… this actually changes everything 🐈‍⬛✈️ no more asking people to come scoop, no stress, just peace of mind #LitterRobot #Whisker #CatParentLife #PetTe",
+          "landingUrl": "https://www.whisker.com/",
+          "runDurationDays": 15
+        },
+        {
+          "pageName": "Catalyst Pet Natural Litter",
+          "headline": "Get 30% off your first order with code CAT30",
+          "adCopy": "Make the switch to a cat litter that's 10x better controlling your stinky litter box odors than clay! Over 5,000 5 ⭐️ ratings, 25,000+ subscribers and 100 shelters agree, Catalyst ",
+          "landingUrl": "https://catalystpet.com/pages/5-reasons",
+          "runDurationDays": 320
+        }
+      ],
+      "metaAdScore": 93
+    },
+    {
+      "keyword": "beauty tools",
+      "activeAds": 31,
+      "totalAds": 31,
+      "avgRunDays": 175,
+      "platforms": {
+        "FACEBOOK": 30,
+        "INSTAGRAM": 31,
+        "MESSENGER": 27,
+        "AUDIENCE_NETWORK": 20,
+        "THREADS": 21
+      },
+      "sampleAds": [
+        {
+          "pageName": "How Things Break",
+          "headline": "I Stopped Telling Pet Parents to Run Vinegar. Here's Why",
+          "adCopy": "After 19 years of repairing washing machines, I need to tell pet parents something that's going to make them angry. Vinegar is not fixing your washing machine. Neither is baking so",
+          "landingUrl": "https://order.uprootclean.com/wmt008-l4v2-mustyclothes",
+          "runDurationDays": 23
+        },
+        {
+          "pageName": "Sally Beauty",
+          "headline": "{{product.name}}",
+          "adCopy": "Make this your best hair era. Discover salon-quality, wallet-friendly color, care & styling tools for every want & need.",
+          "landingUrl": "https://www.sallybeauty.com/brands/ion",
+          "runDurationDays": 57
+        },
+        {
+          "pageName": "Beauty Obsessed with Michele",
+          "headline": "2 Tools For $99!",
+          "adCopy": "ONE DAY ONLY!!! 2 tools for just $99 https://t.langehair.com/SHLkC",
+          "landingUrl": "https://t.langehair.com/SHLkC",
+          "runDurationDays": 29
+        }
+      ],
+      "metaAdScore": 93
+    },
+    {
+      "keyword": "general",
+      "activeAds": 20,
+      "totalAds": 20,
+      "avgRunDays": 162,
+      "platforms": {
+        "FACEBOOK": 20,
+        "INSTAGRAM": 18,
+        "AUDIENCE_NETWORK": 16,
+        "MESSENGER": 12,
+        "THREADS": 12
+      },
+      "sampleAds": [
+        {
+          "pageName": "United State of Indiana",
+          "headline": "{{product.name}}",
+          "adCopy": "Midwest-made vibes, weird little designs, and the softest tees. See what’s calling your name 👇",
+          "landingUrl": "http://unitedstateofindiana.com/",
+          "runDurationDays": 42
+        },
+        {
+          "pageName": "Alysha W.",
+          "headline": "{{product.name}}",
+          "adCopy": "{{product.brand}}",
+          "landingUrl": "https://article.paw-life.shop/",
+          "runDurationDays": 42
+        },
+        {
+          "pageName": "Nutramax Laboratories Veterinary Sciences, Inc.",
+          "headline": "Nutramax Laboratories Veterinary Sciences, Inc.",
+          "adCopy": "",
+          "landingUrl": "https://www.proviable.com/?utm_source={{site_source_name}}&utm_medium=paid&utm_campaign={{campaign.name}}&utm_content=facebook",
+          "runDurationDays": 497
+        }
+      ],
+      "metaAdScore": 86
+    },
+    {
+      "keyword": "kitchen gadget",
+      "activeAds": 19,
+      "totalAds": 19,
+      "avgRunDays": 86,
+      "platforms": {
+        "FACEBOOK": 15,
+        "INSTAGRAM": 19,
+        "AUDIENCE_NETWORK": 7,
+        "MESSENGER": 8,
+        "THREADS": 7
+      },
+      "sampleAds": [
+        {
+          "pageName": "Cat Life Magazine",
+          "headline": "She has 9 Cats & only 3 litter boxes... THIS is her secret...",
+          "adCopy": "My wife's friend has 9 cats in a three-bedroom house. NINE. I've been in a lot of houses. I'm an electrician — 26 years on the job. I've smelled every kind of house you can imagine",
+          "landingUrl": "https://wagandwhiskers.ca/pages/stop-spraying-and-cat-conflict",
+          "runDurationDays": 145
+        },
+        {
+          "pageName": "Finally Feeling Like Me",
+          "headline": "Tractor Paste Wasn’t The Cure",
+          "adCopy": "My husband has been taking horse medication for eight months. A seventy three year old retired engineer. Medicine cabinet full of prescriptions from real doctors. Driving to the Tr",
+          "landingUrl": "https://lumvelle.com/products/lumvelle-wormwood-drops",
+          "runDurationDays": 23
+        },
+        {
+          "pageName": "Amazon.com",
+          "headline": "",
+          "adCopy": "Comment SHOP for Links! Must follow first! follow @tiffanyallison7 In order to receive any DMs IG requires that you now follow! Be sure to check your DMs because the Link will be s",
+          "landingUrl": "https://www.amazon.com/Frywall-10-Medium-Splatter-Guard/dp/B01LVV7MMU?tag=fbacapcrbaip-hit-us-20&ascsubtag=pfb-HIT-1-9-5xu2y6nlrimjm01f&linkCode=sab&amzAscTransit=true&mcid=2464f931047c3901b65078292002ee08&creator_tag=tiffanyregala-20",
+          "runDurationDays": 73
+        }
+      ],
+      "metaAdScore": 86
+    },
+    {
+      "keyword": "skincare",
+      "activeAds": 17,
+      "totalAds": 17,
+      "avgRunDays": 268,
+      "platforms": {
+        "FACEBOOK": 17,
+        "INSTAGRAM": 17,
+        "AUDIENCE_NETWORK": 9,
+        "MESSENGER": 14,
+        "THREADS": 12
+      },
+      "sampleAds": [
+        {
+          "pageName": "Shop Merak",
+          "headline": "Crafted Ceramic Bowls for Skincare Rituals",
+          "adCopy": "Save 15% when you bundle the bowls, long brush and short brush - elevate your skincare ritual with tools made for presence and intention. Discover the Merak Facial Bowl Set, crafte",
+          "landingUrl": "https://shopmerak.com/products/facial-bowls",
+          "runDurationDays": 206
+        },
+        {
+          "pageName": "Shop Merak",
+          "headline": "Crafted Ceramic Bowls for Skincare Rituals",
+          "adCopy": "Elevate your skincare ritual with tools designed for presence and intention. Discover the Merak Facial Bowl Set—ergonomically crafted Italian‑inspired ceramic bowls that make every",
+          "landingUrl": "https://shopmerak.com/products/facial-bowls",
+          "runDurationDays": 192
+        },
+        {
+          "pageName": "Purplle.com",
+          "headline": "{{product.name}}",
+          "adCopy": "𝐏𝐮𝐫𝐩𝐥𝐥𝐞, India’s #1 beauty destination. Enjoy up to 60% off on top skincare, haircare, and makeup brands! ✅ Free Shipping on all orders ✅ Cash on Delivery ✅ 100% Genuine Pro",
+          "landingUrl": "http://play.google.com/store/apps/details?id=com.manash.purplle",
+          "runDurationDays": 89
+        }
+      ],
+      "metaAdScore": 84
+    },
+    {
+      "keyword": "wireless charger",
+      "activeAds": 12,
+      "totalAds": 12,
+      "avgRunDays": 134,
+      "platforms": {
+        "INSTAGRAM": 11,
+        "FACEBOOK": 11,
+        "AUDIENCE_NETWORK": 10,
+        "MESSENGER": 10,
+        "THREADS": 8
+      },
+      "sampleAds": [
+        {
+          "pageName": "Everything Envy",
+          "headline": "",
+          "adCopy": "You’re not living right if this isn’t in your kitchen…👀 This is your sign to add this 4-in-1 retractable charger to your kitchen ASAP. It fast charges, keeps cords out of sight, a",
+          "landingUrl": "https://urlgeni.us/amzn/retractablechargeradrepostigfeed_EE",
+          "runDurationDays": 95
+        },
+        {
+          "pageName": "LivoWish",
+          "headline": "Start 2026 Healthy 🥗",
+          "adCopy": "Meal prep faster! Wireless & portable, perfect for fresh salads & clean eating.",
+          "landingUrl": "https://livowish.com/products/portable-mini-food-chopper",
+          "runDurationDays": 107
+        },
+        {
+          "pageName": "Spotminders",
+          "headline": "Free Shipping & Returns",
+          "adCopy": "Make every wallet in the house smarter and never lose them again. ✅ 4 ultra-slim PRO cards for every wallet & bag. ✅ Includes 1 wireless chargers (no batteries to buy!) ✅ Works wit",
+          "landingUrl": "https://www.spotminders.com/products/tracking-pro-set",
+          "runDurationDays": 65
+        }
+      ],
+      "metaAdScore": 79
+    }
+  ]
+}
