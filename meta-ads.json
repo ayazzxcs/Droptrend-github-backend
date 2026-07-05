@@ -1,49 +1,8 @@
 [
   {
-    "pageName": "Petlibro",
-    "adCopy": "Safe, smart, and effortless to clean! 🧼 The camera and app make it so easy to keep track of Ringo and Mango’s health habits🐈❤️ Grab yours via the link in my bio! Use code ringo15 for 15% off✨ @petlibro #petlibro #cats #catsofinstagram #funnycats #funnycat #catsgram #cats_of_world #にゃんすたぐらむ #냥스타그램",
-    "headline": "",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 175,
-    "sentimentLabel": "positive",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://petlibro.com/products/luma-smart-litter-box",
-    "keywords": [
-      "cat litter box",
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Michaela Scott Brand Videos",
-    "adCopy": "if you have a cat and travel… this actually changes everything 🐈‍⬛✈️ no more asking people to come scoop, no stress, just peace of mind #LitterRobot #Whisker #CatParentLife #PetTech #TravelWithPets",
-    "headline": "",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 15,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.whisker.com/",
-    "keywords": [
-      "cat litter box",
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Catalyst Pet Natural Litter",
-    "adCopy": "Make the switch to a cat litter that's 10x better controlling your stinky litter box odors than clay! Over 5,000 5 ⭐️ ratings, 25,000+ subscribers and 100 shelters agree, Catalyst Pet is the best thing to happen to cats since... well ever! “Glad I made this change. Cleaner, healthier and overall way better than the other stuff that is in most stores. Works as it should, too. Give your kittens what they deserve and be a catalyst for change!” - Derek ⭐️⭐️⭐️⭐️⭐️ “Smells amazing, easy to scoop, clumps great and lasts my cat longer than a month. I haven't had to fight messes sticking to the bottom of the box either! Just a quick sanitizing wipe down and we're good to go! I will use this litter forever!” - Brittany ⭐️⭐️⭐️⭐️⭐️ 🐱Softer on your cat's paws 🐱No harmful clay or silica dust 🐱Smells like natural wood 🐱Superior absorbing and clumping 🐱Lasts 4x as long as clay litter 🐱Upcycled wood is safe for the environment 🐱Made in America 🇺🇸 With so many benefits, you’ll wonder why you didn’t switch sooner!",
-    "headline": "Get 30% off your first order with code CAT30",
+    "pageName": "Meowant",
+    "adCopy": "Get EXTRA $300 off with code: SC300OFF💖 Designed with Love, Built for Safety.💖 Meowant designed with a gentle anti-pinch system to protect your furry friend.",
+    "headline": "Meowant.com",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
@@ -51,244 +10,50 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 320,
+    "runDurationDays": 654,
     "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://meowant.com/products/self-cleaning-cat-litter-box",
+    "keywords": [
+      "cat litter box",
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Meowant",
+    "adCopy": "Get EXTRA $100 off with code: SC01",
+    "headline": "Meowant Cat Litter Box",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER"
+    ],
+    "runDurationDays": 797,
+    "sentimentLabel": "neutral",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://meowant.com/products/self-cleaning-cat-litter-box",
+    "keywords": [
+      "cat litter box",
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Catalyst Pet Natural Litter",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER"
+    ],
+    "runDurationDays": 419,
+    "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://catalystpet.com/pages/5-reasons",
-    "keywords": [
-      "cat litter box",
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Shout",
-    "adCopy": "Cat missed the litter box? 🐱 Shout® Pet Stain Destroyer cleans urine messes in under 5 minutes. Essential oils infused fragrance. #ad 🛒#ShoutPet #Shout #ShoutItOut #ShoutPetStainDestroyer",
-    "headline": "Litter Box Miss? Fixed 🐱",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM"
-    ],
-    "runDurationDays": 52,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.amazon.com/dp/B0FVGM7CYT",
-    "keywords": [
-      "cat litter box",
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Sustainably Yours Litter",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "WHATSAPP",
-      "THREADS"
-    ],
-    "runDurationDays": 43,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://sylitter.com/buy-hm-at-petco?utm_source=meta&utm_medium=cpc&utm_campaign=conversion",
-    "keywords": [
-      "cat litter box",
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Catalyst Pet Natural Litter",
-    "adCopy": "Full transparency - this is a paid brand collab BUT I’ve turned into a customer. I will 100% be subscribing to this @catalystpet litter and putting the money right back into the company. If you’re a cat person, this is for you. Seriously. Get 30% off with code CAT30 #itgirlfriday #petmom #catmom #furbabylove #catlitter #catalyst #naturalpets #catsofinstagram #crazycatladyforlife",
-    "headline": "",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 418,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "http://catalystpet.com/pages/5-reasons",
-    "keywords": [
-      "cat litter box",
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Popur",
-    "adCopy": "Hate scooping but even worse a messy box?? Thanks to Popur's open design, cleaning up your cat's toilet has never been easier. It would defeat the purpose of a scooping robot by saving five minutes on the daily chore but having to spend hours on monthly maintenance. Popur is here to help, with no strings attached.",
-    "headline": "Don't miss out the $399 ALL-TIME BEST offer!",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 114,
-    "sentimentLabel": "negative",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://popur.com/products/popur-x5-self-cleaning-litter-box",
-    "keywords": [
-      "cat litter box",
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Whisker",
-    "adCopy": "Three cats. One easy payment plan. Zero scooping. Ever.",
-    "headline": "Available With 0% APR Through Affirm",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 3,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.whisker.com/litter-robot-4",
-    "keywords": [
-      "cat litter box"
-    ]
-  },
-  {
-    "pageName": "Birdie & Louie",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 50,
-    "sentimentLabel": "neutral",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://birdieandlouie.com/pages/cat-food-landing-page-v2",
-    "keywords": [
-      "cat litter box"
-    ]
-  },
-  {
-    "pageName": "Furrbby",
-    "adCopy": "Tired of dealing with messy, smelly litter boxes? 🐾 This stainless steel litter box resists stains, is a breeze to clean, and keeps your home smelling fresh. Say goodbye to mess and bacteria—your cat will love the upgrade!",
-    "headline": "Premium Litter Box 🐱 30% OFF NOW 🐱",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 486,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.furrbby.com/",
-    "keywords": [
-      "cat litter box"
-    ]
-  },
-  {
-    "pageName": "Boxiecat",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "THREADS"
-    ],
-    "runDurationDays": 22,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://boxiecat.com/pages/learn-boxiepro",
-    "keywords": [
-      "cat litter box"
-    ]
-  },
-  {
-    "pageName": "United State of Indiana",
-    "adCopy": "Midwest-made vibes, weird little designs, and the softest tees. See what’s calling your name 👇",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 42,
-    "sentimentLabel": "negative",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "http://unitedstateofindiana.com/",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "Birdie & Louie",
-    "adCopy": "5 Reasons I Switched My Cat to Birdie & Louie Cat Food (and Never Looked Back) 1️⃣ Picky-Eater Approved – My cat actually runs to the bowl now. 2️⃣ Happy Tummy – The tuna + pineapple variety helps support digestion and less litter box drama. 3️⃣ Shiny, Soft Coat – Olives nourish skin and coat from the inside out. 4️⃣ No More Hairballs – Their papaya infused formula has enzymes that break them down before they become a problem. 5️⃣ Complete, Balanced Nutrition – Premium proteins + essential vitamins and taurine keep her healthy for the long haul. I thought I was just changing her food… turns out, I changed her life. 🐾 Click to see the difference Birdie & Louie can make for your cat 💛",
-    "headline": "I Switched My Cat to Birdie & Louie (Here's Why...)",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 105,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://birdieandlouie.com/collections/cat-food",
-    "keywords": [
-      "cat litter box"
-    ]
-  },
-  {
-    "pageName": "Furrbby",
-    "adCopy": "Tired of dealing with messy, smelly litter boxes? 🐾 This stainless steel litter box resists stains, is a breeze to clean, and keeps your home smelling fresh. Say goodbye to mess and bacteria - your cat will love the upgrade!",
-    "headline": "Premium Litter Box 🐱 30% OFF NOW 🐱",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 543,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.furrbby.com/",
-    "keywords": [
-      "cat litter box"
-    ]
-  },
-  {
-    "pageName": "LitterZero US",
-    "adCopy": "Only $9.99 special price!! 🚀 Order here → https://litterzero.com/ ✨Discover why cat parents everywhere are switching to LitterZero and see why it’s the #1 must-have for cat lovers!",
-    "headline": "",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 110,
-    "sentimentLabel": "positive",
-    "ctaType": "ORDER_NOW",
-    "landingUrl": "https://litterzero.com/products/litterzero",
     "keywords": [
       "cat litter box",
       "pet products"
@@ -304,7 +69,7 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 81,
+    "runDurationDays": 82,
     "sentimentLabel": "negative",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://fb.com/canvas_doc/1098131412518082",
@@ -313,9 +78,27 @@
     ]
   },
   {
-    "pageName": "Cat Life Magazine",
-    "adCopy": "My wife's friend has 9 cats in a three-bedroom house. NINE. I've been in a lot of houses. I'm an electrician — 26 years on the job. I've smelled every kind of house you can imagine. I walked into her place expecting the worst. Instead? It smelled like fresh laundry and coffee. I looked around for litter boxes. Found two. Two litter boxes. Nine cats. Meanwhile, back at our house… Three cats. Four litter boxes. And every room smells like a public restroom. I need to tell you what happened. —— A Little Background I didn't grow up with cats. Grew up with dogs. Labs, mostly. But my wife rescued Tank from behind the Walmart dumpster eight years ago. Then came Remi from her coworker who was moving. Then Jinx — the kitten somebody dumped in a box at the gas station. Three cats. They're my wife's. That's what I told the guys at work. Truth is, I'm the one who gets up at 4:30 to feed them. I'm the one Remi follows around the garage. I'm the one Jinx falls asleep on every Sunday during football. They're my cats too. I just couldn't fix the one thing that was ruining our house. —— The Problem Jinx started peeing on the bathroom rug about a year ago. Not near the litter box. On the rug. Right in front of the tub. Then Remi started spraying the hallway wall. Then Tank — the most easygoing cat alive — started going on the basement carpet. Every single day. —— I Tried to Fix It I'm a fixer. That's what I do. Four litter boxes for three cats. Different rooms. Scooped morning and night. Switched to unscented litter — the expensive kind. Bought enzyme cleaner by the gallon. I even tore out the basement carpet and put down vinyl myself. Didn't matter. Jinx still hit the bathroom rug. Remi still sprayed the wall. Tank still found somewhere new to go. —— The Smell Was Everywhere You know the worst part? You stop noticing it yourself. My buddy Craig came over to help me wire the garage. He didn't say anything. But I saw him breathe through his mouth the entire time. The next week a guy on my crew said, \"You got cats, right? I can tell.\" He wasn't being mean. But I felt it in my chest. My wife started burning candles in every room. Three, four at a time. I told her it just smelled like vanilla and pee. She didn't laugh. —— We Were Running Out of Room Our house is 1,400 square feet. Not small, not big. But four litter boxes eat up space fast. One in the bathroom. One in the laundry room. One in the basement. One in the spare bedroom. My daughter asked if she could have friends over for her birthday. I spent two hours scrubbing floors first. Still wasn't sure it was enough. That's no way to live. —— Then My Wife Made Me Go Somewhere Her friend Patty runs a cat rescue out of her house. Has for years. The shelters call her when they're full. She never turns one down. My wife had been talking to her about our cat problems. Patty said, \"Just bring him over. I'll show him.\" I didn't want to go. I figured she'd tell me to buy another litter box or try some lavender spray. But my wife gave me that look. So I went. —— I Pulled Into Her Driveway Normal house. Nice neighborhood. I walked up to the front door. She let me in and I counted cats immediately. Three on the couch. Two on the cat tree. One on the kitchen table. Three more somewhere in the back. Nine cats. I braced for the smell. Nothing. Not \"kind of okay.\" Nothing. Like nobody had a single cat in that house. I looked around. One litter box in the bathroom. One in the mudroom. That's it. Nine cats. Two boxes. Zero smell. —— I Just Said It \"Patty, how?\" \"I've got three cats and four boxes. My house smells terrible. You've got nine cats and two boxes. Your house smells better than mine.\" She smiled like she'd heard it a hundred times. \"Everyone says that.\" —— She Took Me Down the Hall Pointed at this little white thing plugged into an outlet. Looked like one of those Glade plug-ins. \"That's it,\" she said. \"That's the whole secret.\" I almost laughed. \"A plug-in air freshener? Come on, Patty.\" She shook her head. —— \"Your Cats Aren't Being Jerks\" She sat me down at the kitchen table. \"When cats pee outside the box, it's not spite. It's not laziness. It's stress.\" \"They feel anxious — about territory, about other cats, about changes in the house. And their instinct says: mark everything. Claim it. Protect it.\" \"You can add ten litter boxes. It won't matter if the stress is still there.\" —— \"This Fixes the Stress\" She pointed back at the device. \"It puts out two kinds of calming pheromones. The territorial one that tells them a space is safe. And the maternal one — the same signal a mother cat gives her kittens.\" \"Most of those products at PetSmart only use one. That's why they don't work.\" \"This uses both. The cat's brain gets the full signal. Safe territory. Safe family. The marking stops because the panic stops.\" —— I Wasn't Buying It \"Patty, no offense. My wife bought a Feliway thing two years ago. Plugged it in for three months. Didn't do a damn thing.\" She nodded. \"Same here. Tried Feliway twice. Comfort Zone once. Waste of money every time.\" \"Then a woman at the rescue network told me about Wag & Whiskers. Said the formula was different — dual pheromone, not single.\" \"I didn't believe her either. But I had seven new fosters that month. Every one of them peeing on my floors. I was desperate enough to try.\" —— \"When I First Plugged It In\" \"All nine cats walked up to the wall. One after another. Sniffing. Just standing there, sniffing.\" \"I'd never seen them react to anything like that before.\" \"First two days, honestly? Nothing. I almost unplugged it. But day three, my worst foster came out from under the bed. Day four, I noticed less spraying. Day six, I woke up and the floors were dry for the first time.\" \"By week two, all seven fosters were using the litter box consistently.\" \"That was two years ago. I haven't scrubbed pee off my floor since.\" \"Wag & Whiskers is the only thing that's ever actually worked in this house.\" —— She Handed Me a Box \"Take this home. Plug it in tonight. If it doesn't work, come tell me and I'll shut up forever.\" I took it. Figured I'd prove her wrong by the weekend. —— I Plugged It In After Dinner Set it up in the hallway — right between the rooms where the problems were worst. Within ten minutes, Jinx walked up to it. Stood there sniffing the wall. Then Remi came around the corner. Same thing. Then Tank — big, lazy Tank — got off the couch and walked over. All three of them. Just standing there. Patty was right. They could pick up something I couldn't. I didn't say anything to my wife. Just went to bed. —— The First Few Days Nothing changed right away. Day one — Jinx peed on the rug again. Day two — Remi sprayed the wall. I almost threw the thing in the trash. But day three, something shifted. I woke up. Checked the bathroom rug. Dry. Hallway wall? Clean. Basement? Nothing. I didn't say a word. Could've been a fluke. Day four. Dry again. Day five. Same. By day six, I told my wife. She didn't believe me until she checked every room herself. —— Two Weeks In The accidents didn't just slow down. They stopped. All three cats using the litter boxes every time. No spraying the walls. No marking the rugs. No mysterious wet spots on the basement floor. Our house smelled like a house again. Not like a shelter. Not like chemicals trying to cover up a shelter. Just normal. —— I Called Patty \"What's that thing called again?\" \"I want to get a second one for the basement.\" \"Wag & Whiskers,\" she said. \"Order from their website. The formula is what matters. Don't buy some knockoff on Amazon.\" I ordered two more that night. Didn't tell my wife until they showed up on the porch. 👉 https://wagandwhiskers.ca/pages/stop-spraying-and-cat-conflict —— Two Months Later Jinx hasn't touched the bathroom rug once. Remi stopped spraying the hallway completely. Tank uses the basement litter box like clockwork. I pulled one of the litter boxes out of the spare bedroom. Three cats. Three boxes. Every box gets used. No smell. No stress. No scrubbing floors at midnight. —— Craig Came Over Last Saturday Walked in to grab a beer and watch the game. He stopped in the doorway. Looked around. \"You get rid of the cats?\" I laughed. \"Same three.\" He shook his head. \"Your house smells totally different, man.\" —— Here's Why This Works Most calming products only send one signal — the territorial pheromone. It tells your cat a surface is familiar. That's it. Wag & Whiskers sends two signals. The territorial pheromone AND the maternal pheromone. The same one a mother cat releases to calm her kittens. Your cat's brain gets the full message: You're safe. This is home. You belong here. The stress drops. The marking stops. They go back to using the box. That's why the other stuff never worked. It was only giving them half the message. —— I Almost Gave Up on Jinx My wife found me one night looking at rehoming posts online. She started crying. I closed the laptop. I wasn't going to do it. But I was thinking about it. That's how bad it was. Jinx wasn't a bad cat. None of them were. They were stressed. Once I fixed the stress? Everything else fixed itself. —— All three are still with us. Jinx is curled up on my daughter's bed. Remi's on the windowsill watching squirrels. Tank's right here on the couch next to me. Snoring. No more accidents. No more smell. No more scrubbing floors before company comes over. Just three calm, happy cats. And one electrician who's man enough to admit he was wrong. —— Try Wag & Whiskers Dual-Pheromone Diffusers for 30 days. If your cat's peeing or spraying doesn't stop, you get a full refund — no questions asked. 👉 Click below to get Wag & Whiskers while it's still on discount! https://wagandwhiskers.ca/pages/stop-spraying-and-cat-conflict",
-    "headline": "She has 9 Cats & only 3 litter boxes... THIS is her secret...",
+    "pageName": "Purina Tidy Cats",
+    "adCopy": "Plus up the performance with three unique litter formulas engineered to tackle your toughest litter box problems.",
+    "headline": "Tidy Cats Performance+",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER"
+    ],
+    "runDurationDays": 82,
+    "sentimentLabel": "negative",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://fb.com/canvas_doc/1241002514860157",
+    "keywords": [
+      "cat litter box"
+    ]
+  },
+  {
+    "pageName": "Meowant US",
+    "adCopy": "💖Make your life easier! No more daily scoop Get EXTRA $320 off with code:FS320",
+    "headline": "$324 Off Now!",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
@@ -324,72 +107,110 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 145,
-    "sentimentLabel": "negative",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://wagandwhiskers.ca/pages/stop-spraying-and-cat-conflict",
+    "runDurationDays": 349,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
     "keywords": [
       "cat litter box",
-      "pet products",
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Litter-Robot by Whisker",
+    "adCopy": "For 25 years, Whisker’s commitment to quality and innovation has been unmatched – fueled by a deep understanding of what cat parents and their cats need. Whisker’s dedicated team of engineers have worked tirelessly to improve each product iteration.",
+    "headline": "135k 5-Star Reviews",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 61,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.litter-robot.com/litter-robot-4.html",
+    "keywords": [
+      "cat litter box"
+    ]
+  },
+  {
+    "pageName": "Meowant",
+    "adCopy": "Make your life easier! No more daily scoop! 💥Meowant Valentine’s Deal! 👉Get EXTRA $350 off with code:LOVE350🐾",
+    "headline": "🚩Clean your cat litter box easily!!",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 148,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+    "keywords": [
+      "cat litter box",
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Cat Tips Daily",
+    "adCopy": "My sister Lauren called me on a Wednesday night and described every single symptom I'd been telling her about for three years. Word for word. Like reading from a list she used to roll her eyes at. Headaches every evening. This thick, cloudy pressure behind her eyes that showed up around dinnertime and wouldn't leave. A stuffiness that never fully cleared no matter what she took. Waking up every morning feeling like her head was packed with something heavy and wet. And this exhaustion, this deep, pulling fatigue that hit every afternoon and made her feel like she was thinking through fog. \"I don't know what's happening to me,\" she said. \"I feel like something is wrong and nobody can figure out what it is.\" I sat on my couch and said nothing for a long time. Because those were my words. Every single one. Those were the exact words I had said to Lauren at her kitchen table three years ago. And she had looked at me over her glass of wine and said, \"Andrea, honestly? I think you just focus on it too much. You've always been like this. Every little thing becomes a whole medical situation with you.\" I need to tell you about those three years. I need to tell you because what happened to me is probably happening to you right now, and the reason I know that is because the symptoms are so common and so vague that nobody connects them to the actual cause. Not your doctor. Not your family. Not you. I'm 54. I have a cat named Scout. He's eight years old and he's been with me through my divorce, through two moves, through the loneliest years of my adult life. He sleeps at the foot of my bed every single night and I love him in a way that I will not apologize for. His litter box was in the hallway closet. Door cracked. I scooped every day. Three years ago, I started getting headaches. Not the kind that make you grab Advil and move on. This slow, dull, heavy pressure that would settle behind my eyes every evening like clockwork and just sit there until I fell asleep. I started waking up congested every morning, this thick, swollen feeling in my sinuses that wouldn't drain no matter how much water I drank or steam I inhaled. And the fatigue, this bone-deep exhaustion that rolled in every afternoon and made me feel like someone was slowly turning my brain down to half speed. I went to my doctor. She said allergies. Gave me Flonase. I went back four months later. No change. She ran bloodwork. Everything normal. She suggested stress and sleep hygiene. I went to an allergist. She tested me for everything. Nothing significant came back. She said it might be vasomotor rhinitis, which is a fancy way of saying your sinuses are inflamed and we don't know why. I spent two years doing everything right. Flonase every morning, Zyrtec every night, HEPA purifier in my bedroom, humidifier in winter, elevated pillows, dairy-free for three months. Nothing moved the needle. The headaches kept coming every evening. The congestion never fully cleared. The fog never lifted. And the people in my life slowly made it clear that they were done hearing about it. My ex-husband David, during one of our co-parenting conversations, said, \"You always have something wrong with you. Maybe that's just how you are.\" My mother, gently, at Thanksgiving: \"Sweetheart, sometimes we make ourselves sick by thinking about being sick too much.\" And Lauren. My sister Lauren, who I've been closer to than anyone on this planet for my entire life. Sitting in her kitchen while I told her I was scared something was really wrong with me. \"Andrea, honestly? I think you just focus on it too much. You've always been like this.\" That was the night I stopped telling people. I stopped mentioning the headaches. Stopped bringing up the fatigue. When someone asked how I was, I said \"fine.\" When the fog rolled in at 3 PM and I couldn't think straight, I closed my office door and put my head on my desk and didn't tell a single person because telling people meant I was dramatic and focusing on it too much and being the way I've always been. I figured this out alone. At 1 AM on a Tuesday, reading an air quality study on my phone in bed because I couldn't sleep, because my sinuses were so swollen I could barely breathe through my nose. The study was about ammonia exposure in residential settings with indoor cats. Cat urine decomposes into ammonia gas. In a room with a litter box, ammonia can reach levels that exceed EPA safety guidelines in under two weeks. Ammonia is a classified respiratory irritant. Chronic low-level exposure causes persistent sinus inflammation, headaches, fatigue, and cognitive fog. And your nose adapts to it completely, so you have no idea you're breathing it. I read that paragraph and felt the blood leave my face. I walked to the hallway closet at 1:30 in the morning and stood in the doorway and breathed in. I couldn't smell anything. Maybe a faint warmth. Nothing that would raise a flag. But that was the whole point. My nose had stopped reporting it years ago. The ammonia was still there. My body was still reacting to it. Every headache. Every morning of congestion. Every afternoon of fog. All of it was a response to a gas I couldn't detect coming from a closet eight feet from where I slept every night. I kept reading. Found out that scooping doesn't remove ammonia from the air, only the solid waste. That air fresheners just cover the smell while your lungs keep breathing the gas underneath. That HEPA purifiers, which I'd been running for over a year, catch particles but not gas. Ammonia passes right through the filter. The machine I trusted to clean my air was doing nothing for the one thing actually making me sick. Two years of doctor appointments. Allergy testing. Prescriptions. A HEPA purifier running around the clock. And the answer was in a closet eight feet from my pillow. I found a device that uses negative ion technology to break ammonia down at the molecular level. Not trap it. Not mask it. Oxidize it into harmless compounds so it doesn't exist in the air anymore. Hospital-grade air sanitation technology, scaled down for home use. The LitterGuard Pro. $39.99. No filters. No maintenance. You plug it in next to the litter box. I ordered it that night. It arrived on a Thursday. I plugged it in next to Scout's box in the hallway closet and closed the door to the same crack it always was. Saturday morning I walked past the closet and stopped. The faint warmth that lived in that hallway, that I hadn't even consciously registered in years, was gone. The air smelled like nothing. By day five, the headaches stopped. Not improved. Stopped. I sat on my couch at 8 PM on a Tuesday evening and realized the pressure behind my eyes that had been there every single night for three years simply wasn't there. By day ten, I woke up and breathed through my nose fully and clearly for the first time in longer than I could remember. I stood in my bathroom and cried. Not because it was dramatic. Because I had spent two years being told nothing was wrong with me, and now I had proof that something had been wrong the entire time. By week three, the fog was gone. My energy was back. I felt like a person I hadn't been in three years. I felt like the person everyone had been telling me I was overreacting about not being. That was five months ago. And then Lauren called me on a Wednesday night. She and her husband had gotten two cats six months ago. Milo and Bean. She adored them. And now she was sitting on her couch describing my exact symptoms to me and asking if I knew what was wrong. \"I'm getting these headaches every evening. This heavy pressure behind my eyes. I wake up so congested every morning and I can't figure out why. And I'm so tired, Andrea, I'm just so tired all the time and my doctor said my bloodwork is fine.\" I listened to every word. I thought about her kitchen table. The wine glass. \"You've always been like this.\" I thought about David. \"Maybe that's just how you are.\" I thought about the two years I spent in silence because the people who were supposed to believe me decided I was making it up. \"Lauren,\" I said. \"Yeah?\" \"It's the litter boxes.\" She was quiet. \"The ammonia from the litter boxes is making you sick. It's been making you sick since you got the cats. You can't smell it because your nose adjusted. But it's there and it's exactly what happened to me and it's exactly what I tried to tell you three years ago at your kitchen table.\" More quiet. \"Andrea. I'm sorry.\" \"I know.\" \"I didn't understand.\" \"I know you didn't.\" \"What do I do?\" I told her about the LitterGuard. I told her how it works. I told her to plug it in and give it two weeks. She called me eleven days later. She was trying not to cry. \"It's gone. All of it. The headaches. The stuffiness. I slept through the night last night and I woke up and I could breathe, Andrea. I could breathe.\" \"I know,\" I said. \"I know exactly what that feels like.\" I told Lauren because she's my sister and I love her even when she makes me want to scream. But I'm telling you because you're probably where I was three years ago. You've got the headaches. The stuffiness. The fog. The fatigue that hits every afternoon and drains you by evening. You've been to the doctor. You've tried the allergy meds. Maybe you've been told it's stress, hormones, aging, or just the way you are. Maybe someone in your life has made you feel like you're being dramatic about it. You're not. You're not dramatic. You're not a hypochondriac. You're not focusing on it too much. Something is actually wrong, and it's probably sitting in whatever room your litter box is in right now, filling your air with a gas you stopped being able to smell a long time ago. Click below to find out how 14,000+ cat owners have eliminated litter box ammonia from their homes for good. Andrea P.S. Lauren texted me last week. It was a photo of Milo asleep on her chest with the caption: \"I almost asked my husband if we should rehome them. Can you imagine? All they needed was a $40 plug-in and I almost gave away my cats.\" I wrote back: \"I know. I almost did the same thing with Scout.\" She replied: \"I'm sorry I didn't listen to you. I'm really sorry.\" I told her I forgave her a long time ago. And I meant it. But I'd be lying if I said it didn't feel good to finally hear her say it.",
+    "headline": "Your litterbox is making you sick, you just can't tell👆",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 41,
+    "sentimentLabel": "negative",
+    "ctaType": "LEARN_MORE",
+    "landingUrl": "https://whisko.co/pages/advertorial-ammonia-v1?_ab=0&key=1779730346698",
+    "keywords": [
+      "cat litter box",
       "kitchen gadget"
     ]
   },
   {
-    "pageName": "Cleo the City Kitty",
-    "adCopy": "Everything we do to make sure the cats are set when we’re away for the day 🤍 @thelitterrobot #LitterRobotPartner",
-    "headline": "",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 32,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://whisker.com/",
-    "keywords": [
-      "cat litter box"
-    ]
-  },
-  {
-    "pageName": "Alysha W.",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
+    "pageName": "Paco&Pepper",
+    "adCopy": "Made for cat parents who actually care about their cat's health. Shop now and save 10% + get a free toy!",
+    "headline": "Get 10% Off + Free Toy",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
       "INSTAGRAM",
       "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
+      "MESSENGER"
     ],
-    "runDurationDays": 42,
-    "sentimentLabel": "neutral",
+    "runDurationDays": 615,
+    "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
-    "landingUrl": "https://article.paw-life.shop/",
+    "landingUrl": "https://pacoandpepper.shop/",
     "keywords": [
-      "general"
+      "cat litter box"
     ]
   },
   {
-    "pageName": "World's Best Cat Litter",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
+    "pageName": "Walmart",
+    "adCopy": "Next-level pet people give their dogs next-level protection.",
+    "headline": "One-and-done protection",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
+      "INSTAGRAM"
     ],
-    "runDurationDays": 14,
+    "runDurationDays": 88,
     "sentimentLabel": "neutral",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://www.worldsbestcatlitter.com/poop-fighter-litter/?utm_campaign=WBCL|FY26|SOCIAL&utm_source=Meta&utm_medium=PaidSocial&utm_content=PoopFighter:15",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.walmart.com/browse/pets/pet-meds-bi/5440_8328098_5659183?veh=wmc_fb",
     "keywords": [
-      "cat litter box"
+      "pet products"
     ]
   },
   {
@@ -404,31 +225,11 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 253,
+    "runDurationDays": 254,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://duconspace.com/products/custom-vintage-washed-denim-baseball-cap-personalized-birthday-gifts-for-dad-grandpa?variant=43968268140598&fbclid=IwY2xjawMAK4FleHRuA2FlbQIxMABicmlkETFMcTBpZ3I0dFY5UFJTVmYwAR6nZsnKvkOQtci2NWUlQdVPS8lsKleoMtuTGnPOMV5orD-krDGtKReaKF4ezA_aem_2eSjoEnVJ_NuOU4YUys4GA",
     "keywords": [
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Vet approved products",
-    "adCopy": "The thing all cat parents should know about cats’ spraying urine and ignoring their box…. and an easy way to help",
-    "headline": "Why You Shouldn't Ignore These Cat Behaviors!",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 38,
-    "sentimentLabel": "positive",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://therapetmd.com/pages/lpv2-c-v1",
-    "keywords": [
-      "cat litter box",
       "pet products"
     ]
   },
@@ -443,11 +244,31 @@
       "AUDIENCE_NETWORK",
       "THREADS"
     ],
-    "runDurationDays": 171,
+    "runDurationDays": 172,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://myospet.com/products/canine-muscle-formula?variant=45196074877172?",
     "keywords": [
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Vet approved products",
+    "adCopy": "TheraPet pheromone diffusers are designed to help reduce destructive behaviors naturally. ✅ Easy plug-in diffuser ✅ 4.5+ stars on Trustpilot reviews ✅ 2M+ diffusers sold ✅ 30-day money-back guarantee",
+    "headline": "Help your anxious cats feel safe and calm",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 33,
+    "sentimentLabel": "positive",
+    "ctaType": "LEARN_MORE",
+    "landingUrl": "https://therapetmd.com/pages/lpv2-c-v1",
+    "keywords": [
+      "cat litter box",
       "pet products"
     ]
   },
@@ -463,7 +284,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 44,
+    "runDurationDays": 45,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon",
@@ -483,31 +304,11 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 164,
+    "runDurationDays": 165,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.redbarn.com/",
     "keywords": [
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Vet approved products",
-    "adCopy": "TheraPet pheromone diffusers are designed to help reduce destructive behaviors naturally. ✅ Easy plug-in diffuser ✅ 4.5+ stars on Trustpilot reviews ✅ 2M+ diffusers sold ✅ 30-day money-back guarantee",
-    "headline": "Help your anxious cats feel safe and calm",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 32,
-    "sentimentLabel": "positive",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://therapetmd.com/pages/lpv2-c-v1",
-    "keywords": [
-      "cat litter box",
       "pet products"
     ]
   },
@@ -538,7 +339,7 @@
       "FACEBOOK",
       "MESSENGER"
     ],
-    "runDurationDays": 190,
+    "runDurationDays": 191,
     "sentimentLabel": "positive",
     "ctaType": "NO_BUTTON",
     "landingUrl": "https://www.scarymommy.com/shopping/weird-clever-things-cat-owners-say-are-actually-life-changing?utm_medium=pro&utm_source=facebook&utm_campaign=fbproaff378123703lpv",
@@ -557,7 +358,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 487,
+    "runDurationDays": 488,
     "sentimentLabel": "positive",
     "ctaType": "GET_OFFER_VIEW",
     "landingUrl": "https://furryfreshness.myshopify.com/pages/furryfreshness-pet-stain-odor-remover-16oz-special?_ab=0&key=1720815242115",
@@ -575,7 +376,7 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 23,
+    "runDurationDays": 24,
     "sentimentLabel": "negative",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://order.uprootclean.com/wmt008-l4v2-mustyclothes",
@@ -615,7 +416,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 57,
+    "runDurationDays": 58,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon",
@@ -631,7 +432,7 @@
     "platforms": [
       "FACEBOOK"
     ],
-    "runDurationDays": 860,
+    "runDurationDays": 861,
     "sentimentLabel": "neutral",
     "ctaType": "GET_DIRECTIONS",
     "landingUrl": "https://www.facebook.com/107335951838970/",
@@ -648,7 +449,7 @@
     "platforms": [
       "INSTAGRAM"
     ],
-    "runDurationDays": 151,
+    "runDurationDays": 152,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://amzn.markable.ai/Gbomh6Ui",
@@ -669,7 +470,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 30,
+    "runDurationDays": 31,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://app.alibaba.com/",
@@ -689,7 +490,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 23,
+    "runDurationDays": 24,
     "sentimentLabel": "negative",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://lumvelle.com/products/lumvelle-wormwood-drops",
@@ -708,7 +509,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 84,
+    "runDurationDays": 88,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.walmart.com/browse/pets/pet-meds-bi/5440_8328098_5659183?veh=wmc_fb",
@@ -726,7 +527,7 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 103,
+    "runDurationDays": 104,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://uprootclean.com/products/uproot-washing-machine-cleaner-pro",
@@ -745,7 +546,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 173,
+    "runDurationDays": 174,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://uprootclean.com/products/uproot-lint-pro",
@@ -765,12 +566,47 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 74,
+    "runDurationDays": 75,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://omzaya.shop/products/rzx-pet-earprous2",
     "keywords": [
       "pet products"
+    ]
+  },
+  {
+    "pageName": "CargoRAXX",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER"
+    ],
+    "runDurationDays": 554,
+    "sentimentLabel": "neutral",
+    "ctaType": "CONTACT_US",
+    "landingUrl": "https://cargoraxx.com/shop/",
+    "keywords": [
+      "general"
+    ]
+  },
+  {
+    "pageName": "Quran Trace",
+    "adCopy": "What happens if I make a mistake when tracing? Master Quran Trace with the forgiving touch of erasable gel pens— ideal for all users. These pens allow for easy corrections, ensuring your journey is free from the fear of permanent mistakes. While these versatile tools offer a second chance, the true foundation of your practice is our specially crafted premium quality art paper. Designed to complement a wide range of writing instruments, our paper ensures durability and beauty in every stroke. Beyond erasable gel pens, explore other options like pencils, erasers, and correction tape to perfect your craft on paper made to last. #tracetip #quran #ramadan #islam",
+    "headline": "",
+    "isActive": true,
+    "platforms": [
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 122,
+    "sentimentLabel": "positive",
+    "ctaType": "VIEW_INSTAGRAM_PROFILE",
+    "landingUrl": "https://www.instagram.com/_u/qurantrace",
+    "keywords": [
+      "beauty tools"
     ]
   },
   {
@@ -785,7 +621,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 57,
+    "runDurationDays": 60,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.sallybeauty.com/brands/ion",
@@ -794,68 +630,26 @@
     ]
   },
   {
-    "pageName": "Beauty Obsessed with Michele",
-    "adCopy": "ONE DAY ONLY!!! 2 tools for just $99 https://t.langehair.com/SHLkC",
-    "headline": "2 Tools For $99!",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 29,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://t.langehair.com/SHLkC",
-    "keywords": [
-      "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Beauty Obsessed with Michele",
-    "adCopy": "ONE DAY ONLY!!! 2 tools for just $99 https://t.langehair.com/SHLkC",
-    "headline": "2 Tools For $99!",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 29,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://t.langehair.com/SHLkC",
-    "keywords": [
-      "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Beauty & Company",
-    "adCopy": "🎄✨ ’Tiz the Season to SAVE BIG at Beauty & Company! ✨ All month long we’re dropping MAJOR holiday deals — bundles, wigs, blow dryers, fragrances, hair tools, scrubs, gifts & more! From doorbusters starting at $6.99 to Buy More, Save More specials across every aisle… this is the biggest December we’ve ever done. 😤🔥 Whether you’re glamming up, stocking stuffers, or refreshing your beauty kit — this is YOUR sign to slide through early and shop smart. 🛍️💚 📆 Sale Dates: Dec 1st–31st 🎁 First come, FIRST SAVE! 📍Visit any Beauty & Company location • 3250 Austin Peay Hwy (Memphis, TN) • 5333 Winchester Rd (Memphis, TN) • 4259 Elvis Presley Blvd (Memphis, TN) • 4202 Hacks Cross Rd Ste #109 (Memphis, TN) • 2685 S Perkins (Memphis, TN) • 860 S. State St (Clarksdale, MS) • 215 Broadway Dr Ste #30 (Hattiesburg, MS) • 2342 Highway US-82 (Greenwood, MS) • 7258 Interstate Blvd US-82 (Horn Lake, MS) 👉 Tag a friend who stays in the beauty supply! #BeautyAndCompany #HolidaySale #TizTheSeason #DecemberDeals #BeautyDeals #ShopLocal901 #WigSale #HairBundles #HairTools #BeautyFinds #ChristmasSale #HolidayGlam #BudgetBaddie #BeautyOnABudget #Doorbusters #ShopSmart #GiftIdeas #BeautyEssentials #MemphisBusiness #SupportLocal",
+    "pageName": "Sally Beauty",
+    "adCopy": "Bondbar helps strengthen and repair all hair types and textures. Discover the power of bond repair for happier, healthier hair.",
     "headline": "",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK"
+      "INSTAGRAM"
     ],
-    "runDurationDays": 211,
+    "runDurationDays": 75,
     "sentimentLabel": "positive",
-    "ctaType": "",
-    "landingUrl": "",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.sallybeauty.com/brands/bondbar/",
     "keywords": [
-      "cat litter box",
       "beauty tools"
     ]
   },
   {
-    "pageName": "Craighill",
-    "adCopy": "The ideal measuring device for us didn't exist, so we designed a new one. The Metrolog has the right balance of precision, functionality, and beauty, to make it our go-to 90 percent of the time when we need to take a measurement. We use it everyday and hope it can find a place in your practice too. Let us know what you think below.",
-    "headline": "",
+    "pageName": "Vid.ai",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
@@ -864,38 +658,89 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 45,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://craighill.co/collections/shop-all/products/metrolog-ruler",
-    "keywords": [
-      "pet products",
-      "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Four Visions",
-    "adCopy": "🌸✨ Meet Bobinsana: The Heart-Opening Guardian of the River Deep along the Amazon’s winding banks grows Bobinsana, the vibrant pink flower known as the Tree of Sweetness. 🌿 This beloved master plant teaches us what it means to stay rooted in the storms of life while opening our hearts to compassion, connection, and joy. 💗 Bobinsana is a weaver of dreams and a gentle ally for grief—helping us dissolve old layers of protection around the heart so we can feel again. She soothes the nervous system, inspires lucid dreaming, and brings the lightness of inner-child wonder back into our lives. Whether you’re seeking emotional healing, deeper reflection, or guidance from the unseen realms, Bobinsana is here to walk with you—reminding you that you are part of all Creation. 🌿✨ Come sit with her medicine, and let her teach you the art of tender transformation. 🛍️ Find Bobinsana tincture, leaves, and hape at fourvisions.com #Bobinsana #HeartMedicine #DreamWeaver #PlantSpiritHealing #AmazonianWisdom #FourVisionsFamily #SacredPlants",
-    "headline": "Four Visions",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 38,
-    "sentimentLabel": "positive",
-    "ctaType": "SEE_DETAILS",
-    "landingUrl": "http://fourvisions.com/",
+    "runDurationDays": 130,
+    "sentimentLabel": "neutral",
+    "ctaType": "LEARN_MORE",
+    "landingUrl": "https://vid.ai/sale",
     "keywords": [
       "general"
     ]
   },
   {
-    "pageName": "Nasmati",
-    "adCopy": "💇‍♀️ Transform Your Hair Routine in Minutes! 💃 Say goodbye to bad hair days with the ultimate hairstyling tools designed to give you professional results from the comfort of your home! 🔥 Why Choose Us? ✔️ Gentle on Hair – Say NO to damage! ✔️ Quick & Easy Styling – Perfect for busy mornings ✔️ Salon-Quality Results – Anytime, anywhere 🎉 Get Free Express Shipping! 👉 Click \"Shop Now\" to upgrade your hair game!",
-    "headline": "Up To 50% OFF + Free Shipping",
+    "pageName": "Conair Beauty",
+    "adCopy": "Start with the Conair Infrared Dryer, finish with Curl Secret for bouncy, shiny curls that last all day",
+    "headline": "Your shortcut to flawless spring hair",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 53,
+    "sentimentLabel": "neutral",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.amazon.com/Infiniti-CONAIR-Infrared-Anti-Frizz-Drying/dp/B0GLN521TM?maas=maas_adg_A78A2641AD845D8DF016174803BA61C5_afap_abs&ref_=aa_maas&tag=maas",
+    "keywords": [
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "simplehuman",
+    "adCopy": "Tools for efficient living.",
+    "headline": "Shop Now",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 282,
+    "sentimentLabel": "neutral",
+    "ctaType": "LEARN_MORE",
+    "landingUrl": "https://fb.com/canvas_doc/761315356683116",
+    "keywords": [
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "Square",
+    "adCopy": "See your cash flow in real time — right next to your bookings. Financial tools built for beauty that no specialist offers.",
+    "headline": "Square",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 17,
+    "sentimentLabel": "positive",
+    "ctaType": "SEE_DETAILS",
+    "landingUrl": "https://squareup.com/t/tid_10415/team_performance_mktg/onbd_self/funnel_lower/cmtp_performance/pr_cross_product/d_paid_social/tar_prospect/p_facebook/cn_evergreen/l_us?route=/us/en/campaign/cross-product-center-evergreen",
+    "keywords": [
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "Amazon Home",
+    "adCopy": "Comment SHOP for Links! Must follow first! follow @tiffanyallison7 In order to receive any DMs IG requires that you now follow! Be sure to check your DMs because the Link will be sent there! If you still dont get the link you can easily tap the link in my Bio to shop I started using warm towels during my skincare routine and it completely changed the vibe. The heat stays perfectly cozy, the towels are ready in seconds, and it makes even a quick face wash feel relaxing. Such a small luxury, but I genuinely look forward to it every night now. �#SelfCareRoutine #AmazonHome #SpaAtHome #SkincareTools #DailyLuxury�towel warmer, hot face towels, spa machine at home, skincare routine tools, warm towel heater, beauty self care, facial towel warmer, amazon beauty finds, relaxing home spa, skincare essentials",
+    "headline": "",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 103,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.amazon.com/dp/B0BZSCPF9X?tag=fbacapcrbaip-hit-us-20&ascsubtag=pfb-HITLCO-1-9-banljrfgwwwsmp3a&linkCode=sab&amzAscTransit=true&mcid=4add668ed5753cd8bb0780960feb77e6&creator_tag=tiffanyregala-20",
+    "keywords": [
+      "beauty tools",
+      "skincare"
+    ]
+  },
+  {
+    "pageName": "The Skinny Confidential",
+    "adCopy": "Better tools. Better sleep. Better skin. Meet our collection of preventive beauty essentials you’ll actually love.",
+    "headline": "{{product.name}}",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
@@ -904,17 +749,17 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 30,
+    "runDurationDays": 220,
     "sentimentLabel": "positive",
-    "ctaType": "GET_OFFER",
-    "landingUrl": "https://nasmaticare.com/",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://shopskinnyconfidential.com/",
     "keywords": [
       "beauty tools"
     ]
   },
   {
     "pageName": "Sally Beauty",
-    "adCopy": "Level up your look with our fan-fave hair color, care, tools, nails & cosmetics to create salon-worthy styles at home.",
+    "adCopy": "Find everything you need to beauty your way, from hair color to care, styling tools to nails & so much more!",
     "headline": "{{product.name}}",
     "isActive": true,
     "platforms": [
@@ -933,155 +778,44 @@
     ]
   },
   {
-    "pageName": "Bellissima Hair Tools",
-    "adCopy": "{{product.brand}}",
+    "pageName": "Power Plate Beauty & Wellness",
+    "adCopy": "KEY IDEA 1: What really matters is the wave. A wave of energy moves up through your body — not once, not occasionally, but 35 times per second on average. Every one of those waves issues a tiny challenge to your muscles, your connective tissue, your circulation, and even your brain. You don’t see the challenge. You don’t think about it. You don’t consciously “do” anything. But your body responds instantly. It reacts with a built-in survival mechanism you’ve had since birth: the reflex response. And once that reflex turns on, everything about your biology starts to change. (A super important big idea here is that these WAVES shift you from an \"exercise\" mindset to an \"activation\" mindset. You are not bringing all the energy to do the work-- we are bringing energy to you.) KEY IDEA 2: How a Wave of Energy Becomes a Full-Body Reaction Each wave coming off the platform is: • Fast • Precise • Three-dimensional (up–down, side–side, front–back) • Harmonic (not chaotic shaking) Your brain interprets this 3-D micro-movement as a stability challenge. Before you even realize it, your muscles fire to keep you balanced. Not once. Not twice. But reflexively — over and over — dozens of times per second. This reflex is the foundation of everything that follows. (Only the Power Plate delivers this reflex response) KEY IDEA 2: Why It Feels Good Almost Instantly When a muscle fires reflexively, blood flow surges into the area. More blood = more oxygen, more nutrients, faster clearance of waste products, and a soothing warmth that makes people say, “Wow, that feels good,” sometimes within seconds. This isn’t magic. It’s physics applied to biology. The wave → the reflex → the circulation → the relief. KEY IDEA 3: Why Your Muscles Get Stronger Without Strain Every reflex contraction is a microscopic “rep.” Instead of doing 10 squats with conscious effort, your stabilizers may fire 1,000–2,000 times in a minute without creating joint stress, hunger, or fatigue. This is SUCH an important idea for you to think about. You WANT the benefits of lifting, running and moving fast. Without the pain. (you want to save the pain for the fun stuff.) That’s why people who haven’t trained in years can suddenly regain strength and stability they thought were gone forever. You’re waking up the deep support system. KEY IDEA 4: Why Fat Burns Better in the “Goldilocks Zone” There is a big shift happening in terms of \":what's the RIGHT way to exercise?\" The big thing that we are all moving toward activating your whole body down to the ATP level-- without pain and injury. (This is the OPPOSITE of crossfit where people get hurt left and right and then stop doing it after six weeks and a broken wrist.) Extreme exercise can spike cortisol and actually slow fat loss. Too little activity does nothing. But reflexive micro-contractions put you into a metabolic “just right” zone: • Muscles are active • Circulation is elevated • Hormones are not stressed • Energy use increases steadily • Appetite often goes down This is why Power Plate is one of the few tools where someone can say, “I’m losing fat but I’m not starving, stressed, or wiped out.” KEY IDEA 5: Why Your Brain Loves The Power Plate (Keeps It Sharp) Most people have NO IDEA what the waves of energy from Power Plate help move blood into your brain. There is research done with MRI technology that shows and proves this. Power Plate precision waves quite literally help keep your brain sharp. Every wave that moves up through your body also moves up through your nervous system. This increases cerebral blood flow — meaning more oxygen and nutrients reach the brain. The result? • You think clearer • Balance improves • Mood lifts • Motivation increases People say they “feel more themselves” — because better blood flow to the brain is one of the most powerful, overlooked forms of activation. Blood flow brings in nutrients and then helps remove waste. (This is essential for those of you who used to play football, especially at the pro level. For those of you still playing, is an injury prevention essential) KEY IDEA 6: Bones and Muscles React Together, Heal Together Muscles attach directly to bone. So when your muscles fire reflexively, your bones receive tiny mechanical loads. These loads are exactly the type that activate osteoblasts and stem cells involved in bone maintenance and repair. This is why Power Plate users — especially women over 40 — often see dramatic changes in bone quality, density, and resilience. It’s not “exercise.” It’s stimulation. A DEXA scan will measure and confirm this over time-- but a good rule of thumb is thar if your muscles are getting stronger, so are your bones. The signals are all connected. KEY IDEA 7: RE-ACTIVATION Triggers Growth Hormone and Nitric Oxide Increase (Big Time) Two things happen when your body is activated at the reflex level: 1. Nitric oxide rises, which expands blood vessels and improves oxygen delivery. People feel warmer, looser, less stiff, more flexible. 2. Growth hormone pulses, which drives tissue repair and fat metabolism. This is part of why people recover faster and look younger on the platform. These are not “fitness” outcomes. They are biological reactivation outcomes. What This All Adds Up To: A Reactivated Body When you put all these effects together — reflexive muscle activation, enhanced circulation, clearer brain function, improved balance, bone stimulation, nitric oxide, growth hormone — you get something that feels bigger than any single benefit. You get reactivation. A body that behaves more like it did when you were young: • you bounce back faster • you move with confidence • you trust your balance • you don’t fear injury • you feel ready, willing, motivated You feel alive again. That’s the North Star for everything we do. Not fitness. Not hype. Not chasing a younger version of yourself. Just reactivating the version of you that’s still in there. The one that wants to move, heal, play, create, travel, care, build, work, and enjoy life — without fear, pain, or limitation. The wave triggers the reflex. The reflex reactivates the body. The body reactivates the life. And that’s why Power Plate exists. https://powerplate.com/blogs/news/how-does-the-power-plate-work-how-does-it-re-activate-your-body?fbclid=IwY2xjawOMjVZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEen1Rdyx16m0Z6O9WO861PQ5CFKp1YBSJNhejy7gLvZ2aYB2pyo5zxcqTi5KY_aem_KHfRjO8BLJdLBvVRBoiJuQ",
+    "headline": "How Does The Power Plate Work? These Are The Key Ideas As You Get Started",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 31,
+    "sentimentLabel": "positive",
+    "ctaType": "",
+    "landingUrl": "https://powerplate.com/blogs/news/how-does-the-power-plate-work-how-does-it-re-activate-your-body",
+    "keywords": [
+      "pet products",
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "Sally Beauty",
+    "adCopy": "Find everything you need to beauty your way, from hair color to care, styling tools to nails & so much more!",
     "headline": "{{product.name}}",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
       "INSTAGRAM",
       "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 330,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://bellissimahairtools.com/products/diffon-ceramic-usca",
-    "keywords": [
-      "pet products",
-      "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Amazon Beauty",
-    "adCopy": "Shop customers' most-loved beauty",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM"
-    ],
-    "runDurationDays": 11,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.amazon.com/?tag=fbasapdisc-us-20&ascsubtag=pfb-DISC-1-9-f4nruabgzxy2ehfr&mcid=44c7df3209af3fbd8c594c228e2b8868",
-    "keywords": [
-      "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Elite Daily",
-    "adCopy": "These cool gifts will please even the most difficult people.",
-    "headline": "100 Sick Finds on Amazon For People Who Are A Pain To Shop For",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK"
-    ],
-    "runDurationDays": 191,
-    "sentimentLabel": "positive",
-    "ctaType": "NO_BUTTON",
-    "landingUrl": "https://www.elitedaily.com/lifestyle/84-sick-finds-on-amazon-for-people-who-are-a-pain-to-shop-for-13142776?utm_source=facebook&utm_medium=pro&utm_campaign=fbproaff13142776",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "Moon Nude",
-    "adCopy": "Discover our handmade Hair Tool Bags that balance both functionality and style 😍",
-    "headline": "For beauty essentials 💕",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 226,
+    "runDurationDays": 59,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
-    "landingUrl": "https://moonnude.com/collections/hair-tool-bags",
+    "landingUrl": "https://www.sallybeauty.com/",
     "keywords": [
       "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Fresh Beauty Studio LLC",
-    "adCopy": "You’ve already experienced the difference Nikol Beauty makes. 🌟 Ready to enhance your collection? From clean formulas to tools made for mature skin, we’ve got everything to keep you glowing.",
-    "headline": "Continue Your Beauty Journey",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 446,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://nikolbeauty.com/",
-    "keywords": [
-      "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Shop Merak",
-    "adCopy": "Save 15% when you bundle the bowls, long brush and short brush - elevate your skincare ritual with tools made for presence and intention. Discover the Merak Facial Bowl Set, crafted with Italian-inspired ceramic to make every mask, serum or scrub feel like ceremony. Minimalist beauty, effortless blending.",
-    "headline": "Crafted Ceramic Bowls for Skincare Rituals",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 206,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://shopmerak.com/products/facial-bowls",
-    "keywords": [
-      "pet products",
-      "beauty tools",
-      "skincare"
-    ]
-  },
-  {
-    "pageName": "Shop Merak",
-    "adCopy": "Elevate your skincare ritual with tools designed for presence and intention. Discover the Merak Facial Bowl Set—ergonomically crafted Italian‑inspired ceramic bowls that make every mask, serum, or scrub feel like a ceremony. Made to blend, hold, and simplify your routine—all with minimalist beauty.",
-    "headline": "Crafted Ceramic Bowls for Skincare Rituals",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 192,
-    "sentimentLabel": "positive",
-    "ctaType": "ORDER_NOW",
-    "landingUrl": "https://shopmerak.com/products/facial-bowls",
-    "keywords": [
-      "pet products",
-      "beauty tools",
-      "skincare"
-    ]
-  },
-  {
-    "pageName": "Elite Daily",
-    "adCopy": "These cool gifts will please even the most difficult people.",
-    "headline": "100 Sick Finds on Amazon For People Who Are A Pain To Shop For",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK"
-    ],
-    "runDurationDays": 183,
-    "sentimentLabel": "positive",
-    "ctaType": "NO_BUTTON",
-    "landingUrl": "https://www.elitedaily.com/lifestyle/84-sick-finds-on-amazon-for-people-who-are-a-pain-to-shop-for-13142776?utm_source=facebook&utm_medium=pro&utm_campaign=fbproaff13142776",
-    "keywords": [
-      "general"
     ]
   },
   {
@@ -1096,7 +830,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 138,
+    "runDurationDays": 137,
     "sentimentLabel": "neutral",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://vid.ai/sale",
@@ -1105,62 +839,114 @@
     ]
   },
   {
-    "pageName": "Glow Me & Nails",
-    "adCopy": "🌟 The Best Nails Salon in Chino, CA 🌟 💅 For Your Youthful Look & Beautiful Nails! Looking for the ultimate nail experience? Visit Glow Me Nails at 14507 Ramona Ave, Chino, CA 91710, where beauty, comfort, and hygiene come together to create the perfect pampering session. ✨ Why Choose Us? ✅ Top-Quality Services – From stunning nail designs to relaxing spa treatments, we’ve got you covered. ✅ Clean & Modern Spa Environment – Your safety and comfort are our priority. We use top-of-the-line products and maintain strict hygiene standards. ✅ Cost-Effective Luxury – World-class services at prices you’ll love. 🌸 At Glow Me & Nails in Chino City, California, our expert technicians, with years of exceptional experience, ensure the highest standards of hygiene by thoroughly sanitizing all tools and equipment. We exclusively use high-end products to keep your nails healthy and beautiful. 📍 Visit us today and experience why we’re the go-to salon in Chino. 📞 Call now to book your appointment: (909) 606-8687 👉 Glow Me Nails – Where Beauty Shines Bright!",
+    "pageName": "Conair Beauty",
+    "adCopy": "Start with the Conair Infrared Dryer, finish with Curl Secret for bouncy, shiny curls that last all day",
+    "headline": "Your shortcut to flawless spring hair",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 37,
+    "sentimentLabel": "neutral",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.amazon.com/Infiniti-CONAIR-Infrared-Anti-Frizz-Drying/dp/B0GLN521TM?maas=maas_adg_3C0FC439723E882FCEF476F5AD65DAA8_afap_abs&ref_=aa_maas&tag=maas",
+    "keywords": [
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "Grooming and Beauty Professional",
+    "adCopy": "No more JanSport backpacks. No more damaged clippers. ❌ Introducing the award-winning G&BPRO Full Size Mobile Station — created from scratch by founder and industry professional, DC Rivera, designed for PROs on the go. Level up your mobile grooming game today at gandbpro.com and experience the difference.",
+    "headline": "Award-Winning Mobile Workstations 💇",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 176,
+    "sentimentLabel": "negative",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://gandbpro.com/collections/mobile-stations",
+    "keywords": [
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "BuggyBusters - Hickory",
+    "adCopy": "Our business model is finally coming to Hickory, NC",
+    "headline": "BIN 5 - Hickory",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER"
+    ],
+    "runDurationDays": 1792,
+    "sentimentLabel": "neutral",
+    "ctaType": "GET_DIRECTIONS",
+    "landingUrl": "https://www.facebook.com/104562661089464/",
+    "keywords": [
+      "general"
+    ]
+  },
+  {
+    "pageName": "Easace",
+    "adCopy": "✨ Back shavers. Lotion applicators. Back scratchers. All ready for YOUR brand. 👇 We manufacture premium back care tools for beauty stores, e-commerce sellers & designers worldwide — with full ODM support and MOQ as low as 200 pcs. 🔥 New products dropping every month 👉 Follow Easace for sourcing tips, product drops & B2B insights.",
     "headline": "",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 467,
+    "runDurationDays": 98,
     "sentimentLabel": "positive",
     "ctaType": "VIEW_INSTAGRAM_PROFILE",
-    "landingUrl": "http://instagram.com/glowmenails",
-    "keywords": [
-      "pet products",
-      "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Sally Beauty",
-    "adCopy": "Make this your best hair era. Discover salon-quality, wallet-friendly color, care & styling tools for every want & need.",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 59,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.sallybeauty.com/brands/ion",
-    "keywords": [
-      "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Power Plate Beauty & Wellness",
-    "adCopy": "Contemporary healthcare is built on formidable strengths: diagnosis, monitoring, medication, procedures, and episodic rehabilitation. These are indispensable. But they leave a critical void. There is no scalable, daily system for maintaining and restoring human function. The consequences appear across the continuum of care: Preventive medicine flags risk but offers no consistent countermeasure. Patient compliance collapses under complex, time-intensive exercise regimens. Hospitalization triggers rapid functional decline that often persists long after discharge. Chronic care lacks practical tools to preserve capacity between visits. We have become highly skilled at detecting decline — yet we do not systematically prevent it. Function Is the Common Denominator Every domain of medicine ultimately converges on function: Cardiovascular health depends on capacity and tolerance. Musculoskeletal health rests on movement and stability. Neurological health relies on coordination and reaction time. Successful aging is defined by independence and resilience. Function is not a niche concern. It is the operating system of human health. And it is the first thing to decline — and the last thing healthcare systematically addresses. The Missing Mechanism: Activation If declining function stems largely from chronic under-stimulation, then restoration requires consistent, system-wide activation of the body. Current tools fall short. Traditional exercise demands high motivation and long-term adherence that most people cannot sustain. Physical therapy is powerful but episodic and time-limited. Pharmaceuticals cannot replicate the mechanical and neuromuscular signaling the body needs. What’s missing is a daily, low-friction, full-body stimulus capable of reactivating biological systems across the board. This is the activation gap. Activation and the Biology of Aging In aging and chronic disease, four core processes repeatedly surface: inflammation, oxidation, glycation, and impaired methylation. These are typically framed in biochemical terms. Yet they are also profoundly influenced by a more fundamental factor: the body’s level of physical activation. Chronic under-stimulation leads to sluggish circulation, slowed neuromuscular signaling, reduced tissue repair, and diminished resilience — creating the internal environment in which accelerated aging and disease thrive. Medicine has invested heavily in managing these processes chemically. It has largely overlooked the physical activation environment that helps drive them. What Doctors Need to Know Across specialties, physicians confront the same gap. Most were never trained to treat daily physical activation as a core therapeutic layer. Four insights stand out: Loss of function is upstream. By the time it becomes clinically obvious, it has often been progressing for years. Generic exercise advice is not a system. “Move more” does not produce consistent activation. Every doctor has a function problem. Regardless of specialty, declining patient capacity affects outcomes. There is no default solution. No widely adopted, low-friction tool exists for daily functional maintenance. Where Power Plate Fits Power Plate is not a fitness device. It is an activation platform. Using precise multi-directional mechanical stimulation, it simultaneously engages neuromuscular systems, enhances circulation and microvascular flow, recruits fast-twitch muscle fibers, and triggers broad systemic responses — all in just minutes per day, regardless of a person’s fitness level or motivation. It solves the central real-world constraint: most people will not sustain ideal exercise routines, yet they still require consistent activation to protect function. A New Model Across Healthcare Power Plate offers a model that integrates seamlessly across the healthcare system: In prevention, it maintains function before decline sets in. In compliance, it provides a low-friction daily habit. In acute care, it reduces deconditioning and speeds recovery. In longitudinal care, it sustains capacity between interventions. This shifts the paradigm from merely managing decline to continuously maintaining and restoring function. The Strategic Opportunity The real opportunity is not to compete in the crowded fitness or wellness space. It is to create an entirely new category: the activation layer of healthcare. Modern medicine is unmatched at diagnosis and targeted intervention. Where it underperforms is in the continuous stewardship of human function. Power Plate fills that gap. Conclusion There is a missing link across all of healthcare: consistent physical activation. Without it, prevention remains incomplete, compliance stays inconsistent, recovery is slower, and decline accelerates. Healthcare already knows how to identify and treat problems. What it has not yet done is systematically maintain function — the foundation of health. Activation is the mechanism that preserves it. Power Plate is the system that delivers it.",
-    "headline": "Power Plate and the Missing Link Across All of Healthcare",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 25,
-    "sentimentLabel": "positive",
-    "ctaType": "",
-    "landingUrl": "https://powerplate.com/blogs/news/power-plate-and-the-missing-link-across-all-of-healthcare",
+    "landingUrl": "http://instagram.com/easace1979",
     "keywords": [
       "cat litter box",
       "pet products",
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "Beauty Xpress",
+    "adCopy": "🎄✨ ’Tiz the Season to SAVE BIG at Beauty & Company! ✨ All month long we’re dropping MAJOR holiday deals — bundles, wigs, blow dryers, fragrances, hair tools, scrubs, gifts & more! From doorbusters starting at $6.99 to Buy More, Save More specials across every aisle… this is the biggest December we’ve ever done. 😤🔥 Whether you’re glamming up, stocking stuffers, or refreshing your beauty kit — this is YOUR sign to slide through early and shop smart. 🛍️💚 📆 Sale Dates: Dec 1st–31st 🎁 First come, FIRST SAVE! 📍Visit any Beauty & Company location • 3250 Austin Peay Hwy (Memphis, TN) • 5333 Winchester Rd (Memphis, TN) • 4259 Elvis Presley Blvd (Memphis, TN) • 4202 Hacks Cross Rd Ste #109 (Memphis, TN) • 2685 S Perkins (Memphis, TN) • 860 S. State St (Clarksdale, MS) • 215 Broadway Dr Ste #30 (Hattiesburg, MS) • 2342 Highway US-82 (Greenwood, MS) • 7258 Interstate Blvd US-82 (Horn Lake, MS) 👉 Tag a friend who stays in the beauty supply! #BeautyAndCompany #HolidaySale #TizTheSeason #DecemberDeals #BeautyDeals #ShopLocal901 #WigSale #HairBundles #HairTools #BeautyFinds #ChristmasSale #HolidayGlam #BudgetBaddie #BeautyOnABudget #Doorbusters #ShopSmart #GiftIdeas #BeautyEssentials #MemphisBusiness #SupportLocal",
+    "headline": "",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 212,
+    "sentimentLabel": "positive",
+    "ctaType": "MESSAGE_PAGE",
+    "landingUrl": "",
+    "keywords": [
+      "cat litter box",
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "The Beauty Edit",
+    "adCopy": "LIMITED-TIME ONLY! Choose any 2 select styling tools for just $99. Stock is limited—secure your perfect pair today and get salon-quality styles at home for less. Don’t miss out—this deal is ending soon!",
+    "headline": "Hurry! Ending soon...",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 31,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://t.langehair.com/SHLrc",
+    "keywords": [
       "beauty tools"
     ]
   },
@@ -1176,7 +962,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 100,
+    "runDurationDays": 101,
     "sentimentLabel": "positive",
     "ctaType": "LEARN_MORE",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
@@ -1195,7 +981,7 @@
       "AUDIENCE_NETWORK",
       "THREADS"
     ],
-    "runDurationDays": 212,
+    "runDurationDays": 213,
     "sentimentLabel": "negative",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://www.tiktok.com/",
@@ -1215,7 +1001,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 89,
+    "runDurationDays": 90,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.manash.purplle",
@@ -1236,7 +1022,7 @@
       "AUDIENCE_NETWORK",
       "THREADS"
     ],
-    "runDurationDays": 126,
+    "runDurationDays": 127,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://primallypure.com/",
@@ -1256,7 +1042,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 73,
+    "runDurationDays": 74,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://itunes.apple.com/app/id835599320",
@@ -1275,7 +1061,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 605,
+    "runDurationDays": 606,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://www.hikoco.co.nz/",
@@ -1293,7 +1079,7 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 395,
+    "runDurationDays": 396,
     "sentimentLabel": "positive",
     "ctaType": "INSTALL_MOBILE_APP",
     "landingUrl": "http://itunes.apple.com/app/id1488269261",
@@ -1315,7 +1101,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 60,
+    "runDurationDays": 61,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://try.luxeresearchlab.com/adv1",
@@ -1335,7 +1121,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 78,
+    "runDurationDays": 79,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.solawave.co/products/wrinkle-retreat-pro-light-therapy-face-mask",
@@ -1356,7 +1142,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 235,
+    "runDurationDays": 236,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://beautyfrombees.ca/products/special-skincare-trio",
@@ -1378,7 +1164,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 204,
+    "runDurationDays": 205,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://qureskincare.com/pages/qure-microinfusion-offer",
@@ -1398,7 +1184,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 195,
+    "runDurationDays": 196,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://join.quiabeauty.com/products/kojic-acid-turmeric-night-wrapping-mask-v2",
@@ -1419,7 +1205,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 165,
+    "runDurationDays": 166,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://beautyfrombees.ca/products/body-serum",
@@ -1439,7 +1225,7 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 395,
+    "runDurationDays": 396,
     "sentimentLabel": "positive",
     "ctaType": "INSTALL_MOBILE_APP",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.whatnot_mobile",
@@ -1461,7 +1247,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 269,
+    "runDurationDays": 270,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://covebalm.com/blogs/adv1",
@@ -1481,7 +1267,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 235,
+    "runDurationDays": 236,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://beautyfrombees.ca/products/special-skincare-trio",
@@ -1500,7 +1286,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 67,
+    "runDurationDays": 68,
     "sentimentLabel": "neutral",
     "ctaType": "",
     "landingUrl": "",
@@ -1517,7 +1303,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 29,
+    "runDurationDays": 30,
     "sentimentLabel": "neutral",
     "ctaType": "SIGN_UP",
     "landingUrl": "https://www.cerave.com/power-couple-sweepstakes-2026",
@@ -1534,7 +1320,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 26,
+    "runDurationDays": 27,
     "sentimentLabel": "neutral",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://www.aveneusa.com/tolerance-foaming-facial-cleanser",
@@ -1570,7 +1356,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 119,
+    "runDurationDays": 120,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.amazon.com/shop/beyond_gray/list/MSGMLPTLXF94?tag=fbacapcrbaip-hit-us-20&ascsubtag=pfb-HITLCO-1-9-wa2yzqjivc4owbhp&linkCode=sab&amzAscTransit=true&mcid=412640acf8bf305496c500e30ec4e2e3&creator_tag=beyondgray-20&creator_ads_traffic=META",
@@ -1607,7 +1393,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 262,
+    "runDurationDays": 263,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://masongenie.com/pages/mason-genie",
@@ -1624,7 +1410,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 409,
+    "runDurationDays": 410,
     "sentimentLabel": "positive",
     "ctaType": "VIEW_INSTAGRAM_PROFILE",
     "landingUrl": "http://instagram.com/arinsolange",
@@ -1644,7 +1430,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 185,
+    "runDurationDays": 186,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://offer.savelix.com/acd-sp-a",
@@ -1661,7 +1447,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 59,
+    "runDurationDays": 60,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://socialiqdealsnow.com/?url=https://goto.walmart.com/c/3002547/1398372/16662%3FsubId3%3Daa8597ff-a880-48c5-b536-91dfd64f2fd9%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fcreator%252Fcollections%253Fid%253D49197&tracking_id=aa8597ff-a880-48c5-b536-91dfd64f2fd9&social=true&network=impact",
@@ -1680,7 +1466,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 42,
+    "runDurationDays": 43,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://cutt.ly/xtNxxsy6",
@@ -1717,7 +1503,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 262,
+    "runDurationDays": 263,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://masongenie.com/pages/mason-genie",
@@ -1737,7 +1523,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 36,
+    "runDurationDays": 37,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://thermoworks.com/products/rfx-starter-kit",
@@ -1770,7 +1556,7 @@
     "platforms": [
       "INSTAGRAM"
     ],
-    "runDurationDays": 16,
+    "runDurationDays": 17,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://urlgeni.us/amazon/deep2",
@@ -1789,7 +1575,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 56,
+    "runDurationDays": 57,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://hexclad.com/pages/hexmill-lp",
@@ -1807,7 +1593,7 @@
     "platforms": [
       "INSTAGRAM"
     ],
-    "runDurationDays": 95,
+    "runDurationDays": 96,
     "sentimentLabel": "negative",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://urlgeni.us/amzn/retractablechargeradrepostigfeed_EE",
@@ -1845,7 +1631,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 107,
+    "runDurationDays": 108,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://livowish.com/products/portable-mini-food-chopper",
@@ -1863,7 +1649,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 45,
+    "runDurationDays": 46,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://socialiqbuys.com/?url=https://goto.walmart.com/c/4099979/1398372/16662%3FsubId3%3D5d076e0f-523e-413d-b60b-84f5d6f11490%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fip%252FCuisinart-FastFreeze-Frozen-Dessert-Maker%252F16955208594&tracking_id=5d076e0f-523e-413d-b60b-84f5d6f11490&social=true&network=impact",
@@ -1883,7 +1669,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 65,
+    "runDurationDays": 66,
     "sentimentLabel": "neutral",
     "ctaType": "NO_BUTTON",
     "landingUrl": "https://analytics.wywrd.com/wyrd?wurl=https%3A%2F%2Fgoto.walmart.com%2Fc%2F2465030%2F565706%2F9383%3FsubId1%3Dhyphenshoptoday%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fip%252F2889286750&account-id=ac-sm2om4",
@@ -1899,7 +1685,7 @@
     "platforms": [
       "INSTAGRAM"
     ],
-    "runDurationDays": 22,
+    "runDurationDays": 23,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://urlgeni.us/amazon/grater2-2",
@@ -1917,7 +1703,7 @@
     "platforms": [
       "INSTAGRAM"
     ],
-    "runDurationDays": 88,
+    "runDurationDays": 89,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://urlgeni.us/amzn/papertowelholdercleaneradrepostigstories_EE",
@@ -1926,9 +1712,29 @@
     ]
   },
   {
-    "pageName": "Spotminders",
-    "adCopy": "Make every wallet in the house smarter and never lose them again. ✅ 4 ultra-slim PRO cards for every wallet & bag. ✅ Includes 1 wireless chargers (no batteries to buy!) ✅ Works with Apple Find My and even with RFID-Blocking Wallets. ✨ 2x Tracking Card Pro (Black) ✨ 2x Tracking Card Pro (Pink) ✨ 1x Wireless Chargers Shop now: https://www.spotminders.com/products/tracking-pro-set",
-    "headline": "Free Shipping & Returns",
+    "pageName": "AliExpress",
+    "adCopy": "3 from $0.99 on 1st order💥💥💥 🚚100% Free Shipping✅ 🚩AliExpress Official ✅Safe Payment ✅ Buyer Protection Thousands of trendy novelty gadgets updated weekly✨ 🛒 Shop now. Enjoy Fast Delivery🏡",
+    "headline": "🚨Limited Time Offer🚨",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 88,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "http://itunes.apple.com/app/id436672029",
+    "keywords": [
+      "kitchen gadget"
+    ]
+  },
+  {
+    "pageName": "Gadgets",
+    "adCopy": "🚗⚡📱 Charge Fast. Drive Safe. ✅ 7.5–15W fast wireless charging ✅ Auto‑clamping arms for secure one‑hand use 🛒Wireless Car Charger & Holder： https://cutt.ly/htv2b8QP 💡More automobiles acc：https://cutt.ly/atv2GhrA",
+    "headline": "📱Charge Fast. Drive Safe",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
@@ -1936,19 +1742,131 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 65,
+    "runDurationDays": 136,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.spotminders.com/products/tracking-pro-set",
+    "landingUrl": "https://cutt.ly/htv2b8QP",
+    "keywords": [
+      "kitchen gadget",
+      "wireless charger"
+    ]
+  },
+  {
+    "pageName": "The Ridge",
+    "adCopy": "Charge iPhones with magsafe, Qi phones, USB-C wired, lightning wired AND an Apple Watch and get 10,000mAh in the palm of your hand. One thing to pack, five ways to power.",
+    "headline": "5 in 1 Powerbank",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 31,
+    "sentimentLabel": "neutral",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://ridge.com/pages/tech-MKBHD-6RLP",
+    "keywords": [
+      "general"
+    ]
+  },
+  {
+    "pageName": "Amazon.com",
+    "adCopy": "Discover top electronics picks on Amazon. *May earn commission.",
+    "headline": "",
+    "isActive": true,
+    "platforms": [
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 113,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.amazon.com/finds/interest/deals&tag=igacapcrbaip-elec-us-20&ascsubtag=pig-ELECLCO-1-9-jlcu1ivuovyzpenl&linkCode=sab&mcid=55ae69c619353784980efe12a9e6fc39&amzAscTransit=true&creator_plus_traffic_source=META",
+    "keywords": [
+      "general"
+    ]
+  },
+  {
+    "pageName": "UDPOWER",
+    "adCopy": "Explore without limits. The UDPOWER S1200 delivers 1200W output, 1800W UDTURBO surge, and whisper-quiet power for RV trips, camping, and emergency backup. Charge 15+ devices at once, enjoy solar recharging, and stay powered anywhere — even off-grid. 🔋🌄",
+    "headline": "Power Up Your Adventures — Anytime, Anywhere ⚡️",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 249,
+    "sentimentLabel": "negative",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://udpwr.com/products/udpower-s1200-portable-power-station",
+    "keywords": [
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Spotminders",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER"
+    ],
+    "runDurationDays": 53,
+    "sentimentLabel": "neutral",
+    "ctaType": "ORDER_NOW",
+    "landingUrl": "https://www.spotminders.com/products/spotminders-tracking-cards",
+    "keywords": [
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Lifeline Program Info",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 24,
+    "sentimentLabel": "neutral",
+    "ctaType": "APPLY_NOW",
+    "landingUrl": "https://apply.airtalkwireless.com/lifeline-enrollment/samsungs20fe",
+    "keywords": [
+      "wireless charger"
+    ]
+  },
+  {
+    "pageName": "Ryan Westbrook",
+    "adCopy": "Make every wallet in the house smarter and never lose them again. ✅ 8 ultra-slim cards for every wallet & bag. ✅ Includes 4 wireless chargers (no batteries to buy!) ✅ Works with Apple Find My and even with RFID-Blocking Wallets. ✨ 4x Standard Tracking Cards ✨ 4x Pro Tracking Cards ✨ 4x Wireless Chargers Shop now: https://www.spotminders.com/products/the-ultimate-family-christmas-bundle",
+    "headline": "Free Shipping & Returns",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 62,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.spotminders.com/products/the-ultimate-family-christmas-bundle",
     "keywords": [
       "pet products",
       "wireless charger"
     ]
   },
   {
-    "pageName": "Journey - JRNY",
-    "adCopy": "Looking for the perfect charger? SUMMIT 3-in-1 Charging Station powers all three devices in one compact, space-saving triangle, and lights up your setup with a simple tap. 🛒Grab yours now: https://journeyofficial.com/products/summit-3-in-1-wireless-charging-station",
-    "headline": "Award-winning Design Charging Station",
+    "pageName": "CODE 118",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
@@ -1958,373 +1876,31 @@
       "THREADS"
     ],
     "runDurationDays": 169,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://journeyofficial.com/products/summit-3-in-1-wireless-charging-station",
-    "keywords": [
-      "pet products",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "Chubbycable",
-    "adCopy": "🔌 Solo-Flex™ 2-in-1 USB-C Cable | ⚡ Single Cable Charges Phone + Apple Watch | 📱 100W Ultra-Fast USB-C Power | ⌚ Dedicated 5W Optimized Watch Charging | 📡 Full-Speed Data Transfer | 👜 One Cable, All You Need On the Go",
-    "headline": "Charge Phone + Apple Watch Simultaneously",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 72,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://chubbycable.com/products/chubbycable-2-in-1-usb-c-cable-with-in-line-watch-charger",
-    "keywords": [
-      "cat litter box",
-      "pet products",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "SnapWireless",
-    "adCopy": "Two years ago, we launched a travel charger that went viral. But here’s the truth: it wasn’t perfect. So we listened. Every review. Every support ticket. Every customer survey. Faster charging? Noted. Longer cables? Got it. More colour options? Say no more. For the past 15 months, we’ve been rebuilding our most loved product - from scratch. Meet the PowerPack Universal 2. ✅ Detachable wall plug ✅ Built-in 80cm retractable cable ✅ MagSafe-compatible wireless charging ✅ Adaptors for 150+ countries ✅ Built-in 10,000mAh battery ✅ And new colour options for every style We’ve spent over a year making sure it solves every pain point. Tap below to be one of the first to try it. https://snapwireless.com/products/powerpack-universal-2",
-    "headline": "You Asked. We Delivered. Meet PowerPack Universal 2",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 143,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://snapwireless.com/products/powerpack-universal-2",
-    "keywords": [
-      "pet products",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "Spotminders",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 52,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.spotminders.com/products/love-set-duo-card",
+    "landingUrl": "https://code-wallets.com/products/5-in-1-magnetic-power-bank?variant=51634811207911",
     "keywords": [
       "pet products"
     ]
   },
   {
-    "pageName": "Ross Greenwood",
-    "adCopy": "We sell car and truck remotes. Programming and key cut extra - CA$49.00 Canada Remote And Key Automotive parts & products include Auto fobs, keyless entry, fob key, remote start, key fob, keyless entry locks, remote, proximity fob, keyless entry remote, electric car key, car remote, push start, car remote replacement, keyless entry remote, key fob replacement, car key fob security, wireless key entry, cars with keyless start, car door keyless entry, keyless start system for cars & trucks, replacement car remote, car key remote, car remotes, transponder key, OEM keyfobs, truck remote replacement, Keyless Remote Transponder, remote truck starters, chip key, truck remote, Accord, Civic, Pilot, Ridgeline, Crv remote, Fit fob, Odyssey remote, Element key, MDX remote, TL fob, Camry remote, Corolla fob, Rav4 remote, Tacoma fob, Yaris key, Matrix fob, Venza remote, 4Runner remote, f150 fob, escape fob, edge key, F350 key, Mustang fob, Fiesta remote, Focus key, Fusion fob, Altima remote, Sentra fob, maxima key, Leaf, Juke, Cube, Versa, Ram fob, Chrysler remote, caravan remote, 300 fob, Liberty key, Charger remote, Dart fob, Challenger remote, Mazda 3 remote, Mazda 2 key, Mazda 5 fob, Cruze remote, Sierra fob, Tahoe remote, Silverado key, Volkswagen remote, Jetta fob, golf remote, beetle key, bmw key, Mercedes fob, Honda remote, Nissan fob, Toyota remote, Dodge fob, Jeep key, Chrysler remote, Ford key, Chevy remote, Mazda fob, Hyundai remote, Kia fob, Lexus remote, land Rover key, gooloo gp4000, compustar, new key fob, car key fob replacement, key fobs near me, remote keyless system, car fob replacement, locksmith key fob, hyundai key fob replacement, honda key fob replacement, keyless entry remote, ford key fob replacement, lost key fob, key fobs for cars, lexus key fob replacement, ford key fob, toyota key fob, remote car key replacement, nissan key fob, honda key fob, remote key for car, locksmith key fob replacement, chevy key fob, mazda key fob, dodge key fob replacement, mercedes key fob, automotive locksmith, key fob replacement, acura key fob, bmw car remote, smart key fob, Toyota push start, Honda remote, Toyota remote, Mazda remote, Lexus remote, Chevy remote, Hyundai remote, Kia Remote, Ford remote, Volkswagen remote, flip key, locksmith, key cutting, programming, push start remote. Facebook Marketplace",
-    "headline": "We sell car and truck remotes. Programming and key cut extra",
+    "pageName": "MagBak",
+    "adCopy": "The BEST line-of-sight mount and iPhone wireless charger designed for your Tesla to blend seamlessly into the dashboard.",
+    "headline": "MagBak Tesla Wireless Charger",
     "isActive": true,
     "platforms": [
-      "FACEBOOK"
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
     ],
-    "runDurationDays": 314,
-    "sentimentLabel": "negative",
-    "ctaType": "CONTACT_US",
-    "landingUrl": "https://facebook.com/marketplace/item/719039450509260/",
+    "runDurationDays": 124,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://magbak.com/collections/tesla-essentials",
     "keywords": [
-      "pet products",
       "wireless charger"
-    ]
-  },
-  {
-    "pageName": "QUAD LOCK",
-    "adCopy": "Over 100,000 ⭑⭑⭑⭑⭑ Reviews! Millions Sold Worldwide! Get your Quad Lock setup today.",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 23,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "http://quadlockcase.net/",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "Torras Global",
-    "adCopy": "This charger is so weird 🥶 I mean… cool name tho… PolarCircle ❄️ Good stuff from @torras_global and @torras_chargingus #torras #torrascharger #ad #iphoneaccessories #PolarCircle",
-    "headline": "",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 51,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://torraslife.com/products/polarcircle-qi2-low-temp-wireless-charger-25w-fast-charge-with-power-adapter",
-    "keywords": [
-      "pet products",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "Spotminders",
-    "adCopy": "🚨 LAST DAY. FINAL STOCK. 🚨 🎄 Christmas Sale - Ends Tonight 🎄 Never lose your wallet again with the world’s first credit card-sized tracker • Up to 5-month battery life • Ultra-thin - fits any wallet • Built-in sound alert • Lifetime guarantee • Works with Apple Find My 🎁 Christmas-Only Offers (Gone After Today): 🔥 Buy 2 Get 1 FREE 🔥 Buy 3 Get 2 FREE + FREE Wireless Charger 🎁 Free Shipping + Mystery Gift included ⏰ Last day to order. Limited units left. Once it’s gone — that’s it. 👉 Secure yours now before we sell out: https://www.spotminders.com/products/spotminders-tracking-cards",
-    "headline": "Final Stock ❤️‍🔥",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 178,
-    "sentimentLabel": "positive",
-    "ctaType": "ORDER_NOW",
-    "landingUrl": "https://www.spotminders.com/products/spotminders-tracking-cards",
-    "keywords": [
-      "pet products",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "Botero Carts Indianapolis",
-    "adCopy": "FREE DELIVERY - Hard to Find APOLLO ELITES! 🔥🔥🔥 THE BEST Golf Cart on the market for the money! -72V 105Ah LiFePO4 lithium battery -4-passenger four forward -Automotive-level monocoque frame -Powder coated automotive chassis -12.3-inch TFT LCD touchscreen -Apple CarPlay and Android Auto -Backup camera -Cruise control -Intelligent steering wheel controls -Wireless and wired phone charging -Premium luxury seats with armrests -14-inch rims -Keyless and remote start -On-board charger -Sound system with speakers and LED lighting -Foldable acrylic windshield -Seat belts -Street Legal Turn signals, brake lights, and LED lighting package Come see what all the HYPE is about on this unit! Botero Carts 8727 US 31 Edinburgh IN CALL or TEXT (317) 668-1178 Get Pre-Approved here with no impact to score>> https://octane.co/flex/520396/ Open 7 Days a Week from 10-5 ***Free Delivery within 100 miles",
-    "headline": "Apollo Elite - $12995",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 57,
-    "sentimentLabel": "positive",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://boterocarts.com/location/indianapolis-indiana/",
-    "keywords": [
-      "cat litter box",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "AliExpress",
-    "adCopy": "🔥 3 from $0.99 on 1st order🔥 🔥 Buy 1 Get 2 Free! 🔥 🚚 Free Shipping | Safe Payment✅ Thousands of trending gadgets, updated weekly✨ Shop now & get fast delivery! 🛒🏡",
-    "headline": "🚨 Limited-time deals 🚨",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 43,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "http://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
-    "keywords": [
-      "kitchen gadget"
-    ]
-  },
-  {
-    "pageName": "QUAD LOCK",
-    "adCopy": "Looking For The Best Car Mount? We've Made it! Over 100,000 ⭐️⭐️⭐️⭐️⭐️ Reviews!",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 34,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.quadlockcase.net/collections/shop-car/products/car-kit-all-iphone-devices",
-    "keywords": [
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Spotminders",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 59,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.spotminders.com/products/love-set-duo-card",
-    "keywords": [
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Relaxrich",
-    "adCopy": "🔥【50,000 Drivers' Favorite Choice】50% OFF Smart Rotating 2-in-1 Car Phone Holder · Wireless Charging + 360° Rotation for Stress-Free Driving! ⚡ The Ultimate Solution for Drivers' Pain Points ▸ Phone keeps dying during navigation? → 15W wireless fast charging keeps it powered up while you navigate ▸ Traditional mounts block your view and are hard to adjust? → 360° ball-joint rotation for seamless portrait/landscape switching ▸ Phone falls off on bumpy roads? → Gravity-activated clamp arms + anti-slip silicone grip keep it rock-solid ▸ Tangled charging cables? → Hidden cable routing doubles your car's tidiness ✨ Why does it keep selling? ✅ Smart Sensing Extendable Arm｜One-handed placement locks instantly, effortless operation ✅ Compatible with Most Models｜Fits mainstream iPhone/Android devices, charges even with cases on ✅ Dual-use for vents/desktops｜Doesn't block AC or damage vent blades ✅ OLED voltage display｜Real-time monitoring of vehicle battery health 🚗 A must-have gadget for car owners Ride-hailing drivers accepting orders｜Long-distance navigation for road trips｜Commuters needing charging range｜Food delivery riders checking battery levels 🎁 Limited-time rock-bottom deal ⏰ Stock running low—prices returning soon! 👇 Click to banish driving “battery anxiety” 🛒 [Upgrade your experience now →] https://relaxrich.com/products/smart-2-in-1-uz Car Wireless Charger #PhoneMount #CarEssential #DrivingMustHave",
-    "headline": "",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 162,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://relaxrich.com/products/smart-2-in-1-uz",
-    "keywords": [
-      "pet products",
-      "kitchen gadget",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "Temu Men",
-    "adCopy": "Men’s style upgrade – Temu deal. Flash sale!",
-    "headline": "{{product.short_description}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 41,
-    "sentimentLabel": "neutral",
-    "ctaType": "DOWNLOAD",
-    "landingUrl": "https://www.temu.com/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=211~~USD&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=2010258380&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "Spotminders",
-    "adCopy": "🚨 LAST DAY. FINAL STOCK. 🚨 🎄 Christmas Sale - Ends Tonight 🎄 Never lose your wallet again with the world’s first credit card-sized tracker • Up to 5-month battery life • Ultra-thin - fits any wallet • Built-in sound alert • Lifetime guarantee • Works with Apple Find My 🎁 Christmas-Only Offers (Gone After Today): 🔥 Buy 2 Get 1 FREE 🔥 Buy 3 Get 2 FREE + FREE Wireless Charger 🎁 Free Shipping + Mystery Gift included ⏰ Last day to order. Limited units left. Once it’s gone — that’s it. 👉 Secure yours now before we sell out: https://www.spotminders.com/products/spotminders-tracking-cards",
-    "headline": "Final Stock ❤️‍🔥",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 196,
-    "sentimentLabel": "positive",
-    "ctaType": "ORDER_NOW",
-    "landingUrl": "https://www.spotminders.com/products/spotminders-tracking-cards",
-    "keywords": [
-      "pet products",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "AliExpress",
-    "adCopy": "🔥 3 from $0.99 on 1st order🔥 🔥 Buy 1 Get 2 Free! 🔥 🚚 Free Shipping | Safe Payment✅ Thousands of trending gadgets, updated weekly✨ Shop now & get fast delivery! 🛒🏡",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 4,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "http://itunes.apple.com/app/id436672029",
-    "keywords": [
-      "kitchen gadget"
-    ]
-  },
-  {
-    "pageName": "TikTok Lite",
-    "adCopy": "Every day on TikTok Lite is fun.",
-    "headline": "2G Network Friendly",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 96,
-    "sentimentLabel": "positive",
-    "ctaType": "INSTALL_MOBILE_APP",
-    "landingUrl": "https://play.google.com/store/apps/details?id=com.tiktok.lite.go",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "Alibaba.com",
-    "adCopy": "Source Consumer Electronics on Alibaba.com. Alibaba.com-World's Leading B2B Marketplace.",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "THREADS"
-    ],
-    "runDurationDays": 54,
-    "sentimentLabel": "positive",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "Star Furniture & Mattress Gallery",
-    "adCopy": "🚨 𝐌𝐀𝐒𝐒𝐈𝐕𝐄 𝟏𝟎-𝐃𝐀𝐘 𝐖𝐀𝐑𝐄𝐇𝐎𝐔𝐒𝐄 𝐋𝐈𝐐𝐔𝐈𝐃𝐀𝐓𝐈𝐎𝐍 🚨 💥 𝐄𝐕𝐄𝐑𝐘𝐓𝐇𝐈𝐍𝐆 𝐌𝐔𝐒𝐓 𝐆𝐎! 💥 🎯 𝐔𝐏 𝐓𝐎 𝟓𝟎% 𝐎𝐅𝐅 — 𝐒𝐇𝐎𝐏 𝐍𝐎𝐖 & 𝐒𝐀𝐕𝐄 𝐁𝐈𝐆! 🔐 𝐉𝐔𝐒𝐓 $54 𝐃𝐎𝐖𝐍 𝐓𝐎 𝐓𝐀𝐊𝐄 𝐈𝐓 𝐇𝐎𝐌𝐄 🚛 𝐒𝐀𝐌𝐄-𝐃𝐀𝐘 𝐃𝐄𝐋𝐈𝐕𝐄𝐑𝐘 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄! 🔥 𝐋𝐈𝐌𝐈𝐓𝐄𝐃 𝐒𝐓𝐎𝐂𝐊 – 𝐅𝐈𝐑𝐒𝐓 𝐂𝐎𝐌𝐄, 𝐅𝐈𝐑𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐃! 🪑 𝐒𝐭𝐚𝐫 𝐅𝐮𝐫𝐧𝐢𝐭𝐮𝐫𝐞 – 𝐔𝐍𝐁𝐄𝐀𝐓𝐀𝐁𝐋𝐄 𝐃𝐄𝐀𝐋𝐒, 𝐋𝐈𝐌𝐈𝐓𝐄𝐃 𝐓𝐈𝐌𝐄! 📍 6075 Old Canton Rd, Jackson 📞 (769)-524-4858",
-    "headline": "",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 342,
-    "sentimentLabel": "positive",
-    "ctaType": "MESSAGE_PAGE",
-    "landingUrl": "",
-    "keywords": [
-      "general"
     ]
   }
 ]
