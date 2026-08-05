@@ -10,7 +10,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 449,
+    "runDurationDays": 450,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://catalystpet.com/pages/5-reasons",
@@ -30,7 +30,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 49,
+    "runDurationDays": 50,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.whisker.com/litter-robot-evo",
@@ -50,7 +50,7 @@
       "WHATSAPP",
       "THREADS"
     ],
-    "runDurationDays": 29,
+    "runDurationDays": 30,
     "sentimentLabel": "positive",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://alevia.com/products/amla-192011/",
@@ -71,7 +71,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 45,
+    "runDurationDays": 46,
     "sentimentLabel": "neutral",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://www.worldsbestcatlitter.com/poop-fighter-litter/?utm_campaign=WBCL|FY26|SOCIAL&utm_source=Meta&utm_medium=PaidSocial&utm_content=PoopFighter:15",
@@ -91,7 +91,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 178,
+    "runDurationDays": 179,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
@@ -111,7 +111,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 82,
+    "runDurationDays": 83,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://petlibro.com/",
@@ -131,7 +131,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 71,
+    "runDurationDays": 72,
     "sentimentLabel": "negative",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://whisko.co/pages/advertorial-ammonia-v1?_ab=0&key=1779730346698",
@@ -151,7 +151,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 67,
+    "runDurationDays": 68,
     "sentimentLabel": "neutral",
     "ctaType": "SEE_DETAILS",
     "landingUrl": "https://www.worldsbestcatlitter.com/explore-boosters/?utm_campaign=WBCL|FY26|SOCIAL&utm_source=Meta&utm_medium=PaidSocial&utm_content=LitterAdditives",
@@ -170,7 +170,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 69,
+    "runDurationDays": 70,
     "sentimentLabel": "positive",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://therapetmd.com/pages/lpv2-c-v1",
@@ -191,7 +191,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 203,
+    "runDurationDays": 204,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://alen.com/products/breathesmart-25i?utm_source=facebook&utm_medium=social&utm_campaign=november",
@@ -230,7 +230,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 29,
+    "runDurationDays": 30,
     "sentimentLabel": "positive",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://birdieandlouie.com/pages/cat-food-landing-page-v2",
@@ -250,7 +250,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 74,
+    "runDurationDays": 75,
     "sentimentLabel": "positive",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://birdieandlouie.com/pages/cat-food-landing-page-v2",
@@ -269,7 +269,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 268,
+    "runDurationDays": 269,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://www.catalystpet.com/pages/5-reasons",
@@ -289,7 +289,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 465,
+    "runDurationDays": 466,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
@@ -310,10 +310,27 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 182,
+    "runDurationDays": 183,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.amazon.com/sWheat-Scoop-Multi-Cat-Litter/dp/B011O35BV4?maas=maas_adg_434710227E8BA52F4A83E6655A191F2F_afap_abs&ref_=aa_maas&tag=maas",
+    "keywords": [
+      "cat litter box"
+    ]
+  },
+  {
+    "pageName": "Amazon.com",
+    "adCopy": "Discover everyday essentials your cat will love.",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 14,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.amazon.com/?tag=igcmaplco-us-20&ascsubtag=pig-CMAPPDP3-1-9-jcvuilsphtimnthy&mcid=de4651a7bcbe37779f5d33533b094766&cobena=true",
     "keywords": [
       "cat litter box"
     ]
@@ -328,31 +345,10 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 28,
+    "runDurationDays": 29,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://shop.wayvia.com/?campaignid=EY0BNj9QAN_507fa1c4-4c27-4621-beb8-8cb45a512e43&productid=7ghvio37mfog67&displaylanguage=en_US&utm_content=tcperformanceplus_nextlevellitter_petpackaging_original_brand_brand_cat_shopnow_meta_static_traffic&utm_source=Meta&utm_medium=paidsocial&utm_campaign=performanceplus2026",
-    "keywords": [
-      "cat litter box",
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Cat Tips Daily",
-    "adCopy": "🙈 1 In 3 Cat Owners Live In Homes That Smell Like Litter—But They're Nose Blind To It! 🐈 This Little Vet-Recommended Purifier Eliminates Both Litter And Cat Pee Odor In Under An Hour! 👃 Eliminates odor at the source—not just masks it 🏠 Works in any room size, runs 24/7 🔇 So quiet your cats won't even notice it 🔌 Just plug in and forget it 🐱 100% safe for cats ✅ Finally, eliminate litter odor for good.",
-    "headline": "Never wonder if your place smells like litter 👆",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 229,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://whisko.co/products/litterguard-pro",
     "keywords": [
       "cat litter box",
       "pet products"
@@ -367,7 +363,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 29,
+    "runDurationDays": 30,
     "sentimentLabel": "positive",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://www.walmart.com/ip/FRESH-STEP-ODOR-SHIELD-22LB/17988722071?classType=VARIANT&athbdg=L1100&from=/search",
@@ -376,9 +372,9 @@
     ]
   },
   {
-    "pageName": "Petlibro",
-    "adCopy": "Safe, smart, and effortless to clean! 🧼 The camera and app make it so easy to keep track of Ringo and Mango’s health habits🐈❤️ Grab yours via the link in my bio! Use code ringo15 for 15% off✨ @petlibro #petlibro #cats #catsofinstagram #funnycats #funnycat #catsgram #cats_of_world #にゃんすたぐらむ #냥스타그램",
-    "headline": "",
+    "pageName": "Cat Tips Daily",
+    "adCopy": "🙈 1 In 3 Cat Owners Live In Homes That Smell Like Litter—But They're Nose Blind To It! 🐈 This Little Vet-Recommended Purifier Eliminates Both Litter And Cat Pee Odor In Under An Hour! 👃 Eliminates odor at the source—not just masks it 🏠 Works in any room size, runs 24/7 🔇 So quiet your cats won't even notice it 🔌 Just plug in and forget it 🐱 100% safe for cats ✅ Finally, eliminate litter odor for good.",
+    "headline": "Never wonder if your place smells like litter 👆",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
@@ -387,10 +383,10 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 206,
+    "runDurationDays": 230,
     "sentimentLabel": "positive",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://petlibro.com/products/luma-smart-litter-box",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://whisko.co/products/litterguard-pro",
     "keywords": [
       "cat litter box",
       "pet products"
@@ -406,7 +402,7 @@
       "INSTAGRAM",
       "AUDIENCE_NETWORK"
     ],
-    "runDurationDays": 117,
+    "runDurationDays": 118,
     "sentimentLabel": "positive",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://sell.amazon.com/blog/niche-market",
@@ -423,7 +419,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 36,
+    "runDurationDays": 37,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.uprootclean.co/products/uproot-grooming-gloves",
@@ -440,7 +436,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 36,
+    "runDurationDays": 37,
     "sentimentLabel": "negative",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.uprootclean.co/collections/pet-hair-removers",
@@ -459,7 +455,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 28,
+    "runDurationDays": 29,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.chewy.com/",
@@ -477,10 +473,28 @@
       "INSTAGRAM",
       "AUDIENCE_NETWORK"
     ],
-    "runDurationDays": 117,
+    "runDurationDays": 118,
     "sentimentLabel": "neutral",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://sell.amazon.com/blog/niche-market",
+    "keywords": [
+      "general"
+    ]
+  },
+  {
+    "pageName": "Chewy",
+    "adCopy": "Allergies are tough. Finding the right supplements shouldn't be. Get them at Chewy and save 50% off first Autoship order.",
+    "headline": "Vitamins & Supplements",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER"
+    ],
+    "runDurationDays": 36,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.chewy.com/b/vitamins-supplements-417",
     "keywords": [
       "general"
     ]
@@ -496,7 +510,26 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 35,
+    "runDurationDays": 36,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.chewy.com/",
+    "keywords": [
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Chewy",
+    "adCopy": "Don't wait 'til it's too late. Stock up now and save 35% on your first Autoship order of pet faves.",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 29,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.chewy.com/",
@@ -516,7 +549,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 118,
+    "runDurationDays": 119,
     "sentimentLabel": "negative",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://vuxeco.com/products/wood-repair",
@@ -535,66 +568,10 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 150,
+    "runDurationDays": 151,
     "sentimentLabel": "negative",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://uprootclean.com/products/uproot-lint-pro",
-    "keywords": [
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Chewy",
-    "adCopy": "Allergies are tough. Finding the right supplements shouldn't be. Get them at Chewy and save 50% off first Autoship order.",
-    "headline": "Vitamins & Supplements",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER"
-    ],
-    "runDurationDays": 35,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.chewy.com/b/vitamins-supplements-417",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "Chewy",
-    "adCopy": "Don't wait 'til it's too late. Stock up now and save 35% on your first Autoship order of pet faves.",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 28,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.chewy.com/",
-    "keywords": [
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Chewy",
-    "adCopy": "You can never have enough of their favorites. Find everything your pet needs and wants and get fast, free delivery!",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 35,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.chewy.com/",
     "keywords": [
       "pet products"
     ]
@@ -611,10 +588,29 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 88,
+    "runDurationDays": 89,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon",
+    "keywords": [
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Chewy",
+    "adCopy": "You can never have enough of their favorites. Find everything your pet needs and wants and get fast, free delivery!",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 36,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.chewy.com/",
     "keywords": [
       "pet products"
     ]
@@ -627,7 +623,7 @@
     "platforms": [
       "INSTAGRAM"
     ],
-    "runDurationDays": 463,
+    "runDurationDays": 464,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://activecleaningshop.com/o3zuew",
@@ -646,7 +642,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 224,
+    "runDurationDays": 225,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://uprootclean.com/products/uproot-cleaner-pet-hair-glove",
@@ -665,7 +661,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 91,
+    "runDurationDays": 92,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://offers.pearcommerce.com/picker/2934636301538245",
@@ -682,7 +678,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 29,
+    "runDurationDays": 30,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.amazon.com/stores/Benadryl/page/144C88F4-919A-4F78-B6E3-607486E15D1F?maas=maas_adg_69C7A4AFE4677EC6900AEB22E9BB0384_afap_abs&ref_=aa_maas&tag=maas",
@@ -702,10 +698,29 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 74,
+    "runDurationDays": 75,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://chewy.com/brands/royal-canin-veterinary-diet-7490?utm_source=facebook&utm_medium=social+ads&utm_campaign={{campaign.id}}&utm_content={{ad.id}}&utm_term={{placement}}&adset_id={{adset.id}}&ad_id={{ad.id}}&sym_campaign_id={{campaign.id}}&sym_adset_id={{adset.id}}&sym_ad_id={{ad.id}}&sym_source=facebook&sym_medium=paid-social&sym_placement={{placement}}",
+    "keywords": [
+      "pet products"
+    ]
+  },
+  {
+    "pageName": "Chewy",
+    "adCopy": "You can never have enough of their favorites. Find everything your pet needs and wants and get fast, free delivery!",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 16,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "http://www.chewy.com/",
     "keywords": [
       "pet products"
     ]
@@ -722,29 +737,10 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 189,
+    "runDurationDays": 190,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://duconspace.com/products/custom-vintage-washed-denim-baseball-cap-personalized-birthday-gifts-for-dad-grandpa?variant=43968268140598&fbclid=IwY2xjawMAK4FleHRuA2FlbQIxMABicmlkETFMcTBpZ3I0dFY5UFJTVmYwAR6nZsnKvkOQtci2NWUlQdVPS8lsKleoMtuTGnPOMV5orD-krDGtKReaKF4ezA_aem_2eSjoEnVJ_NuOU4YUys4GA",
-    "keywords": [
-      "pet products"
-    ]
-  },
-  {
-    "pageName": "Chewy",
-    "adCopy": "You can never have enough of their favorites. Find everything your pet needs and wants and get fast, free delivery!",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 15,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "http://www.chewy.com/",
     "keywords": [
       "pet products"
     ]
@@ -759,32 +755,13 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 29,
+    "runDurationDays": 30,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://uprootclean.com/products/uproot-washing-machine-cleaner-pro",
     "keywords": [
       "cat litter box",
       "pet products"
-    ]
-  },
-  {
-    "pageName": "CargoRAXX",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 584,
-    "sentimentLabel": "neutral",
-    "ctaType": "CONTACT_US",
-    "landingUrl": "https://cargoraxx.com/shop/",
-    "keywords": [
-      "general"
     ]
   },
   {
@@ -798,12 +775,31 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 47,
+    "runDurationDays": 48,
     "sentimentLabel": "positive",
     "ctaType": "SEE_DETAILS",
     "landingUrl": "https://squareup.com/t/tid_10415/team_performance_mktg/onbd_self/funnel_lower/cmtp_performance/pr_cross_product/d_paid_social/tar_prospect/p_facebook/cn_evergreen/l_us?route=/us/en/campaign/cross-product-center-evergreen",
     "keywords": [
       "beauty tools"
+    ]
+  },
+  {
+    "pageName": "CargoRAXX",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER"
+    ],
+    "runDurationDays": 585,
+    "sentimentLabel": "neutral",
+    "ctaType": "CONTACT_US",
+    "landingUrl": "https://cargoraxx.com/shop/",
+    "keywords": [
+      "general"
     ]
   },
   {
@@ -815,7 +811,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 42,
+    "runDurationDays": 43,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.amazon.com/?tag=fbasapdisc-us-20&ascsubtag=pfb-DISC-1-9-f4nruabgzxy2ehfr&mcid=44c7df3209af3fbd8c594c228e2b8868",
@@ -832,7 +828,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 105,
+    "runDurationDays": 106,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.sallybeauty.com/brands/bondbar/",
@@ -852,7 +848,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 90,
+    "runDurationDays": 91,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.sallybeauty.com/brands/ion",
@@ -891,10 +887,26 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 164,
+    "runDurationDays": 165,
     "sentimentLabel": "neutral",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://vid.ai/sale",
+    "keywords": [
+      "general"
+    ]
+  },
+  {
+    "pageName": "Real Techniques",
+    "adCopy": "{{product.brand}}",
+    "headline": "",
+    "isActive": true,
+    "platforms": [
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 9,
+    "sentimentLabel": "neutral",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.ulta.com/featured/realtech_kelli_anne_collection",
     "keywords": [
       "general"
     ]
@@ -908,28 +920,12 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 43,
+    "runDurationDays": 44,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.walmart.com/shop/beauty/premium-beauty-new-arrivals",
     "keywords": [
       "beauty tools"
-    ]
-  },
-  {
-    "pageName": "Real Techniques",
-    "adCopy": "{{product.brand}}",
-    "headline": "",
-    "isActive": true,
-    "platforms": [
-      "INSTAGRAM"
-    ],
-    "runDurationDays": 8,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.ulta.com/featured/realtech_kelli_anne_collection",
-    "keywords": [
-      "general"
     ]
   },
   {
@@ -962,10 +958,49 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 201,
+    "runDurationDays": 202,
     "sentimentLabel": "neutral",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://fb.com/canvas_doc/468182162888746",
+    "keywords": [
+      "general"
+    ]
+  },
+  {
+    "pageName": "The Beauty Edit",
+    "adCopy": "LIMITED-TIME ONLY! Choose any 2 select styling tools for just $99. Stock is limited—secure your perfect pair today and get salon-quality styles at home for less. Don’t miss out—this deal is ending soon!",
+    "headline": "Hurry! Ending soon...",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 62,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://t.langehair.com/SHLrc",
+    "keywords": [
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "GlossGenius",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 49,
+    "sentimentLabel": "neutral",
+    "ctaType": "SIGN_UP",
+    "landingUrl": "https://glossgenius.com/get-demo-paid-social",
     "keywords": [
       "general"
     ]
@@ -982,7 +1017,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 169,
+    "runDurationDays": 170,
     "sentimentLabel": "neutral",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://vid.ai/sale",
@@ -1002,49 +1037,10 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 206,
+    "runDurationDays": 207,
     "sentimentLabel": "negative",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://gandbpro.com/collections/mobile-stations",
-    "keywords": [
-      "beauty tools"
-    ]
-  },
-  {
-    "pageName": "GlossGenius",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 48,
-    "sentimentLabel": "neutral",
-    "ctaType": "SIGN_UP",
-    "landingUrl": "https://glossgenius.com/get-demo-paid-social",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "Sally Beauty",
-    "adCopy": "Make this your best hair era. Discover salon-quality, wallet-friendly color, care & styling tools for every want & need.",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 88,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://www.sallybeauty.com/brands/ion",
     "keywords": [
       "beauty tools"
     ]
@@ -1061,10 +1057,30 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 61,
+    "runDurationDays": 62,
     "sentimentLabel": "positive",
     "ctaType": "GET_OFFER",
     "landingUrl": "https://nasmaticare.com/",
+    "keywords": [
+      "beauty tools"
+    ]
+  },
+  {
+    "pageName": "Sally Beauty",
+    "adCopy": "Make this your best hair era. Discover salon-quality, wallet-friendly color, care & styling tools for every want & need.",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER",
+      "THREADS"
+    ],
+    "runDurationDays": 89,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://www.sallybeauty.com/brands/ion",
     "keywords": [
       "beauty tools"
     ]
@@ -1081,7 +1097,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 299,
+    "runDurationDays": 300,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://christianartworkshop.com/collections/free-today-for-healing-unity-g1",
@@ -1098,7 +1114,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 141,
+    "runDurationDays": 142,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.sephora.com/shop/makeup-tools?pl=90&ph=max&ptype=manual",
@@ -1107,41 +1123,22 @@
     ]
   },
   {
-    "pageName": "BuggyBusters - Hickory",
-    "adCopy": "Our business model is finally coming to Hickory, NC",
-    "headline": "BIN 5 - Hickory",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER"
-    ],
-    "runDurationDays": 1792,
-    "sentimentLabel": "neutral",
-    "ctaType": "GET_DIRECTIONS",
-    "landingUrl": "https://www.facebook.com/104562661089464/",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "Empire Beauty",
-    "adCopy": "🔥 VISIT OUR ST. LOUIS STORES THIS WEEK: UP TO 90% OFF EVERYTHING + WIN A 4K TV! 📺 Wait... did you see EVERYTHING we just discounted?! 💰 This Black Friday isn't about choosing ONE category—it's about shopping COMPLETE CATEGORIES at up to 90% OFF! Hair care, wigs, beauty tools, men's grooming, fragrances—EVERYTHING under one roof! 🏪 RUSH TO EITHER LOCATION RIGHT NOW: 📍 10000 W Florissant Ave, St. Louis, MO 63136 📍 5790 Lucas and Hunt Rd, St. Louis, MO 63136 🛍️ YOUR COMPLETE SHOPPING DESTINATION: 💇‍♀️ Empire Human Bundles & Wigs: 90% OFF! 👑 Empire 13X4 Virgin Wigs: 60% OFF! ✨ Swiss Lace Wigs & Full Wigs: 50% OFF! 💅 Bare Lace Collections: 50% OFF! 🧴 ALL Hair Care Products: 30-50% OFF! 💨 Hair Steamers & Professional Tools: 40% OFF! 🧢 Du-Rags & Wave Caps: 40% OFF! ✂️ ANDIS & RED PRO Equipment: 40-50% OFF! 💈 BaByliss PRO Tools: 40% OFF! 💐 Premium Colognes & Perfumes: 50% OFF! 🧴 Body Sprays & Grooming: 50% OFF! BUT WAIT—HERE'S THE GRAND PRIZE! 🎁 EVERY customer who visits = Automatic entry to WIN a LUXURY 4K TV! To Enter & WIN Big: ✅ Shop at EITHER St. Louis location ✅ Follow us on ALL social media ✅ Tag 3 friends in comments ✅ Share on your Instagram Story 🏆 WINNER ANNOUNCED NOVEMBER 28, 2025! This is the BIGGEST Black Friday sale of the year! Everything you need for YOUR entire family is here—at prices that are INSANE! Get to the store ASAP! Which category are YOU shopping first? 👇📺✨ #blackfriday #giveaway #fyp #foryoupage #viral #shoppinghaul #beautyhaul #dealsandsteals #contestalert #viralreeĺs #explore #exploremore #trendingnow #stlouis #onlineshopping #beautyproducts #haircare #winaprize #discountshopping #shopsmall #blackfridaydeals #groomingessentials #haırtransformatıon #mustwatch #viralv͟͟i͟͟d͟͟e͟͟o",
-    "headline": "",
+    "pageName": "Beauty Obsessed with Michele",
+    "adCopy": "ONE DAY ONLY!!! 2 tools for just $99 https://t.langehair.com/SHLkC",
+    "headline": "2 Tools For $99!",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
       "INSTAGRAM",
       "AUDIENCE_NETWORK",
-      "MESSENGER"
+      "MESSENGER",
+      "THREADS"
     ],
-    "runDurationDays": 181,
-    "sentimentLabel": "positive",
-    "ctaType": "VIEW_INSTAGRAM_PROFILE",
-    "landingUrl": "http://instagram.com/empire_beauty_stl",
+    "runDurationDays": 61,
+    "sentimentLabel": "neutral",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://t.langehair.com/SHLkC",
     "keywords": [
-      "cat litter box",
-      "pet products",
       "beauty tools"
     ]
   },
@@ -1157,7 +1154,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 131,
+    "runDurationDays": 132,
     "sentimentLabel": "positive",
     "ctaType": "LEARN_MORE",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
@@ -1176,31 +1173,12 @@
       "AUDIENCE_NETWORK",
       "THREADS"
     ],
-    "runDurationDays": 243,
+    "runDurationDays": 244,
     "sentimentLabel": "negative",
     "ctaType": "LEARN_MORE",
     "landingUrl": "https://www.tiktok.com/",
     "keywords": [
       "general"
-    ]
-  },
-  {
-    "pageName": "Dot & Key",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER"
-    ],
-    "runDurationDays": 462,
-    "sentimentLabel": "neutral",
-    "ctaType": "LEARN_MORE",
-    "landingUrl": "https://www.dotandkey.com/products/10-niacinamide-strawberry-brightening-face-serum?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content=Android",
-    "keywords": [
-      "pet products"
     ]
   },
   {
@@ -1215,7 +1193,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 120,
+    "runDurationDays": 121,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.manash.purplle",
@@ -1223,6 +1201,25 @@
       "pet products",
       "beauty tools",
       "skincare"
+    ]
+  },
+  {
+    "pageName": "Dot & Key",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "AUDIENCE_NETWORK",
+      "MESSENGER"
+    ],
+    "runDurationDays": 463,
+    "sentimentLabel": "neutral",
+    "ctaType": "LEARN_MORE",
+    "landingUrl": "https://www.dotandkey.com/products/10-niacinamide-strawberry-brightening-face-serum?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content=Android",
+    "keywords": [
+      "pet products"
     ]
   },
   {
@@ -1236,7 +1233,7 @@
       "AUDIENCE_NETWORK",
       "THREADS"
     ],
-    "runDurationDays": 157,
+    "runDurationDays": 158,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://primallypure.com/",
@@ -1253,7 +1250,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 41,
+    "runDurationDays": 42,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.walmart.com/shop/summer-vacation",
@@ -1272,7 +1269,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 109,
+    "runDurationDays": 110,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.solawave.co/products/wrinkle-retreat-pro-light-therapy-face-mask",
@@ -1290,7 +1287,7 @@
     "platforms": [
       "FACEBOOK"
     ],
-    "runDurationDays": 43,
+    "runDurationDays": 44,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.walmart.com/shop/summer-vacation",
@@ -1309,7 +1306,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 636,
+    "runDurationDays": 637,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://www.hikoco.co.nz/",
@@ -1328,7 +1325,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 266,
+    "runDurationDays": 267,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://beautyfrombees.ca/products/special-skincare-trio",
@@ -1348,7 +1345,7 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 426,
+    "runDurationDays": 427,
     "sentimentLabel": "positive",
     "ctaType": "INSTALL_MOBILE_APP",
     "landingUrl": "http://itunes.apple.com/app/id1488269261",
@@ -1368,7 +1365,7 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 426,
+    "runDurationDays": 427,
     "sentimentLabel": "positive",
     "ctaType": "INSTALL_MOBILE_APP",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.whatnot_mobile",
@@ -1390,7 +1387,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 91,
+    "runDurationDays": 92,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://try.luxeresearchlab.com/adv1",
@@ -1411,7 +1408,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 226,
+    "runDurationDays": 227,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://join.quiabeauty.com/products/kojic-acid-turmeric-night-wrapping-mask-v2",
@@ -1432,7 +1429,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 266,
+    "runDurationDays": 267,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://beautyfrombees.ca/products/special-skincare-trio",
@@ -1453,7 +1450,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 196,
+    "runDurationDays": 197,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://beautyfrombees.ca/products/body-serum",
@@ -1475,7 +1472,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 235,
+    "runDurationDays": 236,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://qureskincare.com/pages/qure-microinfusion-offer",
@@ -1495,7 +1492,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 300,
+    "runDurationDays": 301,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://covebalm.com/blogs/adv1",
@@ -1513,7 +1510,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 98,
+    "runDurationDays": 99,
     "sentimentLabel": "neutral",
     "ctaType": "",
     "landingUrl": "",
@@ -1530,7 +1527,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 34,
+    "runDurationDays": 35,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://go.olay.com/cvsjb",
@@ -1567,7 +1564,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 90,
+    "runDurationDays": 91,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://socialiqdealsnow.com/?url=https://goto.walmart.com/c/3002547/1398372/16662%3FsubId3%3Daa8597ff-a880-48c5-b536-91dfd64f2fd9%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fcreator%252Fcollections%253Fid%253D49197&tracking_id=aa8597ff-a880-48c5-b536-91dfd64f2fd9&social=true&network=impact",
@@ -1584,7 +1581,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 440,
+    "runDurationDays": 441,
     "sentimentLabel": "positive",
     "ctaType": "VIEW_INSTAGRAM_PROFILE",
     "landingUrl": "http://instagram.com/arinsolange",
@@ -1603,7 +1600,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 73,
+    "runDurationDays": 74,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://cutt.ly/xtNxxsy6",
@@ -1622,7 +1619,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 69,
+    "runDurationDays": 70,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://chefpreserve.com/products/vs",
@@ -1642,7 +1639,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 293,
+    "runDurationDays": 294,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://masongenie.com/pages/mason-genie",
@@ -1662,7 +1659,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 67,
+    "runDurationDays": 68,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://thermoworks.com/products/rfx-starter-kit",
@@ -1681,7 +1678,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 69,
+    "runDurationDays": 70,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://chefpreserve.com/products/vs",
@@ -1698,11 +1695,30 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 76,
+    "runDurationDays": 77,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://socialiqbuys.com/?url=https://goto.walmart.com/c/4099979/1398372/16662%3FsubId3%3D5d076e0f-523e-413d-b60b-84f5d6f11490%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fip%252FCuisinart-FastFreeze-Frozen-Dessert-Maker%252F16955208594&tracking_id=5d076e0f-523e-413d-b60b-84f5d6f11490&social=true&network=impact",
     "keywords": [
+      "kitchen gadget"
+    ]
+  },
+  {
+    "pageName": "Creator Finds IQ",
+    "adCopy": "Stop spending a fortune on frozen drinks. ❄️ This gadget makes it way too easy to whip up your favorites at home. It’s been a total game changer for my morning routine! Found this gem at Walmart. Grab yours and start mixing! 🍹✨ #WalmartCreator",
+    "headline": "Better Than The Cafe ☕️",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER"
+    ],
+    "runDurationDays": 54,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://socialiqbuys.com/?url=https://goto.walmart.com/c/3550580/1398372/16662%3FsubId3%3D91a6d667-6f1e-485e-b215-26434cf3211b%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fcreator%252Fposts%253Fcreator%253Delpetersondesign%2526id%253D24486&tracking_id=91a6d667-6f1e-485e-b215-26434cf3211b&social=true&network=impact&ad_id={{ad.id}}&placement={{placement}}",
+    "keywords": [
+      "pet products",
       "kitchen gadget"
     ]
   },
@@ -1717,32 +1733,13 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 87,
+    "runDurationDays": 88,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://hexclad.com/pages/hexmill-lp",
     "keywords": [
       "cat litter box",
       "beauty tools",
-      "kitchen gadget"
-    ]
-  },
-  {
-    "pageName": "Creator Finds IQ",
-    "adCopy": "Stop spending a fortune on frozen drinks. ❄️ This gadget makes it way too easy to whip up your favorites at home. It’s been a total game changer for my morning routine! Found this gem at Walmart. Grab yours and start mixing! 🍹✨ #WalmartCreator",
-    "headline": "Better Than The Cafe ☕️",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER"
-    ],
-    "runDurationDays": 53,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://socialiqbuys.com/?url=https://goto.walmart.com/c/3550580/1398372/16662%3FsubId3%3D91a6d667-6f1e-485e-b215-26434cf3211b%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fcreator%252Fposts%253Fcreator%253Delpetersondesign%2526id%253D24486&tracking_id=91a6d667-6f1e-485e-b215-26434cf3211b&social=true&network=impact&ad_id={{ad.id}}&placement={{placement}}",
-    "keywords": [
-      "pet products",
       "kitchen gadget"
     ]
   },
@@ -1754,7 +1751,7 @@
     "platforms": [
       "INSTAGRAM"
     ],
-    "runDurationDays": 126,
+    "runDurationDays": 127,
     "sentimentLabel": "negative",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://urlgeni.us/amzn/retractablechargeradrepostigfeed_EE",
@@ -1772,7 +1769,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 105,
+    "runDurationDays": 109,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.amazon.com/dp/B088GVJGHM?tag=fbacapcrbaip-hit-us-20&ascsubtag=pfb-HITLCO-1-9-zeiaasqkese8sl3b&linkCode=sab&amzAscTransit=true&mcid=917acd17a7a53451abd8a1d7e911e59f&creator_tag=ericamariellc-20&cobena=true",
@@ -1792,7 +1789,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 138,
+    "runDurationDays": 139,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://livowish.com/products/portable-mini-food-chopper",
@@ -1811,7 +1808,7 @@
       "INSTAGRAM",
       "MESSENGER"
     ],
-    "runDurationDays": 52,
+    "runDurationDays": 53,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://socialiqdealsnow.com/?url=https://goto.walmart.com/c/1398677/1398372/16662%3FsubId3%3Dc7f409d0-2816-450e-b3cb-10896b021ef0%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fip%252FCuisinart-FastFreeze-Frozen-Dessert-Maker%252F16955208594&tracking_id=c7f409d0-2816-450e-b3cb-10896b021ef0&social=true&network=impact&ad_id={{ad.id}}&placement={{placement}}",
@@ -1828,7 +1825,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 137,
+    "runDurationDays": 138,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://www.amazon.com/dp/B01MZ14LJV?tag=fbacapcrbaip-hit-us-20&ascsubtag=pfb-HITLCO-1-9-hjmljp4vcaxrf17r&linkCode=sab&amzAscTransit=true&mcid=0467238e6bf23ccda693612a882812fa&creator_tag=anniefernande-20&creator_ads_traffic=META",
@@ -1849,10 +1846,28 @@
       "WHATSAPP",
       "THREADS"
     ],
-    "runDurationDays": 40,
+    "runDurationDays": 41,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://amzlink.to/az08lNDupVPuU",
+    "keywords": [
+      "kitchen gadget"
+    ]
+  },
+  {
+    "pageName": "Creator Finds IQ",
+    "adCopy": "POV: You finally organized your spice cabinet and it actually stays clean 🥹 This two-tier pull out rack is a total life saver for small kitchens. No assembly required and it fits literally everywhere. You need this in your life! Shop the link below 🔗✨ #WalmartCreator",
+    "headline": "Kitchen Space Saver",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER"
+    ],
+    "runDurationDays": 55,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "https://socialiqcart.com/?url=https://goto.walmart.com/c/2384469/1398372/16662%3FsubId3%3D8b829dd0-5bc7-46c9-a384-2080a4c6f006%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fip%252FStore-it-Cabinet-Caddy-White%252F679266070&tracking_id=8b829dd0-5bc7-46c9-a384-2080a4c6f006&social=true&network=impact&ad_id={{ad.id}}&placement={{placement}}",
     "keywords": [
       "kitchen gadget"
     ]
@@ -1869,30 +1884,12 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 88,
+    "runDurationDays": 89,
     "sentimentLabel": "neutral",
     "ctaType": "GET_OFFER",
     "landingUrl": "https://crimpit.com/products/buy-large-crimpit-10-12-flour-tortillas",
     "keywords": [
       "pet products"
-    ]
-  },
-  {
-    "pageName": "Creator Finds IQ",
-    "adCopy": "POV: You finally organized your spice cabinet and it actually stays clean 🥹 This two-tier pull out rack is a total life saver for small kitchens. No assembly required and it fits literally everywhere. You need this in your life! Shop the link below 🔗✨ #WalmartCreator",
-    "headline": "Kitchen Space Saver",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER"
-    ],
-    "runDurationDays": 54,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://socialiqcart.com/?url=https://goto.walmart.com/c/2384469/1398372/16662%3FsubId3%3D8b829dd0-5bc7-46c9-a384-2080a4c6f006%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fip%252FStore-it-Cabinet-Caddy-White%252F679266070&tracking_id=8b829dd0-5bc7-46c9-a384-2080a4c6f006&social=true&network=impact&ad_id={{ad.id}}&placement={{placement}}",
-    "keywords": [
-      "kitchen gadget"
     ]
   },
   {
@@ -1906,7 +1903,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 69,
+    "runDurationDays": 70,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://chefpreserve.com/products/vs",
@@ -1925,7 +1922,7 @@
       "AUDIENCE_NETWORK",
       "MESSENGER"
     ],
-    "runDurationDays": 166,
+    "runDurationDays": 167,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://cutt.ly/htv2b8QP",
@@ -1946,7 +1943,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 49,
+    "runDurationDays": 50,
     "sentimentLabel": "positive",
     "ctaType": "INSTALL_MOBILE_APP",
     "landingUrl": "http://itunes.apple.com/app/id436672029",
@@ -1965,7 +1962,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 61,
+    "runDurationDays": 62,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://ridge.com/pages/tech-MKBHD-6RLP",
@@ -1982,7 +1979,7 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 54,
+    "runDurationDays": 55,
     "sentimentLabel": "neutral",
     "ctaType": "APPLY_NOW",
     "landingUrl": "https://apply.airtalkwireless.com/lifeline-enrollment/samsungs20fe",
@@ -2002,7 +1999,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 279,
+    "runDurationDays": 280,
     "sentimentLabel": "negative",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://udpwr.com/products/udpower-s1200-portable-power-station",
@@ -2022,7 +2019,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 199,
+    "runDurationDays": 200,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://code-wallets.com/products/5-in-1-magnetic-power-bank?variant=51634811207911",
@@ -2042,7 +2039,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 50,
+    "runDurationDays": 51,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
@@ -2058,7 +2055,7 @@
     "platforms": [
       "INSTAGRAM"
     ],
-    "runDurationDays": 45,
+    "runDurationDays": 46,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://amzn.markable.ai/11QSCNX217",
@@ -2078,7 +2075,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 154,
+    "runDurationDays": 155,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://magbak.com/collections/tesla-essentials",
@@ -2095,8 +2092,25 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 43,
+    "runDurationDays": 44,
     "sentimentLabel": "positive",
+    "ctaType": "APPLY_NOW",
+    "landingUrl": "https://apply.airtalkwireless.com/lifeline-enrollment",
+    "keywords": [
+      "wireless charger"
+    ]
+  },
+  {
+    "pageName": "Benefit Program Information",
+    "adCopy": "{{product.brand}}",
+    "headline": "{{product.name}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 62,
+    "sentimentLabel": "neutral",
     "ctaType": "APPLY_NOW",
     "landingUrl": "https://apply.airtalkwireless.com/lifeline-enrollment",
     "keywords": [
@@ -2115,30 +2129,13 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 103,
+    "runDurationDays": 104,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://chubbycable.com/products/chubbycable-2-in-1-usb-c-cable-with-in-line-watch-charger",
     "keywords": [
       "cat litter box",
       "pet products",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "Benefit Program Information",
-    "adCopy": "{{product.brand}}",
-    "headline": "{{product.name}}",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM"
-    ],
-    "runDurationDays": 61,
-    "sentimentLabel": "neutral",
-    "ctaType": "APPLY_NOW",
-    "landingUrl": "https://apply.airtalkwireless.com/lifeline-enrollment",
-    "keywords": [
       "wireless charger"
     ]
   },
@@ -2154,12 +2151,63 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 50,
+    "runDurationDays": 51,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
     "keywords": [
       "kitchen gadget"
+    ]
+  },
+  {
+    "pageName": "Best Buy",
+    "adCopy": "Start here and start strong. Discover amazing savings on everything back to school.",
+    "headline": "{{product.description}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 3,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "http://www.bestbuy.com/",
+    "keywords": [
+      "general"
+    ]
+  },
+  {
+    "pageName": "Best Buy",
+    "adCopy": "Start here and start strong. Discover amazing savings on everything back to school.",
+    "headline": "{{product.description}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 3,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "http://www.bestbuy.com/",
+    "keywords": [
+      "general"
+    ]
+  },
+  {
+    "pageName": "Best Buy",
+    "adCopy": "Start here and start strong. Discover amazing savings on everything back to school.",
+    "headline": "{{product.description}}",
+    "isActive": true,
+    "platforms": [
+      "FACEBOOK",
+      "INSTAGRAM"
+    ],
+    "runDurationDays": 3,
+    "sentimentLabel": "positive",
+    "ctaType": "SHOP_NOW",
+    "landingUrl": "http://www.bestbuy.com/",
+    "keywords": [
+      "general"
     ]
   },
   {
@@ -2171,33 +2219,12 @@
       "FACEBOOK",
       "INSTAGRAM"
     ],
-    "runDurationDays": 49,
+    "runDurationDays": 50,
     "sentimentLabel": "positive",
     "ctaType": "APPLY_NOW",
     "landingUrl": "https://apply.airtalkwireless.com/lifeline-enrollment",
     "keywords": [
       "cat litter box",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "MagBak",
-    "adCopy": "The BEST line-of-sight mount and iPhone wireless charger designed to look and feel built into your car.",
-    "headline": "MagBak Wireless Car Charger",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 224,
-    "sentimentLabel": "positive",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://magbak.com/products/magbak-charger-car-kit",
-    "keywords": [
-      "pet products",
       "wireless charger"
     ]
   },
@@ -2213,7 +2240,7 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 54,
+    "runDurationDays": 55,
     "sentimentLabel": "neutral",
     "ctaType": "SHOP_NOW",
     "landingUrl": "http://quadlockcase.net/",
@@ -2222,9 +2249,9 @@
     ]
   },
   {
-    "pageName": "Roseionly home",
-    "adCopy": "🚗📱 2-in-1 Car Wireless Charger & Phone Holder: Navigate & Fast Charge, Installed in Seconds. 🔋 15W Fast Charging + Smart Temperature Control: Charge While Driving Without Overheating, Protects Battery Health. 🔄 360° Motorized Rotation: Effortlessly View Maps or Watch Videos. 👁️Infrared sensor auto-clamping keeps your phone steady even on bumpy roads. Fits all major phones and vents! #CarWirelessCharging #PhoneHolder #InfraredSensor #EssentialForDriving",
-    "headline": "",
+    "pageName": "MagBak",
+    "adCopy": "The BEST line-of-sight mount and iPhone wireless charger designed to look and feel built into your car.",
+    "headline": "MagBak Wireless Car Charger",
     "isActive": true,
     "platforms": [
       "FACEBOOK",
@@ -2233,10 +2260,10 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 192,
+    "runDurationDays": 225,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
-    "landingUrl": "https://roseionly.com/products/hjephone",
+    "landingUrl": "https://magbak.com/products/magbak-charger-car-kit",
     "keywords": [
       "pet products",
       "wireless charger"
@@ -2254,50 +2281,10 @@
       "MESSENGER",
       "THREADS"
     ],
-    "runDurationDays": 82,
+    "runDurationDays": 83,
     "sentimentLabel": "positive",
     "ctaType": "SHOP_NOW",
     "landingUrl": "https://torraslife.com/products/polarcircle-qi2-low-temp-wireless-charger-25w-fast-charge-with-power-adapter",
-    "keywords": [
-      "pet products",
-      "wireless charger"
-    ]
-  },
-  {
-    "pageName": "The Ridge",
-    "adCopy": "Charge iPhones with magsafe, Qi phones, USB-C wired, lightning wired AND an Apple Watch and get 10,000mAh in the palm of your hand. One thing to pack, five ways to power.",
-    "headline": "5 in 1 Powerbank",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 61,
-    "sentimentLabel": "neutral",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://ridge.com/pages/tech-MKBHD-6RLP",
-    "keywords": [
-      "general"
-    ]
-  },
-  {
-    "pageName": "SnapWireless",
-    "adCopy": "Don’t let charging slow you down abroad. The PowerPack Universal 2 is for travellers who want to stay powered without packing a bag full of cords. No adaptor swapping. No tangled cables. No wall plug chaos. • Built-in 80cm retractable cable • Works in 150+ countries • Built-in wireless charging • Large built-in battery From airport selfies to rooftop cocktails, you’re covered. Shop now 👇 https://snapwireless.com/products/powerpack-universal-2",
-    "headline": "The only charger you need for global travel.",
-    "isActive": true,
-    "platforms": [
-      "FACEBOOK",
-      "INSTAGRAM",
-      "AUDIENCE_NETWORK",
-      "MESSENGER",
-      "THREADS"
-    ],
-    "runDurationDays": 174,
-    "sentimentLabel": "negative",
-    "ctaType": "SHOP_NOW",
-    "landingUrl": "https://snapwireless.com/products/powerpack-universal-2",
     "keywords": [
       "pet products",
       "wireless charger"
