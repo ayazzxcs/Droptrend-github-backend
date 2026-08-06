@@ -1,59 +1,21 @@
 {
-  "updatedAt": "2026-08-05T14:03:35.199Z",
+  "updatedAt": "2026-08-06T02:15:43.423Z",
   "source": "Apify Meta Ad Library Scraper",
   "actorId": "webdatalabs/meta-ad-library-scraper",
   "country": "US",
-  "adCount": 120,
+  "adCount": 9,
   "signals": [
     {
-      "keyword": "pet products",
-      "activeAds": 48,
-      "totalAds": 48,
-      "avgRunDays": 152,
-      "platforms": {
-        "FACEBOOK": 48,
-        "INSTAGRAM": 48,
-        "AUDIENCE_NETWORK": 25,
-        "MESSENGER": 44,
-        "WHATSAPP": 1,
-        "THREADS": 34
-      },
-      "sampleAds": [
-        {
-          "pageName": "Catalyst Pet Natural Litter",
-          "headline": "{{product.name}}",
-          "adCopy": "{{product.brand}}",
-          "landingUrl": "https://catalystpet.com/pages/5-reasons",
-          "runDurationDays": 450
-        },
-        {
-          "pageName": "Jessica Bennett",
-          "headline": "Feel Like Yourself Again",
-          "adCopy": "I found something at Walmart last Tuesday that changed my life. I wasn't looking for it. I went in for cat litter and a rotisserie chicken. I came out with a bag of cat litter, a r",
-          "landingUrl": "https://alevia.com/products/amla-192011/",
-          "runDurationDays": 30
-        },
-        {
-          "pageName": "Meowant",
-          "headline": "🚩Clean your cat litter box easily!!",
-          "adCopy": "Make your life easier! No more daily scoop! 💥Meowant Valentine’s Deal! 👉Get EXTRA $350 off with code:LOVE350🐾",
-          "landingUrl": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
-          "runDurationDays": 179
-        }
-      ],
-      "metaAdScore": 99
-    },
-    {
       "keyword": "cat litter box",
-      "activeAds": 25,
-      "totalAds": 25,
-      "avgRunDays": 140,
+      "activeAds": 8,
+      "totalAds": 8,
+      "avgRunDays": 121,
       "platforms": {
-        "FACEBOOK": 25,
-        "INSTAGRAM": 24,
-        "AUDIENCE_NETWORK": 13,
-        "MESSENGER": 19,
-        "THREADS": 12,
+        "FACEBOOK": 8,
+        "INSTAGRAM": 8,
+        "AUDIENCE_NETWORK": 4,
+        "MESSENGER": 7,
+        "THREADS": 7,
         "WHATSAPP": 1
       },
       "sampleAds": [
@@ -79,94 +41,58 @@
           "runDurationDays": 30
         }
       ],
-      "metaAdScore": 90
+      "metaAdScore": 73
     },
     {
-      "keyword": "beauty tools",
-      "activeAds": 24,
-      "totalAds": 24,
-      "avgRunDays": 184,
+      "keyword": "pet products",
+      "activeAds": 5,
+      "totalAds": 5,
+      "avgRunDays": 162,
       "platforms": {
-        "FACEBOOK": 24,
-        "INSTAGRAM": 24,
-        "MESSENGER": 20,
-        "THREADS": 17,
-        "AUDIENCE_NETWORK": 12
+        "FACEBOOK": 5,
+        "INSTAGRAM": 5,
+        "AUDIENCE_NETWORK": 4,
+        "MESSENGER": 4,
+        "WHATSAPP": 1,
+        "THREADS": 3
       },
       "sampleAds": [
         {
-          "pageName": "Square",
-          "headline": "Square",
-          "adCopy": "See your cash flow in real time — right next to your bookings. Financial tools built for beauty that no specialist offers.",
-          "landingUrl": "https://squareup.com/t/tid_10415/team_performance_mktg/onbd_self/funnel_lower/cmtp_performance/pr_cross_product/d_paid_social/tar_prospect/p_facebook/cn_evergreen/l_us?route=/us/en/campaign/cross-product-center-evergreen",
-          "runDurationDays": 48
-        },
-        {
-          "pageName": "Amazon Beauty",
+          "pageName": "Catalyst Pet Natural Litter",
           "headline": "{{product.name}}",
-          "adCopy": "Shop customers' most-loved beauty",
-          "landingUrl": "https://www.amazon.com/?tag=fbasapdisc-us-20&ascsubtag=pfb-DISC-1-9-f4nruabgzxy2ehfr&mcid=44c7df3209af3fbd8c594c228e2b8868",
-          "runDurationDays": 43
+          "adCopy": "{{product.brand}}",
+          "landingUrl": "https://catalystpet.com/pages/5-reasons",
+          "runDurationDays": 450
         },
         {
-          "pageName": "Sally Beauty",
-          "headline": "",
-          "adCopy": "Bondbar helps strengthen and repair all hair types and textures. Discover the power of bond repair for happier, healthier hair.",
-          "landingUrl": "https://www.sallybeauty.com/brands/bondbar/",
-          "runDurationDays": 106
+          "pageName": "Jessica Bennett",
+          "headline": "Feel Like Yourself Again",
+          "adCopy": "I found something at Walmart last Tuesday that changed my life. I wasn't looking for it. I went in for cat litter and a rotisserie chicken. I came out with a bag of cat litter, a r",
+          "landingUrl": "https://alevia.com/products/amla-192011/",
+          "runDurationDays": 30
+        },
+        {
+          "pageName": "Meowant",
+          "headline": "🚩Clean your cat litter box easily!!",
+          "adCopy": "Make your life easier! No more daily scoop! 💥Meowant Valentine’s Deal! 👉Get EXTRA $350 off with code:LOVE350🐾",
+          "landingUrl": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+          "runDurationDays": 179
         }
       ],
-      "metaAdScore": 89
-    },
-    {
-      "keyword": "general",
-      "activeAds": 23,
-      "totalAds": 23,
-      "avgRunDays": 140,
-      "platforms": {
-        "FACEBOOK": 20,
-        "INSTAGRAM": 23,
-        "AUDIENCE_NETWORK": 11,
-        "MESSENGER": 13,
-        "THREADS": 10
-      },
-      "sampleAds": [
-        {
-          "pageName": "Sell on Amazon",
-          "headline": "Sell on Amazon",
-          "adCopy": "Sellers can focus on specific audiences with specific needs.",
-          "landingUrl": "https://sell.amazon.com/blog/niche-market",
-          "runDurationDays": 118
-        },
-        {
-          "pageName": "Chewy",
-          "headline": "Vitamins & Supplements",
-          "adCopy": "Allergies are tough. Finding the right supplements shouldn't be. Get them at Chewy and save 50% off first Autoship order.",
-          "landingUrl": "https://www.chewy.com/b/vitamins-supplements-417",
-          "runDurationDays": 36
-        },
-        {
-          "pageName": "Active",
-          "headline": "",
-          "adCopy": "Click for 15% Amazon Promo Code",
-          "landingUrl": "https://activecleaningshop.com/o3zuew",
-          "runDurationDays": 464
-        }
-      ],
-      "metaAdScore": 88
+      "metaAdScore": 67
     },
     {
       "keyword": "kitchen gadget",
-      "activeAds": 18,
-      "totalAds": 18,
-      "avgRunDays": 98,
+      "activeAds": 2,
+      "totalAds": 2,
+      "avgRunDays": 51,
       "platforms": {
-        "FACEBOOK": 17,
-        "INSTAGRAM": 18,
-        "AUDIENCE_NETWORK": 8,
-        "WHATSAPP": 2,
-        "THREADS": 7,
-        "MESSENGER": 11
+        "FACEBOOK": 2,
+        "INSTAGRAM": 2,
+        "AUDIENCE_NETWORK": 2,
+        "WHATSAPP": 1,
+        "THREADS": 2,
+        "MESSENGER": 1
       },
       "sampleAds": [
         {
@@ -182,90 +108,9 @@
           "adCopy": "My sister Lauren called me on a Wednesday night and described every single symptom I'd been telling her about for three years. Word for word. Like reading from a list she used to r",
           "landingUrl": "https://whisko.co/pages/advertorial-ammonia-v1?_ab=0&key=1779730346698",
           "runDurationDays": 72
-        },
-        {
-          "pageName": "Creator Finds IQ",
-          "headline": "Perfect Butter Slices",
-          "adCopy": "I am officially done with messy butter wrappers and uneven slices. 🧈 This gadget is a total game-changer for my morning toast and baking prep. It measures perfectly every single t",
-          "landingUrl": "https://socialiqdealsnow.com/?url=https://goto.walmart.com/c/3002547/1398372/16662%3FsubId3%3Daa8597ff-a880-48c5-b536-91dfd64f2fd9%26sourceid%3Dimp_000011112222333344%26veh%3Daff%26u%3Dhttps%253A%252F%252Fwww.walmart.com%252Fcreator%252Fcollections%253Fid%253D49197&tracking_id=aa8597ff-a880-48c5-b536-91dfd64f2fd9&social=true&network=impact",
-          "runDurationDays": 91
         }
       ],
-      "metaAdScore": 85
-    },
-    {
-      "keyword": "skincare",
-      "activeAds": 13,
-      "totalAds": 13,
-      "avgRunDays": 225,
-      "platforms": {
-        "FACEBOOK": 13,
-        "INSTAGRAM": 13,
-        "AUDIENCE_NETWORK": 6,
-        "MESSENGER": 11,
-        "THREADS": 10
-      },
-      "sampleAds": [
-        {
-          "pageName": "Purplle.com",
-          "headline": "{{product.name}}",
-          "adCopy": "𝐏𝐮𝐫𝐩𝐥𝐥𝐞, India’s #1 beauty destination. Enjoy up to 60% off on top skincare, haircare, and makeup brands! ✅ Free Shipping on all orders ✅ Cash on Delivery ✅ 100% Genuine Pro",
-          "landingUrl": "http://play.google.com/store/apps/details?id=com.manash.purplle",
-          "runDurationDays": 121
-        },
-        {
-          "pageName": "Primally Pure Skincare",
-          "headline": "{{product.name}}",
-          "adCopy": "Clean skincare made with ingredients you can actually trust. Thoughtfully crafted to nourish your skin—without fillers, toxins, or compromises.",
-          "landingUrl": "http://primallypure.com/",
-          "runDurationDays": 158
-        },
-        {
-          "pageName": "Solawave",
-          "headline": "Buy One, Get One FREE ✨",
-          "adCopy": "🚨 OUR BIGGEST SALE EVER — LIVE NOW 🚨 Buy One, Get One FREE on our best-selling LED Face Mask and skincare tools. This is the easiest way to glow brighter, lift your skin, and giv",
-          "landingUrl": "https://www.solawave.co/products/wrinkle-retreat-pro-light-therapy-face-mask",
-          "runDurationDays": 110
-        }
-      ],
-      "metaAdScore": 80
-    },
-    {
-      "keyword": "wireless charger",
-      "activeAds": 11,
-      "totalAds": 11,
-      "avgRunDays": 110,
-      "platforms": {
-        "INSTAGRAM": 11,
-        "FACEBOOK": 10,
-        "AUDIENCE_NETWORK": 6,
-        "MESSENGER": 6,
-        "THREADS": 5
-      },
-      "sampleAds": [
-        {
-          "pageName": "Everything Envy",
-          "headline": "",
-          "adCopy": "You’re not living right if this isn’t in your kitchen…👀 This is your sign to add this 4-in-1 retractable charger to your kitchen ASAP. It fast charges, keeps cords out of sight, a",
-          "landingUrl": "https://urlgeni.us/amzn/retractablechargeradrepostigfeed_EE",
-          "runDurationDays": 127
-        },
-        {
-          "pageName": "LivoWish",
-          "headline": "Start 2026 Healthy 🥗",
-          "adCopy": "Meal prep faster! Wireless & portable, perfect for fresh salads & clean eating.",
-          "landingUrl": "https://livowish.com/products/portable-mini-food-chopper",
-          "runDurationDays": 139
-        },
-        {
-          "pageName": "Gadgets",
-          "headline": "📱Charge Fast. Drive Safe",
-          "adCopy": "🚗⚡📱 Charge Fast. Drive Safe. ✅ 7.5–15W fast wireless charging ✅ Auto‑clamping arms for secure one‑hand use 🛒Wireless Car Charger & Holder： https://cutt.ly/htv2b8QP 💡More automo",
-          "landingUrl": "https://cutt.ly/htv2b8QP",
-          "runDurationDays": 167
-        }
-      ],
-      "metaAdScore": 78
+      "metaAdScore": 56
     }
   ]
 }
