@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T12:56:37.269Z",
-  "count": 6012,
+  "updatedAt": "2026-08-08T01:19:54.650Z",
+  "count": 5965,
   "maxPages": 30,
   "pageSize": 200,
   "source": "CJdropshipping",
@@ -8,7 +8,7 @@
   "normalCount": 6000,
   "trendingCount": 12,
   "note": "CJ trending endpoint can return a small number of products; full product list is used for scale and trending products are boosted when available.",
-  "metaEnhancedAt": "2026-08-07T12:56:58.914Z",
+  "metaEnhancedAt": "2026-08-08T01:20:36.891Z",
   "metaSignals": 0,
   "metaSource": "Apify Meta Ad Library Scraper"
 }
