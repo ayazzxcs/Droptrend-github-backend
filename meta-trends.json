@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T02:52:29.907Z",
+  "updatedAt": "2026-09-05T14:34:13.117Z",
   "source": "Apify Meta Ad Library Scraper",
   "actorId": "webdatalabs/meta-ad-library-scraper",
   "country": "US",
@@ -7,189 +7,189 @@
   "signals": [
     {
       "keyword": "pet products",
-      "activeAds": 54,
-      "totalAds": 54,
-      "avgRunDays": 2,
+      "activeAds": 103,
+      "totalAds": 103,
+      "avgRunDays": 1,
       "platforms": {
-        "FACEBOOK": 54,
-        "INSTAGRAM": 54,
-        "AUDIENCE_NETWORK": 43,
-        "MESSENGER": 48,
-        "THREADS": 46,
-        "WHATSAPP": 20
+        "FACEBOOK": 103,
+        "INSTAGRAM": 102,
+        "AUDIENCE_NETWORK": 88,
+        "MESSENGER": 89,
+        "WHATSAPP": 61,
+        "THREADS": 97
       },
       "sampleAds": [
         {
-          "pageName": "Cat Health Insider",
-          "headline": "This is The Real Reason Your Cat Pees Outside The Litter Box 👆",
-          "adCopy": "Is your cat peeing on the couch, the rug, the laundry pile — everywhere except the litter box? Chances are your cat has Feline Idiopathic Cystitis (FIC). It is a stress-induced inf",
-          "landingUrl": "https://pynklily.com/pages/adve2",
+          "pageName": "PawSwing",
+          "headline": "PawSwing",
+          "adCopy": "Tired of playing \"hide-and-seek\" with stray cat litter every single day? 😩 Say goodbye to messy floors, awkward plastic boxes in plain sight, and endless sweeping. Meet the ultima",
+          "landingUrl": "https://pawswing.com/products/metal-cat-litter-box-enclosure-diy-kit",
           "runDurationDays": 0
         },
         {
-          "pageName": "Pet Studio",
-          "headline": "Can't escape cat litter smell? Read this 👆",
-          "adCopy": "The litter box in my 480 square foot studio has exactly one place it can go, and the smell from it slowly pushed me out of my own apartment, one corner at a time. In a studio, ever",
-          "landingUrl": "https://whisko.co/pages/litterbox-odor-small-spaces?_ab=0&key=1786321072000",
+          "pageName": "Chaoou",
+          "headline": "Clean Litter Box In 5 Seconds 😼",
+          "adCopy": "Tired of messy litter‑box chores? This tool finishes cleaning in just 5 seconds. No electricity or batteries needed. Make cat‑parent life so much easier. #CatGear #PetHacks",
+          "landingUrl": "https://chaoou.click/products/clean-your-litter-box-in-5-seconds-no-electricity",
           "runDurationDays": 0
         },
         {
-          "pageName": "Renva",
-          "headline": "😾 Everyone's Fixed. Still Fighting?",
-          "adCopy": "Everyone's fixed. The vet found nothing. And it's still happening. 😾 The fighting. The spraying. The 3am yowling. It isn't spite and it isn't hormones. It's territorial stress. An",
-          "landingUrl": "https://getrenva.com/products/renva-harmony-collar",
+          "pageName": "Vinben-C",
+          "headline": "",
+          "adCopy": "💰 Cheap scoops crack in months? This one lasts until your cat grows old 🛠️ 2-in-1 Cat Litter Scoop｜Thickened & Reinforced｜Built to Last｜One Investment, Years of Use ✅ Thickened, ",
+          "landingUrl": "https://www.vinben.com/products/cs?st",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 82
+      "metaAdScore": 79
     },
     {
-      "keyword": "cat litter box",
-      "activeAds": 51,
-      "totalAds": 51,
-      "avgRunDays": 0,
+      "keyword": "beauty tools",
+      "activeAds": 38,
+      "totalAds": 38,
+      "avgRunDays": 1,
       "platforms": {
-        "FACEBOOK": 50,
-        "INSTAGRAM": 51,
-        "AUDIENCE_NETWORK": 40,
-        "MESSENGER": 42,
-        "THREADS": 38,
-        "WHATSAPP": 17
+        "FACEBOOK": 38,
+        "INSTAGRAM": 38,
+        "AUDIENCE_NETWORK": 35,
+        "MESSENGER": 35,
+        "THREADS": 36,
+        "WHATSAPP": 25
       },
       "sampleAds": [
         {
-          "pageName": "DramaBox-new drama&movies19",
-          "headline": "The Day My Stepbrother Knows My Dirty Secret",
-          "adCopy": "I accidentally give my crush’s rival a love letter—then realize it’s actually the porn I wrote. Worse, he turns out to be my new stepbrother- a total devil! Now we’re stuck living ",
-          "landingUrl": "https://fb.dramabox.com/db_land_page/DLLPF1164228.html?language=en&timestamp=1788568829018&channelCode=DLLPF1164228&bid=42000008760&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&ad_group_name={{adset.name}}&ad_group_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}",
+          "pageName": "Vinben-C",
+          "headline": "",
+          "adCopy": "💰 Cheap scoops crack in months? This one lasts until your cat grows old 🛠️ 2-in-1 Cat Litter Scoop｜Thickened & Reinforced｜Built to Last｜One Investment, Years of Use ✅ Thickened, ",
+          "landingUrl": "https://www.vinben.com/products/cs?st",
           "runDurationDays": 0
         },
         {
-          "pageName": "Cat Health Insider",
-          "headline": "This is The Real Reason Your Cat Pees Outside The Litter Box 👆",
-          "adCopy": "Is your cat peeing on the couch, the rug, the laundry pile — everywhere except the litter box? Chances are your cat has Feline Idiopathic Cystitis (FIC). It is a stress-induced inf",
-          "landingUrl": "https://pynklily.com/pages/adve2",
-          "runDurationDays": 0
+          "pageName": "Espher",
+          "headline": "",
+          "adCopy": "✨ 7-Day ESPHER Challenge ✨ Just 5 minutes a day. That’s all it takes to make time for yourself. Join me for 7 days of consistent facial massage with ESPHER and see how your skin lo",
+          "landingUrl": "https://myespher.com/store/p/espher",
+          "runDurationDays": 1
         },
         {
-          "pageName": "Cat Health Insider",
-          "headline": "This is The Real Reason Your Cat Pees Outside The Litter Box 👆",
-          "adCopy": "Your vet ran the tests. Urinalysis came back clean. Bloodwork normal. She looked at you and said \"it's behavioural\" and sent you home with a bill and no answers. But that's not a d",
-          "landingUrl": "https://pynklily.com/pages/adve2",
+          "pageName": "Salon Brands",
+          "headline": "SHOP 30% OFF STOREWIDE!",
+          "adCopy": "LABOR DAY WEEKEND JUST GOT A WHOLE LOT BETTER... GET 30% OFF EVERYTHING. STOREWIDE.🔥 And this one’s BIG because we DON’T usually let our 30% OFF sale run this long! 👀 🛍️ SHOP IN",
+          "landingUrl": "http://salonbrandsbeauty.com/",
           "runDurationDays": 0
         }
       ],
       "metaAdScore": 75
     },
     {
-      "keyword": "beauty tools",
-      "activeAds": 27,
-      "totalAds": 27,
-      "avgRunDays": 2,
-      "platforms": {
-        "FACEBOOK": 27,
-        "INSTAGRAM": 27,
-        "AUDIENCE_NETWORK": 17,
-        "MESSENGER": 20,
-        "WHATSAPP": 11,
-        "THREADS": 16
-      },
-      "sampleAds": [
-        {
-          "pageName": "Upper Clarity School of Stone Medicine",
-          "headline": "Use stones & crystals for 10X more powerful & meaningful results",
-          "adCopy": "Your draw to stones and crystals has felt easy and natural. You light up when you encounter that stone that feels made for you. You've always appreciated the beauty and even felt t",
-          "landingUrl": "https://www.upperclarity.com/secrets-in-stone",
-          "runDurationDays": 1
-        },
-        {
-          "pageName": "Upper Clarity School of Stone Medicine",
-          "headline": "Use stones & crystals for 10X more powerful & meaningful results",
-          "adCopy": "Your draw to stones and crystals has felt easy and natural. You light up when you encounter that stone that feels made for you. You've always appreciated the beauty and even felt t",
-          "landingUrl": "https://www.upperclarity.com/secrets-in-stone",
-          "runDurationDays": 1
-        },
-        {
-          "pageName": "Upper Clarity School of Stone Medicine",
-          "headline": "Use stones & crystals for 10X more powerful & meaningful results",
-          "adCopy": "Your draw to stones and crystals has felt easy and natural. You light up when you encounter that stone that feels made for you. You've always appreciated the beauty and even felt t",
-          "landingUrl": "https://www.upperclarity.com/secrets-in-stone",
-          "runDurationDays": 1
-        }
-      ],
-      "metaAdScore": 72
-    },
-    {
       "keyword": "skincare",
-      "activeAds": 18,
-      "totalAds": 18,
+      "activeAds": 19,
+      "totalAds": 19,
       "avgRunDays": 4,
       "platforms": {
-        "FACEBOOK": 18,
-        "INSTAGRAM": 18,
-        "AUDIENCE_NETWORK": 11,
-        "MESSENGER": 14,
-        "THREADS": 10,
-        "WHATSAPP": 6
+        "FACEBOOK": 19,
+        "INSTAGRAM": 19,
+        "MESSENGER": 8,
+        "WHATSAPP": 4,
+        "THREADS": 14,
+        "AUDIENCE_NETWORK": 13
       },
       "sampleAds": [
+        {
+          "pageName": "Espher",
+          "headline": "",
+          "adCopy": "✨ 7-Day ESPHER Challenge ✨ Just 5 minutes a day. That’s all it takes to make time for yourself. Join me for 7 days of consistent facial massage with ESPHER and see how your skin lo",
+          "landingUrl": "https://myespher.com/store/p/espher",
+          "runDurationDays": 1
+        },
+        {
+          "pageName": "TYMO Beauty",
+          "headline": "Get Yours",
+          "adCopy": "Invest in Your Hair. You Wear It Every Day. 💎 You spend money on skincare. On clothes. On coffee. But what about your hair—the one thing people notice first? The TYMO INFRARED STY",
+          "landingUrl": "https://tymobeauty.com/products/tymo-infrared-stylux",
+          "runDurationDays": 0
+        },
         {
           "pageName": "Goodness Clean Beauty",
           "headline": "100% Vegan & Cruelty-Free",
           "adCopy": "Plant-Powered Skincare.",
           "landingUrl": "https://www.goodnessproducts.com/collections/all-products",
           "runDurationDays": 17
-        },
-        {
-          "pageName": "Goodness Clean Beauty",
-          "headline": "Meet Goodness 💚",
-          "adCopy": "“I never know what to get you\". Literally just skincare! Bonus points when it’s vegan, cruelty-free + made in New Zealand.",
-          "landingUrl": "https://www.goodnessproducts.com/collections/all-products",
-          "runDurationDays": 15
-        },
-        {
-          "pageName": "INIA",
-          "headline": "",
-          "adCopy": "We work out our bodies… but what about our face? While using the INIA FLARE, I became curious about the little pulses I could feel during LIFT mode, so I wanted to understand what ",
-          "landingUrl": "https://theinia.com/products/inia-microcurrent-facial-device",
-          "runDurationDays": 3
         }
       ],
       "metaAdScore": 70
     },
     {
-      "keyword": "kitchen gadget",
-      "activeAds": 30,
-      "totalAds": 30,
+      "keyword": "cat litter box",
+      "activeAds": 33,
+      "totalAds": 33,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 27,
-        "INSTAGRAM": 30,
-        "AUDIENCE_NETWORK": 18,
-        "MESSENGER": 18,
-        "WHATSAPP": 14,
-        "THREADS": 17
+        "FACEBOOK": 33,
+        "INSTAGRAM": 32,
+        "AUDIENCE_NETWORK": 25,
+        "MESSENGER": 31,
+        "WHATSAPP": 17,
+        "THREADS": 31
       },
       "sampleAds": [
         {
-          "pageName": "Natalie Rose",
-          "headline": "Your litterbox is making you sick, you just can't tell",
-          "adCopy": "My sister Lauren called me on a Wednesday night and described every single symptom I'd been telling her about for three years. Word for word. Like reading from a list she used to r",
-          "landingUrl": "https://imdsr3-np.myshopify.com/",
+          "pageName": "PawSwing",
+          "headline": "PawSwing",
+          "adCopy": "Tired of playing \"hide-and-seek\" with stray cat litter every single day? 😩 Say goodbye to messy floors, awkward plastic boxes in plain sight, and endless sweeping. Meet the ultima",
+          "landingUrl": "https://pawswing.com/products/metal-cat-litter-box-enclosure-diy-kit",
           "runDurationDays": 0
         },
         {
-          "pageName": "Pet Studio",
-          "headline": "Can't escape cat litter smell? Read this 👆",
-          "adCopy": "The litter box in my 480 square foot studio has exactly one place it can go, and the smell from it slowly pushed me out of my own apartment, one corner at a time. In a studio, ever",
-          "landingUrl": "https://whisko.co/pages/litterbox-odor-small-spaces?_ab=0&key=1786321072000",
+          "pageName": "Chaoou",
+          "headline": "Clean Litter Box In 5 Seconds 😼",
+          "adCopy": "Tired of messy litter‑box chores? This tool finishes cleaning in just 5 seconds. No electricity or batteries needed. Make cat‑parent life so much easier. #CatGear #PetHacks",
+          "landingUrl": "https://chaoou.click/products/clean-your-litter-box-in-5-seconds-no-electricity",
           "runDurationDays": 0
         },
         {
-          "pageName": "Alpha’s Vow-n3",
-          "headline": "Read next chapter👉🏻",
-          "adCopy": "Exiled. Disowned. Arrested for defending herself. Elena was supposed to stay broken. Instead, she defeats two hunters, removes three silver bullets, and saves the most powerful Alp",
-          "landingUrl": "https://weread.novelspark.net/overseas-glow/novelspark/1385134290212332/7da871c8e3234fff969c70b78a9d398b?c_name=feishu_fbh5_novelspark_all_20481_api_zll_aeo_0904_191058qyn-%E6%B5%8B%E4%B9%A6&adset_name=2&ad_name=2026_20481_xq2082_dbc_0904_9X16_1",
+          "pageName": "Vinben-C",
+          "headline": "",
+          "adCopy": "💰 Cheap scoops crack in months? This one lasts until your cat grows old 🛠️ 2-in-1 Cat Litter Scoop｜Thickened & Reinforced｜Built to Last｜One Investment, Years of Use ✅ Thickened, ",
+          "landingUrl": "https://www.vinben.com/products/cs?st",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 69
+    },
+    {
+      "keyword": "kitchen gadget",
+      "activeAds": 29,
+      "totalAds": 29,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 29,
+        "INSTAGRAM": 28,
+        "MESSENGER": 27,
+        "THREADS": 28,
+        "AUDIENCE_NETWORK": 22,
+        "WHATSAPP": 22
+      },
+      "sampleAds": [
+        {
+          "pageName": "North Bridge Cat Rescue",
+          "headline": "Read This If Your Resident Cat is Hurting Your New Kitten",
+          "adCopy": "I am going to say something that nobody introducing a new cat into their home wants to hear and I genuinely do not care if it upsets you. Jackson Galaxy's slow introduction is not ",
+          "landingUrl": "https://pawcarelabs.com/pages/5-reasons-inter-cat-aggression",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Melissa Donnelly",
+          "headline": "If you own a cat, read this",
+          "adCopy": "I've built a career treating cats that eat poached salmon off bone china in Manhattan penthouses. So when a client's cat kept getting sicker even after spending $72,000, I finally ",
+          "landingUrl": "https://webreathair.com/products/mold-testing-kit",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Melissa Donnelly",
+          "headline": "If you own a cat, read this",
+          "adCopy": "I've built a career treating cats that eat poached salmon off bone china in Manhattan penthouses. So when a client's cat kept getting sicker even after spending $72,000, I finally ",
+          "landingUrl": "https://webreathair.com/products/mold-testing-kit",
           "runDurationDays": 0
         }
       ],
@@ -197,77 +197,60 @@
     },
     {
       "keyword": "wireless charger",
-      "activeAds": 18,
-      "totalAds": 18,
+      "activeAds": 22,
+      "totalAds": 22,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 18,
-        "INSTAGRAM": 18,
-        "AUDIENCE_NETWORK": 10,
-        "MESSENGER": 10,
-        "THREADS": 10,
-        "WHATSAPP": 2
+        "FACEBOOK": 22,
+        "INSTAGRAM": 22,
+        "MESSENGER": 21,
+        "WHATSAPP": 19,
+        "THREADS": 21,
+        "AUDIENCE_NETWORK": 18
       },
       "sampleAds": [
         {
-          "pageName": "Spencer Langley",
-          "headline": "Gateway NE56R43u Laptop",
-          "adCopy": "Gateway NE56R43u Laptop - $70.00 Functional Gateway laptop has an Intel B960 processor and a 15.6-inch HD LED LCD screen. includes 4 GB of DDR3 memory and a 750 GB HDD. It is equip",
-          "landingUrl": "https://facebook.com/marketplace/item/1410733677864124/",
+          "pageName": "Cat Wellness Journal",
+          "headline": "Read If You Own A Cat Water Fountain👆",
+          "adCopy": "I ordered a cat water fountain on Amazon. The listing came up when I searched \"Cattasaurus.\" The reviews looked great. I hit Buy Now. Turns out I got scammed for $89. And I didn't ",
+          "landingUrl": "https://cattasaurus.com/pages/wf-advert-02",
           "runDurationDays": 0
         },
         {
-          "pageName": "Ahmed Jamal",
-          "headline": "2024 Acura ZDX · Sport Utility 4D",
-          "adCopy": "2024 Acura ZDX · Sport Utility 4D - $28,000.00 2024 Acura ZDX TYPS-S AWD Full electric car, comes with charger 110v & 240v Can be charged at super charging stations Full charge giv",
-          "landingUrl": "https://facebook.com/marketplace/item/1717671156198374/",
+          "pageName": "Margaret Ellison",
+          "headline": "Read if one cat is always quiet. ☝️",
+          "adCopy": "We Have Two Cats and It Took Us Two Years to Figure Out That One of Them Has Been Quietly Dehydrated the Entire Time Because of Where We Put the Water Fountain I'm writing this for",
+          "landingUrl": "https://cattasaurus.com/waterfountain001",
           "runDurationDays": 0
         },
         {
-          "pageName": "Mark T Paslay",
-          "headline": "2017 Chevrolet Malibu",
-          "adCopy": "Very clean, runs well, Leather interior, power windows and seats Backup camera, Android auto & Apple CarPlay, Wireless phone charger, & sunroof, weathertech floor mats everything w",
-          "landingUrl": "https://facebook.com/marketplace/item/1643352623885845/",
+          "pageName": "Cat Wellness Journal",
+          "headline": "Read if your senior cat is slowing down 👆",
+          "adCopy": "I’m 68 years old... and everyone laughed when I said I was adopting two senior cats. They said I was too old. Too slow. \"2 senior cats at your age? You're asking for vet bills you ",
+          "landingUrl": "https://cattasaurus.com/pages/wf-advert-02",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 60
+      "metaAdScore": 63
     },
     {
       "keyword": "general",
-      "activeAds": 5,
-      "totalAds": 5,
+      "activeAds": 1,
+      "totalAds": 1,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 5,
-        "INSTAGRAM": 4,
-        "MESSENGER": 2,
-        "THREADS": 1
+        "FACEBOOK": 1
       },
       "sampleAds": [
         {
-          "pageName": "Michelle Bennett",
-          "headline": "Feel Comfortable. Smell Fresher. Guaranteed.",
-          "adCopy": "If you want to feel fresh and comfortable again, the solution isn't hygiene, it actually makes it worse. Thousands of women are switching to Flora+ by AllFeams; a daily 4-in-1 gumm",
-          "landingUrl": "https://try.allfeams.com/pages/vaginal-support",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Dana Stahl",
+          "pageName": "J&R Liquidations",
           "headline": "",
-          "adCopy": "#shoppingday",
-          "landingUrl": "",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Luxury Bags Daily",
-          "headline": "",
-          "adCopy": "Labor Day Sale! $20 OFF every bag!",
+          "adCopy": "Happy Saturday from J & R Homestore! It’s Sept. 5th. at 8am IT IS LABOR DAY WEEKEND And we have some WILD ITEMS AND CRAZY PRICES today at 930 Plantation dr. Stop on down!!!336-350-",
           "landingUrl": "",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 42
+      "metaAdScore": 15
     }
   ]
 }
