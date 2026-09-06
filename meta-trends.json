@@ -1,256 +1,123 @@
 {
-  "updatedAt": "2026-09-05T14:34:13.117Z",
+  "updatedAt": "2026-09-06T02:50:26.172Z",
   "source": "Apify Meta Ad Library Scraper",
   "actorId": "webdatalabs/meta-ad-library-scraper",
   "country": "US",
-  "adCount": 120,
+  "adCount": 9,
   "signals": [
     {
-      "keyword": "pet products",
-      "activeAds": 103,
-      "totalAds": 103,
-      "avgRunDays": 1,
-      "platforms": {
-        "FACEBOOK": 103,
-        "INSTAGRAM": 102,
-        "AUDIENCE_NETWORK": 88,
-        "MESSENGER": 89,
-        "WHATSAPP": 61,
-        "THREADS": 97
-      },
-      "sampleAds": [
-        {
-          "pageName": "PawSwing",
-          "headline": "PawSwing",
-          "adCopy": "Tired of playing \"hide-and-seek\" with stray cat litter every single day? 😩 Say goodbye to messy floors, awkward plastic boxes in plain sight, and endless sweeping. Meet the ultima",
-          "landingUrl": "https://pawswing.com/products/metal-cat-litter-box-enclosure-diy-kit",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Chaoou",
-          "headline": "Clean Litter Box In 5 Seconds 😼",
-          "adCopy": "Tired of messy litter‑box chores? This tool finishes cleaning in just 5 seconds. No electricity or batteries needed. Make cat‑parent life so much easier. #CatGear #PetHacks",
-          "landingUrl": "https://chaoou.click/products/clean-your-litter-box-in-5-seconds-no-electricity",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Vinben-C",
-          "headline": "",
-          "adCopy": "💰 Cheap scoops crack in months? This one lasts until your cat grows old 🛠️ 2-in-1 Cat Litter Scoop｜Thickened & Reinforced｜Built to Last｜One Investment, Years of Use ✅ Thickened, ",
-          "landingUrl": "https://www.vinben.com/products/cs?st",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 79
-    },
-    {
-      "keyword": "beauty tools",
-      "activeAds": 38,
-      "totalAds": 38,
-      "avgRunDays": 1,
-      "platforms": {
-        "FACEBOOK": 38,
-        "INSTAGRAM": 38,
-        "AUDIENCE_NETWORK": 35,
-        "MESSENGER": 35,
-        "THREADS": 36,
-        "WHATSAPP": 25
-      },
-      "sampleAds": [
-        {
-          "pageName": "Vinben-C",
-          "headline": "",
-          "adCopy": "💰 Cheap scoops crack in months? This one lasts until your cat grows old 🛠️ 2-in-1 Cat Litter Scoop｜Thickened & Reinforced｜Built to Last｜One Investment, Years of Use ✅ Thickened, ",
-          "landingUrl": "https://www.vinben.com/products/cs?st",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Espher",
-          "headline": "",
-          "adCopy": "✨ 7-Day ESPHER Challenge ✨ Just 5 minutes a day. That’s all it takes to make time for yourself. Join me for 7 days of consistent facial massage with ESPHER and see how your skin lo",
-          "landingUrl": "https://myespher.com/store/p/espher",
-          "runDurationDays": 1
-        },
-        {
-          "pageName": "Salon Brands",
-          "headline": "SHOP 30% OFF STOREWIDE!",
-          "adCopy": "LABOR DAY WEEKEND JUST GOT A WHOLE LOT BETTER... GET 30% OFF EVERYTHING. STOREWIDE.🔥 And this one’s BIG because we DON’T usually let our 30% OFF sale run this long! 👀 🛍️ SHOP IN",
-          "landingUrl": "http://salonbrandsbeauty.com/",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 75
-    },
-    {
-      "keyword": "skincare",
-      "activeAds": 19,
-      "totalAds": 19,
-      "avgRunDays": 4,
-      "platforms": {
-        "FACEBOOK": 19,
-        "INSTAGRAM": 19,
-        "MESSENGER": 8,
-        "WHATSAPP": 4,
-        "THREADS": 14,
-        "AUDIENCE_NETWORK": 13
-      },
-      "sampleAds": [
-        {
-          "pageName": "Espher",
-          "headline": "",
-          "adCopy": "✨ 7-Day ESPHER Challenge ✨ Just 5 minutes a day. That’s all it takes to make time for yourself. Join me for 7 days of consistent facial massage with ESPHER and see how your skin lo",
-          "landingUrl": "https://myespher.com/store/p/espher",
-          "runDurationDays": 1
-        },
-        {
-          "pageName": "TYMO Beauty",
-          "headline": "Get Yours",
-          "adCopy": "Invest in Your Hair. You Wear It Every Day. 💎 You spend money on skincare. On clothes. On coffee. But what about your hair—the one thing people notice first? The TYMO INFRARED STY",
-          "landingUrl": "https://tymobeauty.com/products/tymo-infrared-stylux",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Goodness Clean Beauty",
-          "headline": "100% Vegan & Cruelty-Free",
-          "adCopy": "Plant-Powered Skincare.",
-          "landingUrl": "https://www.goodnessproducts.com/collections/all-products",
-          "runDurationDays": 17
-        }
-      ],
-      "metaAdScore": 70
-    },
-    {
       "keyword": "cat litter box",
-      "activeAds": 33,
-      "totalAds": 33,
+      "activeAds": 9,
+      "totalAds": 9,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 33,
-        "INSTAGRAM": 32,
-        "AUDIENCE_NETWORK": 25,
-        "MESSENGER": 31,
-        "WHATSAPP": 17,
-        "THREADS": 31
+        "FACEBOOK": 9,
+        "INSTAGRAM": 9,
+        "AUDIENCE_NETWORK": 9,
+        "MESSENGER": 9,
+        "THREADS": 9,
+        "WHATSAPP": 3
       },
       "sampleAds": [
         {
-          "pageName": "PawSwing",
-          "headline": "PawSwing",
-          "adCopy": "Tired of playing \"hide-and-seek\" with stray cat litter every single day? 😩 Say goodbye to messy floors, awkward plastic boxes in plain sight, and endless sweeping. Meet the ultima",
-          "landingUrl": "https://pawswing.com/products/metal-cat-litter-box-enclosure-diy-kit",
+          "pageName": "Cats With Kidney Disease Support Group",
+          "headline": "The hidden cause behind your cat's CKD...",
+          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
+          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
           "runDurationDays": 0
         },
         {
-          "pageName": "Chaoou",
-          "headline": "Clean Litter Box In 5 Seconds 😼",
-          "adCopy": "Tired of messy litter‑box chores? This tool finishes cleaning in just 5 seconds. No electricity or batteries needed. Make cat‑parent life so much easier. #CatGear #PetHacks",
-          "landingUrl": "https://chaoou.click/products/clean-your-litter-box-in-5-seconds-no-electricity",
+          "pageName": "Cats With Kidney Disease Support Group",
+          "headline": "The hidden cause behind your cat's CKD...",
+          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
+          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
           "runDurationDays": 0
         },
         {
-          "pageName": "Vinben-C",
-          "headline": "",
-          "adCopy": "💰 Cheap scoops crack in months? This one lasts until your cat grows old 🛠️ 2-in-1 Cat Litter Scoop｜Thickened & Reinforced｜Built to Last｜One Investment, Years of Use ✅ Thickened, ",
-          "landingUrl": "https://www.vinben.com/products/cs?st",
+          "pageName": "Cats With Kidney Disease Support Group",
+          "headline": "The hidden cause behind your cat's CKD...",
+          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
+          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 69
+      "metaAdScore": 50
+    },
+    {
+      "keyword": "pet products",
+      "activeAds": 8,
+      "totalAds": 8,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 8,
+        "INSTAGRAM": 8,
+        "AUDIENCE_NETWORK": 8,
+        "MESSENGER": 8,
+        "THREADS": 8,
+        "WHATSAPP": 3
+      },
+      "sampleAds": [
+        {
+          "pageName": "Cats With Kidney Disease Support Group",
+          "headline": "The hidden cause behind your cat's CKD...",
+          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
+          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Cats With Kidney Disease Support Group",
+          "headline": "The hidden cause behind your cat's CKD...",
+          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
+          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Cats With Kidney Disease Support Group",
+          "headline": "The hidden cause behind your cat's CKD...",
+          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
+          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 48
     },
     {
       "keyword": "kitchen gadget",
-      "activeAds": 29,
-      "totalAds": 29,
+      "activeAds": 7,
+      "totalAds": 7,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 29,
-        "INSTAGRAM": 28,
-        "MESSENGER": 27,
-        "THREADS": 28,
-        "AUDIENCE_NETWORK": 22,
-        "WHATSAPP": 22
+        "FACEBOOK": 7,
+        "INSTAGRAM": 7,
+        "AUDIENCE_NETWORK": 7,
+        "MESSENGER": 7,
+        "THREADS": 7,
+        "WHATSAPP": 3
       },
       "sampleAds": [
         {
-          "pageName": "North Bridge Cat Rescue",
-          "headline": "Read This If Your Resident Cat is Hurting Your New Kitten",
-          "adCopy": "I am going to say something that nobody introducing a new cat into their home wants to hear and I genuinely do not care if it upsets you. Jackson Galaxy's slow introduction is not ",
-          "landingUrl": "https://pawcarelabs.com/pages/5-reasons-inter-cat-aggression",
+          "pageName": "Cats With Kidney Disease Support Group",
+          "headline": "The hidden cause behind your cat's CKD...",
+          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
+          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
           "runDurationDays": 0
         },
         {
-          "pageName": "Melissa Donnelly",
-          "headline": "If you own a cat, read this",
-          "adCopy": "I've built a career treating cats that eat poached salmon off bone china in Manhattan penthouses. So when a client's cat kept getting sicker even after spending $72,000, I finally ",
-          "landingUrl": "https://webreathair.com/products/mold-testing-kit",
+          "pageName": "Cats With Kidney Disease Support Group",
+          "headline": "The hidden cause behind your cat's CKD...",
+          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
+          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
           "runDurationDays": 0
         },
         {
-          "pageName": "Melissa Donnelly",
-          "headline": "If you own a cat, read this",
-          "adCopy": "I've built a career treating cats that eat poached salmon off bone china in Manhattan penthouses. So when a client's cat kept getting sicker even after spending $72,000, I finally ",
-          "landingUrl": "https://webreathair.com/products/mold-testing-kit",
+          "pageName": "Cats With Kidney Disease Support Group",
+          "headline": "The hidden cause behind your cat's CKD...",
+          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
+          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 67
-    },
-    {
-      "keyword": "wireless charger",
-      "activeAds": 22,
-      "totalAds": 22,
-      "avgRunDays": 0,
-      "platforms": {
-        "FACEBOOK": 22,
-        "INSTAGRAM": 22,
-        "MESSENGER": 21,
-        "WHATSAPP": 19,
-        "THREADS": 21,
-        "AUDIENCE_NETWORK": 18
-      },
-      "sampleAds": [
-        {
-          "pageName": "Cat Wellness Journal",
-          "headline": "Read If You Own A Cat Water Fountain👆",
-          "adCopy": "I ordered a cat water fountain on Amazon. The listing came up when I searched \"Cattasaurus.\" The reviews looked great. I hit Buy Now. Turns out I got scammed for $89. And I didn't ",
-          "landingUrl": "https://cattasaurus.com/pages/wf-advert-02",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Margaret Ellison",
-          "headline": "Read if one cat is always quiet. ☝️",
-          "adCopy": "We Have Two Cats and It Took Us Two Years to Figure Out That One of Them Has Been Quietly Dehydrated the Entire Time Because of Where We Put the Water Fountain I'm writing this for",
-          "landingUrl": "https://cattasaurus.com/waterfountain001",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Cat Wellness Journal",
-          "headline": "Read if your senior cat is slowing down 👆",
-          "adCopy": "I’m 68 years old... and everyone laughed when I said I was adopting two senior cats. They said I was too old. Too slow. \"2 senior cats at your age? You're asking for vet bills you ",
-          "landingUrl": "https://cattasaurus.com/pages/wf-advert-02",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 63
-    },
-    {
-      "keyword": "general",
-      "activeAds": 1,
-      "totalAds": 1,
-      "avgRunDays": 0,
-      "platforms": {
-        "FACEBOOK": 1
-      },
-      "sampleAds": [
-        {
-          "pageName": "J&R Liquidations",
-          "headline": "",
-          "adCopy": "Happy Saturday from J & R Homestore! It’s Sept. 5th. at 8am IT IS LABOR DAY WEEKEND And we have some WILD ITEMS AND CRAZY PRICES today at 930 Plantation dr. Stop on down!!!336-350-",
-          "landingUrl": "",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 15
+      "metaAdScore": 47
     }
   ]
 }
