@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T03:58:52.682Z",
+  "updatedAt": "2026-10-05T20:19:34.844Z",
   "source": "Apify Meta Ad Library Scraper",
   "actorId": "webdatalabs/meta-ad-library-scraper",
   "country": "US",
@@ -7,16 +7,16 @@
   "signals": [
     {
       "keyword": "pet products",
-      "activeAds": 80,
-      "totalAds": 80,
-      "avgRunDays": 2,
+      "activeAds": 65,
+      "totalAds": 65,
+      "avgRunDays": 3,
       "platforms": {
-        "FACEBOOK": 78,
-        "INSTAGRAM": 73,
-        "AUDIENCE_NETWORK": 59,
-        "WHATSAPP": 30,
-        "THREADS": 66,
-        "MESSENGER": 4
+        "FACEBOOK": 65,
+        "INSTAGRAM": 63,
+        "AUDIENCE_NETWORK": 39,
+        "WHATSAPP": 17,
+        "THREADS": 50,
+        "MESSENGER": 6
       },
       "sampleAds": [
         {
@@ -24,249 +24,246 @@
           "headline": "",
           "adCopy": "Some things we just never let ourselves run out of, and BoxiePro cat litter is definitely one of them 💙 @boxiepet #boxiepro #PrimeBigDealDays #ad We’ve been using BoxiePro for Cle",
           "landingUrl": "https://www.amazon.com/Probiotic-Eliminating-Probiotics-Dust-Free-Fragrances/dp/B0B3556F7K?maas=maas_adg_FED098C7B28BCEA10D37ACD740421891_afap_abs&ref_=aa_maas&tag=maas&th=1",
-          "runDurationDays": 3
+          "runDurationDays": 4
         },
         {
-          "pageName": "Cumrige",
-          "headline": "Up to 32% OFF",
-          "adCopy": "🎉 LIMITED TIME GIFT EVENT! 🎉 Give your furry friend the ultimate luxury experience with the Cumrige E Auto Litter Box—engineered for smart self-cleaning, multi-cat safety, and wh",
-          "landingUrl": "https://cumrige.com/products/cumrige-self-cleaning-litter-box",
+          "pageName": "Lovewag Pets",
+          "headline": "Wash, Reuse, Repeat",
+          "adCopy": "Tired of litter tracking and messy pet accidents 🫷 Lovewag brings you machine washable mats that handle the chaos beautifully. Waterproof, non-slip, and engineered for zoomies, dr",
+          "landingUrl": "https://lovewag.com/products/sage-forest?variant=47761533173974",
           "runDurationDays": 0
         },
         {
-          "pageName": "Cumrige",
-          "headline": "Up to 32% OFF",
-          "adCopy": "No more gross daily litter scooping chores🙌 Cumrige M2 automatically scoops waste once your cat leaves. Sealed bottom drawer traps waste and nasty smells. 15L bin holds waste up t",
-          "landingUrl": "https://cumrige.com/products/cumrige-self-cleaning-litter-box",
+          "pageName": "Colleen Gallagher",
+          "headline": "AquaPurr™ Fresh Water Fountain",
+          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
+          "landingUrl": "https://catmom.shop/products/aquapurr",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 82
+      "metaAdScore": 83
     },
     {
       "keyword": "cat litter box",
-      "activeAds": 42,
-      "totalAds": 42,
-      "avgRunDays": 1,
+      "activeAds": 48,
+      "totalAds": 48,
+      "avgRunDays": 2,
       "platforms": {
-        "FACEBOOK": 42,
-        "INSTAGRAM": 38,
-        "AUDIENCE_NETWORK": 27,
-        "WHATSAPP": 22,
-        "THREADS": 31,
-        "MESSENGER": 1
+        "FACEBOOK": 48,
+        "INSTAGRAM": 48,
+        "AUDIENCE_NETWORK": 23,
+        "WHATSAPP": 9,
+        "THREADS": 25,
+        "MESSENGER": 5
       },
       "sampleAds": [
-        {
-          "pageName": "Boxiecat",
-          "headline": "20% Off BoxiePro Bot on Amazon",
-          "adCopy": "Your automatic litter box called. It wants BoxiePro Bot, now 20% off with Prime Big Deal Days. Deal ends soon!",
-          "landingUrl": "https://www.amazon.com/dp/B0GHPKXGWJ?maas=maas_adg_8551774C7CE4AA1E6A480BBDCE62FEFC_afap_abs&ref_=aa_maas&tag=maas&lv=shuf&channelId=500&plpRedirect=mhFallback&th=1",
-          "runDurationDays": 3
-        },
         {
           "pageName": "Boxiecat",
           "headline": "",
           "adCopy": "Some things we just never let ourselves run out of, and BoxiePro cat litter is definitely one of them 💙 @boxiepet #boxiepro #PrimeBigDealDays #ad We’ve been using BoxiePro for Cle",
           "landingUrl": "https://www.amazon.com/Probiotic-Eliminating-Probiotics-Dust-Free-Fragrances/dp/B0B3556F7K?maas=maas_adg_FED098C7B28BCEA10D37ACD740421891_afap_abs&ref_=aa_maas&tag=maas&th=1",
-          "runDurationDays": 3
+          "runDurationDays": 4
         },
         {
           "pageName": "Boxiecat",
           "headline": "20% Off BoxiePro Bot on Amazon",
           "adCopy": "Your automatic litter box called. It wants BoxiePro Bot, now 20% off with Prime Big Deal Days. Deal ends soon!",
           "landingUrl": "https://www.amazon.com/dp/B0GHPKXGWJ?maas=maas_adg_8551774C7CE4AA1E6A480BBDCE62FEFC_afap_abs&ref_=aa_maas&tag=maas&lv=shuf&channelId=500&plpRedirect=mhFallback&th=1",
-          "runDurationDays": 3
-        }
-      ],
-      "metaAdScore": 76
-    },
-    {
-      "keyword": "kitchen gadget",
-      "activeAds": 31,
-      "totalAds": 31,
-      "avgRunDays": 1,
-      "platforms": {
-        "FACEBOOK": 31,
-        "INSTAGRAM": 29,
-        "THREADS": 27,
-        "AUDIENCE_NETWORK": 26,
-        "WHATSAPP": 14,
-        "MESSENGER": 1
-      },
-      "sampleAds": [
-        {
-          "pageName": "KaiShine",
-          "headline": "Fresh Water. No Cord. Any Room.",
-          "adCopy": "🔌 Quick question: is your cat's water where SHE likes to drink… or just wherever the outlet happens to be? Most fountains need a plug, so they end up in the same kitchen corner, r",
-          "landingUrl": "https://kaishinepet.com/",
-          "runDurationDays": 0
+          "runDurationDays": 4
         },
         {
-          "pageName": "Austin Emergency Dental",
-          "headline": "Nine Cats. She Couldn't Smell One.",
-          "adCopy": "Our rescue's intake director dropped off a litter of four at my house in April. She got as far as the kitchen, stopped, and asked me how many cats I had in the house at that moment",
-          "landingUrl": "https://sereinex.com/products/ozofreshen-2",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Celebrate Dental - Springfield",
-          "headline": "Nine Cats. She Couldn't Smell One.",
-          "adCopy": "Our rescue's intake director dropped off a litter of four at my house in April. She got as far as the kitchen, stopped, and asked me how many cats I had in the house at that moment",
-          "landingUrl": "https://sereinex.com/products/ozofreshen-2",
-          "runDurationDays": 0
+          "pageName": "Boxiecat",
+          "headline": "20% Off BoxiePro Bot on Amazon",
+          "adCopy": "Your automatic litter box called. It wants BoxiePro Bot, now 20% off with Prime Big Deal Days. Deal ends soon!",
+          "landingUrl": "https://www.amazon.com/dp/B0GHPKXGWJ?maas=maas_adg_8551774C7CE4AA1E6A480BBDCE62FEFC_afap_abs&ref_=aa_maas&tag=maas&lv=shuf&channelId=500&plpRedirect=mhFallback&th=1",
+          "runDurationDays": 4
         }
       ],
-      "metaAdScore": 72
+      "metaAdScore": 81
     },
     {
       "keyword": "skincare",
-      "activeAds": 13,
-      "totalAds": 13,
-      "avgRunDays": 5,
+      "activeAds": 15,
+      "totalAds": 15,
+      "avgRunDays": 4,
       "platforms": {
-        "FACEBOOK": 13,
-        "INSTAGRAM": 12,
-        "THREADS": 11,
-        "AUDIENCE_NETWORK": 4,
-        "WHATSAPP": 4
+        "FACEBOOK": 15,
+        "INSTAGRAM": 15,
+        "AUDIENCE_NETWORK": 7,
+        "WHATSAPP": 6,
+        "THREADS": 14
       },
       "sampleAds": [
         {
-          "pageName": "Project E Beauty",
-          "headline": "Project E Beauty",
-          "adCopy": "When beauty editors agree, it's worth paying attention. ✨⁠ ⁠ We're proud to see the LumaLux Face+, LumaLux Dome, and Reva recognized in @marieclaireuk's Best Beauty Treatments of 2",
-          "landingUrl": "https://www.projectebeauty.com/collections/best-sellers",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "RGA - Revenue Generating Activities Network",
-          "headline": "Trinity Business Networking Lunch~ All Welcome, bring 24 business cards",
-          "adCopy": "Meet professionals from around Trinity, New Port Richey, Wesley Chapel, Lutz & Odessa who are looking to connect and create more opportunities for their businesses to grow. We are ",
-          "landingUrl": "https://www.facebook.com/events/867538568994541/",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Clinique",
+          "pageName": "Beauty Consultant Tools",
           "headline": "",
-          "adCopy": "Serving soft, juicy & bouncy skin all day thanks to @clinique NEW Smart Clinical Repair + PDRN Cream💜✨ #CliniquePartner, #SmartClinicalRepair #DermatologistTested #skincare #bounc",
-          "landingUrl": "https://www.amazon.com/Clinique-Clinical-Collagen-Moisturizer-Hyaluronic/dp/B0H1T463FW/ref=sr_1_1_sspa?crid=1FTR8CAAWYJRI&dib=eyJ2IjoiMSJ9.nW-sGYWvCMApJpBJ0Av-cHzauWspt6TP3PfUBYc_w69VFiSJMMWA1ziQKfavtWH3YeiLJcH_vvhCWlMOKgwX6pQrAMCwLGADTuosv65A8hdl7425vMkUMPjSaGiREOVlZSD4JowLiBPx_AcidaZwWA.fbqb4uUZn-OOCUSbZ1HZCxp_Z7WKceGH2_kHQ9cc6zg&dib_tag=se&keywords=smart%2Bpdrn&qid=1785763636&sprefix=samrt%2Bpdr%2Caps%2C121&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
-          "runDurationDays": 4
+          "adCopy": "‼️️ATTENTION MARY KAY BEAUTY CONSULTANTS‼️️ 💗 **MARY KAY BEAUTY CONSULTANTS: YOUR BAG SHOULD BE WORKING AS HARD AS YOU ARE.** 💗 Need more **leads, bookings, customers or conversa",
+          "landingUrl": "https://www.mkbeautyconsultanttools.com/storefront2",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Auvi",
+          "headline": "Glowing Skin After 40 ✨",
+          "adCopy": "\"My moisturizer felt heavier than this foundation. I've never been able to say that before.\" 💧 87% active skincare — hyaluronic acid, squalane & glycerin in every pump 🌿 Dewy gla",
+          "landingUrl": "https://tryauvi.com/products/auvi-luminous-serum-foundation",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Auvi",
+          "headline": "Glowing Skin After 40 ✨",
+          "adCopy": "\"My moisturizer felt heavier than this foundation. I've never been able to say that before.\" 💧 87% active skincare — hyaluronic acid, squalane & glycerin in every pump 🌿 Dewy gla",
+          "landingUrl": "https://tryauvi.com/products/auvi-luminous-serum-foundation",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 67
+    },
+    {
+      "keyword": "kitchen gadget",
+      "activeAds": 27,
+      "totalAds": 27,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 27,
+        "INSTAGRAM": 27,
+        "AUDIENCE_NETWORK": 9,
+        "THREADS": 6
+      },
+      "sampleAds": [
+        {
+          "pageName": "Colleen Gallagher",
+          "headline": "AquaPurr™ Fresh Water Fountain",
+          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
+          "landingUrl": "https://catmom.shop/products/aquapurr",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Colleen Gallagher",
+          "headline": "Dr. Colleen Gallagher",
+          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
+          "landingUrl": "https://catmom.shop/products/aquapurr",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Daily Cat Care",
+          "headline": "My Cat Was on Rx Food for Over a Year...",
+          "adCopy": "My cat had three urinary blockages in fourteen months. The 3 AM screaming from the litter box. Over $9,000 in emergency vet bills. The vet telling me my only choices left were a $4",
+          "landingUrl": "https://www.pawcore.com/products/urinary-support-drops",
+          "runDurationDays": 0
         }
       ],
       "metaAdScore": 66
     },
     {
       "keyword": "beauty tools",
-      "activeAds": 24,
-      "totalAds": 24,
+      "activeAds": 20,
+      "totalAds": 20,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 21,
-        "INSTAGRAM": 21,
-        "AUDIENCE_NETWORK": 14,
-        "WHATSAPP": 9,
-        "THREADS": 12,
+        "INSTAGRAM": 20,
+        "FACEBOOK": 16,
+        "AUDIENCE_NETWORK": 5,
+        "THREADS": 14,
+        "WHATSAPP": 3
+      },
+      "sampleAds": [
+        {
+          "pageName": "Beauty by Gin",
+          "headline": "",
+          "adCopy": "Looking for a real change… not just another job? This is your opportunity to step into a high-income skill that's changing lives. Learn how to become a Camouflage Tattoo Artist and",
+          "landingUrl": "https://www.instagram.com/",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Beauty by Gin",
+          "headline": "",
+          "adCopy": "Looking for a real change… not just another job? This is your opportunity to step into a high-income skill that's changing lives. Learn how to become a Camouflage Tattoo Artist and",
+          "landingUrl": "https://www.instagram.com/",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "milosflies",
+          "headline": "",
+          "adCopy": "The Pheasant Tail Nymph is one of the most recognizable trout flies ever tied—and for good reason. It’s simple, buggy, and has a natural profile that can suggest a variety of mayfl",
+          "landingUrl": "https://instagram.com/milosflies",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 61
+    },
+    {
+      "keyword": "wireless charger",
+      "activeAds": 17,
+      "totalAds": 17,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 17,
+        "INSTAGRAM": 17,
+        "AUDIENCE_NETWORK": 8,
+        "THREADS": 4,
+        "WHATSAPP": 3,
         "MESSENGER": 1
       },
       "sampleAds": [
         {
-          "pageName": "Linda Hartwell",
-          "headline": "She Hadn’t Stopped Loving Me. Her Map Was Fading.",
-          "adCopy": "Every cat carries a map of home in her head. Last winter, I watched Hazel's start to go blank, one room at a time. First it was the laundry room. She'd stop in the doorway and star",
-          "landingUrl": "https://pawandfam.com/calm/feline-dementia",
+          "pageName": "Colleen Gallagher",
+          "headline": "AquaPurr™ Fresh Water Fountain",
+          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
+          "landingUrl": "https://catmom.shop/products/aquapurr",
           "runDurationDays": 0
         },
         {
-          "pageName": "Linda Hartwell",
-          "headline": "She Hadn’t Stopped Loving Me. Her Map Was Fading.",
-          "adCopy": "Every cat carries a map of home in her head. Last winter, I watched Hazel's start to go blank, one room at a time. First it was the laundry room. She'd stop in the doorway and star",
-          "landingUrl": "https://pawandfam.com/calm/feline-dementia",
+          "pageName": "Colleen Gallagher",
+          "headline": "Dr. Colleen Gallagher",
+          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
+          "landingUrl": "https://catmom.shop/products/aquapurr",
           "runDurationDays": 0
         },
-        {
-          "pageName": "Project E Beauty",
-          "headline": "Project E Beauty",
-          "adCopy": "When beauty editors agree, it's worth paying attention. ✨⁠ ⁠ We're proud to see the LumaLux Face+, LumaLux Dome, and Reva recognized in @marieclaireuk's Best Beauty Treatments of 2",
-          "landingUrl": "https://www.projectebeauty.com/collections/best-sellers",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 64
-    },
-    {
-      "keyword": "wireless charger",
-      "activeAds": 21,
-      "totalAds": 21,
-      "avgRunDays": 0,
-      "platforms": {
-        "FACEBOOK": 21,
-        "INSTAGRAM": 21,
-        "AUDIENCE_NETWORK": 17,
-        "THREADS": 16,
-        "WHATSAPP": 3
-      },
-      "sampleAds": [
         {
           "pageName": "Amy Brown",
           "headline": "Natural Relief in Weeks",
           "adCopy": "My aunt called me a creep for putting a camera in Nana's living room. Nana called me practical. Then the camera caught something worse than a fall. I need to be clear about one thi",
           "landingUrl": "https://senvoa.co/products/4-in-1-hip-therapy-belt-2",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Justin K. Bankston",
-          "headline": "DACH EV Golf Carts",
-          "adCopy": "DACH EV Golf Carts - $13,999.00 **2027 DACH Electric Vehicles. Luxury Golf Carts/Activity Vehicles. Versatility for all your outdoor needs. *2027 DACH Apollo (4 forward)72 volt vol",
-          "landingUrl": "https://facebook.com/marketplace/item/2029385567742029/",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Aalia Cunningham",
-          "headline": "🔥 Complete Setup: MacBook Air M1 512GB + Charger + Magic Mouse + Mouse Pad + Laser Printer: $650",
-          "adCopy": "🔥 Complete Setup: MacBook Air M1 512GB + Charger + Magic Mouse + Mouse Pad + Laser Printer: $650 - $650.00 Skip the shopping. Everything you need to work or study is right here. \ud83c",
-          "landingUrl": "https://facebook.com/marketplace/item/1630396228875860/",
-          "runDurationDays": 0
+          "runDurationDays": 2
         }
       ],
-      "metaAdScore": 62
+      "metaAdScore": 59
     },
     {
       "keyword": "general",
-      "activeAds": 5,
-      "totalAds": 5,
-      "avgRunDays": 1,
+      "activeAds": 10,
+      "totalAds": 10,
+      "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 5,
-        "INSTAGRAM": 5,
-        "AUDIENCE_NETWORK": 3,
-        "THREADS": 3,
-        "WHATSAPP": 2
+        "FACEBOOK": 10,
+        "INSTAGRAM": 9,
+        "AUDIENCE_NETWORK": 1,
+        "THREADS": 1
       },
       "sampleAds": [
         {
           "pageName": "Shoptemu",
           "headline": "",
           "adCopy": "Shop your favorite items on Temu at low prices with great discounts.",
-          "landingUrl": "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_bg_fs=1&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&locale_override=211~en~USD&_p_rfs=1&_x_ads_channel=kol_metabca&_x_ads_sub_channel=official_influencer&_x_cid=cm_fywrzbqc90qo_fz0tzrp86fi8&_x_bg_adid=udp2013765918&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
+          "landingUrl": "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_bg_fs=1&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&locale_override=211~~USD&_p_rfs=1&_x_ads_channel=kol_metabca&_x_ads_sub_channel=official_influencer&_x_cid=cm_fywrzbqc90qo_fz0tzrp86fi8&_x_bg_adid=udp2013774196&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
           "runDurationDays": 0
         },
         {
-          "pageName": "Flick-lj",
-          "headline": "Rich mogul, poor disguise. She loved him anyway! ❤️‍🩹",
-          "adCopy": "He pretended to be poor & disabled. 💔 She loved him anyway. ❤️ A tech mogul's secret identity. A mechanic's pure heart. They rushed into marriage, but his truth was hidden. 🤫 Wha",
-          "landingUrl": "https://pages.farsunpteltd.com/?channel_id=1954519&campaign_id={{campaign.id}}&adset_id={{adset.id}}&ad_id={{ad.id}}&campaign={{campaign.name}}&adgroup={{adset.name}}&ad_name={{ad.name}}",
+          "pageName": "Stefanie Gass & Team",
+          "headline": "SALE EXTENDED ON P2P!!! ➡️",
+          "adCopy": "I struggled to build a business for over a DECADE... 😩 Looking back, I’m in disbelief at how HARD I made things for myself. I truly believed I had to show up everywhere, all the t",
+          "landingUrl": "https://stefaniegass.com/letsdothis",
           "runDurationDays": 0
         },
         {
-          "pageName": "Kelsey Kooima",
-          "headline": "Kelsey Kooima",
-          "adCopy": "Let’s skip the Thanksgiving editing marathon this year. Get your gift guides, product content, and holiday affiliate plan ready before the rush. Join the Q4 Affiliate Playbook befo",
-          "landingUrl": "https://courses.kelseykooima.com/q4-affiliate-playbook",
+          "pageName": "Anti-Aging Challenge",
+          "headline": "One-click away from New Glowing Face! 🔝🥰",
+          "adCopy": "Take a Short Quiz and Get a Personalized Face Yoga Plan for Glowing Skin🔥🌟",
+          "landingUrl": "https://nord.yoga/start",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 46
+      "metaAdScore": 51
     }
   ]
 }
