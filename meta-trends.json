@@ -1,123 +1,272 @@
 {
-  "updatedAt": "2026-09-06T02:50:26.172Z",
+  "updatedAt": "2026-10-05T03:58:52.682Z",
   "source": "Apify Meta Ad Library Scraper",
   "actorId": "webdatalabs/meta-ad-library-scraper",
   "country": "US",
-  "adCount": 9,
+  "adCount": 120,
   "signals": [
     {
-      "keyword": "cat litter box",
-      "activeAds": 9,
-      "totalAds": 9,
-      "avgRunDays": 0,
+      "keyword": "pet products",
+      "activeAds": 80,
+      "totalAds": 80,
+      "avgRunDays": 2,
       "platforms": {
-        "FACEBOOK": 9,
-        "INSTAGRAM": 9,
-        "AUDIENCE_NETWORK": 9,
-        "MESSENGER": 9,
-        "THREADS": 9,
-        "WHATSAPP": 3
+        "FACEBOOK": 78,
+        "INSTAGRAM": 73,
+        "AUDIENCE_NETWORK": 59,
+        "WHATSAPP": 30,
+        "THREADS": 66,
+        "MESSENGER": 4
       },
       "sampleAds": [
         {
-          "pageName": "Cats With Kidney Disease Support Group",
-          "headline": "The hidden cause behind your cat's CKD...",
-          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
-          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
+          "pageName": "Boxiecat",
+          "headline": "",
+          "adCopy": "Some things we just never let ourselves run out of, and BoxiePro cat litter is definitely one of them 💙 @boxiepet #boxiepro #PrimeBigDealDays #ad We’ve been using BoxiePro for Cle",
+          "landingUrl": "https://www.amazon.com/Probiotic-Eliminating-Probiotics-Dust-Free-Fragrances/dp/B0B3556F7K?maas=maas_adg_FED098C7B28BCEA10D37ACD740421891_afap_abs&ref_=aa_maas&tag=maas&th=1",
+          "runDurationDays": 3
+        },
+        {
+          "pageName": "Cumrige",
+          "headline": "Up to 32% OFF",
+          "adCopy": "🎉 LIMITED TIME GIFT EVENT! 🎉 Give your furry friend the ultimate luxury experience with the Cumrige E Auto Litter Box—engineered for smart self-cleaning, multi-cat safety, and wh",
+          "landingUrl": "https://cumrige.com/products/cumrige-self-cleaning-litter-box",
           "runDurationDays": 0
         },
         {
-          "pageName": "Cats With Kidney Disease Support Group",
-          "headline": "The hidden cause behind your cat's CKD...",
-          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
-          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Cats With Kidney Disease Support Group",
-          "headline": "The hidden cause behind your cat's CKD...",
-          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
-          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
+          "pageName": "Cumrige",
+          "headline": "Up to 32% OFF",
+          "adCopy": "No more gross daily litter scooping chores🙌 Cumrige M2 automatically scoops waste once your cat leaves. Sealed bottom drawer traps waste and nasty smells. 15L bin holds waste up t",
+          "landingUrl": "https://cumrige.com/products/cumrige-self-cleaning-litter-box",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 50
+      "metaAdScore": 82
     },
     {
-      "keyword": "pet products",
-      "activeAds": 8,
-      "totalAds": 8,
-      "avgRunDays": 0,
+      "keyword": "cat litter box",
+      "activeAds": 42,
+      "totalAds": 42,
+      "avgRunDays": 1,
       "platforms": {
-        "FACEBOOK": 8,
-        "INSTAGRAM": 8,
-        "AUDIENCE_NETWORK": 8,
-        "MESSENGER": 8,
-        "THREADS": 8,
-        "WHATSAPP": 3
+        "FACEBOOK": 42,
+        "INSTAGRAM": 38,
+        "AUDIENCE_NETWORK": 27,
+        "WHATSAPP": 22,
+        "THREADS": 31,
+        "MESSENGER": 1
       },
       "sampleAds": [
         {
-          "pageName": "Cats With Kidney Disease Support Group",
-          "headline": "The hidden cause behind your cat's CKD...",
-          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
-          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
-          "runDurationDays": 0
+          "pageName": "Boxiecat",
+          "headline": "20% Off BoxiePro Bot on Amazon",
+          "adCopy": "Your automatic litter box called. It wants BoxiePro Bot, now 20% off with Prime Big Deal Days. Deal ends soon!",
+          "landingUrl": "https://www.amazon.com/dp/B0GHPKXGWJ?maas=maas_adg_8551774C7CE4AA1E6A480BBDCE62FEFC_afap_abs&ref_=aa_maas&tag=maas&lv=shuf&channelId=500&plpRedirect=mhFallback&th=1",
+          "runDurationDays": 3
         },
         {
-          "pageName": "Cats With Kidney Disease Support Group",
-          "headline": "The hidden cause behind your cat's CKD...",
-          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
-          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
-          "runDurationDays": 0
+          "pageName": "Boxiecat",
+          "headline": "",
+          "adCopy": "Some things we just never let ourselves run out of, and BoxiePro cat litter is definitely one of them 💙 @boxiepet #boxiepro #PrimeBigDealDays #ad We’ve been using BoxiePro for Cle",
+          "landingUrl": "https://www.amazon.com/Probiotic-Eliminating-Probiotics-Dust-Free-Fragrances/dp/B0B3556F7K?maas=maas_adg_FED098C7B28BCEA10D37ACD740421891_afap_abs&ref_=aa_maas&tag=maas&th=1",
+          "runDurationDays": 3
         },
         {
-          "pageName": "Cats With Kidney Disease Support Group",
-          "headline": "The hidden cause behind your cat's CKD...",
-          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
-          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
-          "runDurationDays": 0
+          "pageName": "Boxiecat",
+          "headline": "20% Off BoxiePro Bot on Amazon",
+          "adCopy": "Your automatic litter box called. It wants BoxiePro Bot, now 20% off with Prime Big Deal Days. Deal ends soon!",
+          "landingUrl": "https://www.amazon.com/dp/B0GHPKXGWJ?maas=maas_adg_8551774C7CE4AA1E6A480BBDCE62FEFC_afap_abs&ref_=aa_maas&tag=maas&lv=shuf&channelId=500&plpRedirect=mhFallback&th=1",
+          "runDurationDays": 3
         }
       ],
-      "metaAdScore": 48
+      "metaAdScore": 76
     },
     {
       "keyword": "kitchen gadget",
-      "activeAds": 7,
-      "totalAds": 7,
+      "activeAds": 31,
+      "totalAds": 31,
+      "avgRunDays": 1,
+      "platforms": {
+        "FACEBOOK": 31,
+        "INSTAGRAM": 29,
+        "THREADS": 27,
+        "AUDIENCE_NETWORK": 26,
+        "WHATSAPP": 14,
+        "MESSENGER": 1
+      },
+      "sampleAds": [
+        {
+          "pageName": "KaiShine",
+          "headline": "Fresh Water. No Cord. Any Room.",
+          "adCopy": "🔌 Quick question: is your cat's water where SHE likes to drink… or just wherever the outlet happens to be? Most fountains need a plug, so they end up in the same kitchen corner, r",
+          "landingUrl": "https://kaishinepet.com/",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Austin Emergency Dental",
+          "headline": "Nine Cats. She Couldn't Smell One.",
+          "adCopy": "Our rescue's intake director dropped off a litter of four at my house in April. She got as far as the kitchen, stopped, and asked me how many cats I had in the house at that moment",
+          "landingUrl": "https://sereinex.com/products/ozofreshen-2",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Celebrate Dental - Springfield",
+          "headline": "Nine Cats. She Couldn't Smell One.",
+          "adCopy": "Our rescue's intake director dropped off a litter of four at my house in April. She got as far as the kitchen, stopped, and asked me how many cats I had in the house at that moment",
+          "landingUrl": "https://sereinex.com/products/ozofreshen-2",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 72
+    },
+    {
+      "keyword": "skincare",
+      "activeAds": 13,
+      "totalAds": 13,
+      "avgRunDays": 5,
+      "platforms": {
+        "FACEBOOK": 13,
+        "INSTAGRAM": 12,
+        "THREADS": 11,
+        "AUDIENCE_NETWORK": 4,
+        "WHATSAPP": 4
+      },
+      "sampleAds": [
+        {
+          "pageName": "Project E Beauty",
+          "headline": "Project E Beauty",
+          "adCopy": "When beauty editors agree, it's worth paying attention. ✨⁠ ⁠ We're proud to see the LumaLux Face+, LumaLux Dome, and Reva recognized in @marieclaireuk's Best Beauty Treatments of 2",
+          "landingUrl": "https://www.projectebeauty.com/collections/best-sellers",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "RGA - Revenue Generating Activities Network",
+          "headline": "Trinity Business Networking Lunch~ All Welcome, bring 24 business cards",
+          "adCopy": "Meet professionals from around Trinity, New Port Richey, Wesley Chapel, Lutz & Odessa who are looking to connect and create more opportunities for their businesses to grow. We are ",
+          "landingUrl": "https://www.facebook.com/events/867538568994541/",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Clinique",
+          "headline": "",
+          "adCopy": "Serving soft, juicy & bouncy skin all day thanks to @clinique NEW Smart Clinical Repair + PDRN Cream💜✨ #CliniquePartner, #SmartClinicalRepair #DermatologistTested #skincare #bounc",
+          "landingUrl": "https://www.amazon.com/Clinique-Clinical-Collagen-Moisturizer-Hyaluronic/dp/B0H1T463FW/ref=sr_1_1_sspa?crid=1FTR8CAAWYJRI&dib=eyJ2IjoiMSJ9.nW-sGYWvCMApJpBJ0Av-cHzauWspt6TP3PfUBYc_w69VFiSJMMWA1ziQKfavtWH3YeiLJcH_vvhCWlMOKgwX6pQrAMCwLGADTuosv65A8hdl7425vMkUMPjSaGiREOVlZSD4JowLiBPx_AcidaZwWA.fbqb4uUZn-OOCUSbZ1HZCxp_Z7WKceGH2_kHQ9cc6zg&dib_tag=se&keywords=smart%2Bpdrn&qid=1785763636&sprefix=samrt%2Bpdr%2Caps%2C121&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+          "runDurationDays": 4
+        }
+      ],
+      "metaAdScore": 66
+    },
+    {
+      "keyword": "beauty tools",
+      "activeAds": 24,
+      "totalAds": 24,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 7,
-        "INSTAGRAM": 7,
-        "AUDIENCE_NETWORK": 7,
-        "MESSENGER": 7,
-        "THREADS": 7,
+        "FACEBOOK": 21,
+        "INSTAGRAM": 21,
+        "AUDIENCE_NETWORK": 14,
+        "WHATSAPP": 9,
+        "THREADS": 12,
+        "MESSENGER": 1
+      },
+      "sampleAds": [
+        {
+          "pageName": "Linda Hartwell",
+          "headline": "She Hadn’t Stopped Loving Me. Her Map Was Fading.",
+          "adCopy": "Every cat carries a map of home in her head. Last winter, I watched Hazel's start to go blank, one room at a time. First it was the laundry room. She'd stop in the doorway and star",
+          "landingUrl": "https://pawandfam.com/calm/feline-dementia",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Linda Hartwell",
+          "headline": "She Hadn’t Stopped Loving Me. Her Map Was Fading.",
+          "adCopy": "Every cat carries a map of home in her head. Last winter, I watched Hazel's start to go blank, one room at a time. First it was the laundry room. She'd stop in the doorway and star",
+          "landingUrl": "https://pawandfam.com/calm/feline-dementia",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Project E Beauty",
+          "headline": "Project E Beauty",
+          "adCopy": "When beauty editors agree, it's worth paying attention. ✨⁠ ⁠ We're proud to see the LumaLux Face+, LumaLux Dome, and Reva recognized in @marieclaireuk's Best Beauty Treatments of 2",
+          "landingUrl": "https://www.projectebeauty.com/collections/best-sellers",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 64
+    },
+    {
+      "keyword": "wireless charger",
+      "activeAds": 21,
+      "totalAds": 21,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 21,
+        "INSTAGRAM": 21,
+        "AUDIENCE_NETWORK": 17,
+        "THREADS": 16,
         "WHATSAPP": 3
       },
       "sampleAds": [
         {
-          "pageName": "Cats With Kidney Disease Support Group",
-          "headline": "The hidden cause behind your cat's CKD...",
-          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
-          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
+          "pageName": "Amy Brown",
+          "headline": "Natural Relief in Weeks",
+          "adCopy": "My aunt called me a creep for putting a camera in Nana's living room. Nana called me practical. Then the camera caught something worse than a fall. I need to be clear about one thi",
+          "landingUrl": "https://senvoa.co/products/4-in-1-hip-therapy-belt-2",
           "runDurationDays": 0
         },
         {
-          "pageName": "Cats With Kidney Disease Support Group",
-          "headline": "The hidden cause behind your cat's CKD...",
-          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
-          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
+          "pageName": "Justin K. Bankston",
+          "headline": "DACH EV Golf Carts",
+          "adCopy": "DACH EV Golf Carts - $13,999.00 **2027 DACH Electric Vehicles. Luxury Golf Carts/Activity Vehicles. Versatility for all your outdoor needs. *2027 DACH Apollo (4 forward)72 volt vol",
+          "landingUrl": "https://facebook.com/marketplace/item/2029385567742029/",
           "runDurationDays": 0
         },
         {
-          "pageName": "Cats With Kidney Disease Support Group",
-          "headline": "The hidden cause behind your cat's CKD...",
-          "adCopy": "I am so f*cking tired of watching women with kidney cats get told that irreversible means nothing can get better. IT DOES NOT MEAN THAT. AND NOBODY IN THAT COMMENT SECTION HAS EVER",
-          "landingUrl": "https://catopia.shop/products/catopia-marine-algae-oil",
+          "pageName": "Aalia Cunningham",
+          "headline": "🔥 Complete Setup: MacBook Air M1 512GB + Charger + Magic Mouse + Mouse Pad + Laser Printer: $650",
+          "adCopy": "🔥 Complete Setup: MacBook Air M1 512GB + Charger + Magic Mouse + Mouse Pad + Laser Printer: $650 - $650.00 Skip the shopping. Everything you need to work or study is right here. \ud83c",
+          "landingUrl": "https://facebook.com/marketplace/item/1630396228875860/",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 47
+      "metaAdScore": 62
+    },
+    {
+      "keyword": "general",
+      "activeAds": 5,
+      "totalAds": 5,
+      "avgRunDays": 1,
+      "platforms": {
+        "FACEBOOK": 5,
+        "INSTAGRAM": 5,
+        "AUDIENCE_NETWORK": 3,
+        "THREADS": 3,
+        "WHATSAPP": 2
+      },
+      "sampleAds": [
+        {
+          "pageName": "Shoptemu",
+          "headline": "",
+          "adCopy": "Shop your favorite items on Temu at low prices with great discounts.",
+          "landingUrl": "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_bg_fs=1&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&locale_override=211~en~USD&_p_rfs=1&_x_ads_channel=kol_metabca&_x_ads_sub_channel=official_influencer&_x_cid=cm_fywrzbqc90qo_fz0tzrp86fi8&_x_bg_adid=udp2013765918&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Flick-lj",
+          "headline": "Rich mogul, poor disguise. She loved him anyway! ❤️‍🩹",
+          "adCopy": "He pretended to be poor & disabled. 💔 She loved him anyway. ❤️ A tech mogul's secret identity. A mechanic's pure heart. They rushed into marriage, but his truth was hidden. 🤫 Wha",
+          "landingUrl": "https://pages.farsunpteltd.com/?channel_id=1954519&campaign_id={{campaign.id}}&adset_id={{adset.id}}&ad_id={{ad.id}}&campaign={{campaign.name}}&adgroup={{adset.name}}&ad_name={{ad.name}}",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Kelsey Kooima",
+          "headline": "Kelsey Kooima",
+          "adCopy": "Let’s skip the Thanksgiving editing marathon this year. Get your gift guides, product content, and holiday affiliate plan ready before the rush. Join the Q4 Affiliate Playbook befo",
+          "landingUrl": "https://courses.kelseykooima.com/q4-affiliate-playbook",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 46
     }
   ]
 }
