@@ -1,60 +1,21 @@
 {
-  "updatedAt": "2026-10-05T20:19:34.844Z",
+  "updatedAt": "2026-10-06T04:46:16.704Z",
   "source": "Apify Meta Ad Library Scraper",
   "actorId": "webdatalabs/meta-ad-library-scraper",
   "country": "US",
-  "adCount": 120,
+  "adCount": 9,
   "signals": [
     {
-      "keyword": "pet products",
-      "activeAds": 65,
-      "totalAds": 65,
-      "avgRunDays": 3,
-      "platforms": {
-        "FACEBOOK": 65,
-        "INSTAGRAM": 63,
-        "AUDIENCE_NETWORK": 39,
-        "WHATSAPP": 17,
-        "THREADS": 50,
-        "MESSENGER": 6
-      },
-      "sampleAds": [
-        {
-          "pageName": "Boxiecat",
-          "headline": "",
-          "adCopy": "Some things we just never let ourselves run out of, and BoxiePro cat litter is definitely one of them 💙 @boxiepet #boxiepro #PrimeBigDealDays #ad We’ve been using BoxiePro for Cle",
-          "landingUrl": "https://www.amazon.com/Probiotic-Eliminating-Probiotics-Dust-Free-Fragrances/dp/B0B3556F7K?maas=maas_adg_FED098C7B28BCEA10D37ACD740421891_afap_abs&ref_=aa_maas&tag=maas&th=1",
-          "runDurationDays": 4
-        },
-        {
-          "pageName": "Lovewag Pets",
-          "headline": "Wash, Reuse, Repeat",
-          "adCopy": "Tired of litter tracking and messy pet accidents 🫷 Lovewag brings you machine washable mats that handle the chaos beautifully. Waterproof, non-slip, and engineered for zoomies, dr",
-          "landingUrl": "https://lovewag.com/products/sage-forest?variant=47761533173974",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Colleen Gallagher",
-          "headline": "AquaPurr™ Fresh Water Fountain",
-          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
-          "landingUrl": "https://catmom.shop/products/aquapurr",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 83
-    },
-    {
       "keyword": "cat litter box",
-      "activeAds": 48,
-      "totalAds": 48,
-      "avgRunDays": 2,
+      "activeAds": 9,
+      "totalAds": 9,
+      "avgRunDays": 1,
       "platforms": {
-        "FACEBOOK": 48,
-        "INSTAGRAM": 48,
-        "AUDIENCE_NETWORK": 23,
-        "WHATSAPP": 9,
-        "THREADS": 25,
-        "MESSENGER": 5
+        "FACEBOOK": 9,
+        "INSTAGRAM": 9,
+        "AUDIENCE_NETWORK": 9,
+        "WHATSAPP": 7,
+        "THREADS": 9
       },
       "sampleAds": [
         {
@@ -79,191 +40,44 @@
           "runDurationDays": 4
         }
       ],
-      "metaAdScore": 81
+      "metaAdScore": 54
     },
     {
-      "keyword": "skincare",
-      "activeAds": 15,
-      "totalAds": 15,
-      "avgRunDays": 4,
+      "keyword": "pet products",
+      "activeAds": 5,
+      "totalAds": 5,
+      "avgRunDays": 1,
       "platforms": {
-        "FACEBOOK": 15,
-        "INSTAGRAM": 15,
-        "AUDIENCE_NETWORK": 7,
-        "WHATSAPP": 6,
-        "THREADS": 14
-      },
-      "sampleAds": [
-        {
-          "pageName": "Beauty Consultant Tools",
-          "headline": "",
-          "adCopy": "‼️️ATTENTION MARY KAY BEAUTY CONSULTANTS‼️️ 💗 **MARY KAY BEAUTY CONSULTANTS: YOUR BAG SHOULD BE WORKING AS HARD AS YOU ARE.** 💗 Need more **leads, bookings, customers or conversa",
-          "landingUrl": "https://www.mkbeautyconsultanttools.com/storefront2",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Auvi",
-          "headline": "Glowing Skin After 40 ✨",
-          "adCopy": "\"My moisturizer felt heavier than this foundation. I've never been able to say that before.\" 💧 87% active skincare — hyaluronic acid, squalane & glycerin in every pump 🌿 Dewy gla",
-          "landingUrl": "https://tryauvi.com/products/auvi-luminous-serum-foundation",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Auvi",
-          "headline": "Glowing Skin After 40 ✨",
-          "adCopy": "\"My moisturizer felt heavier than this foundation. I've never been able to say that before.\" 💧 87% active skincare — hyaluronic acid, squalane & glycerin in every pump 🌿 Dewy gla",
-          "landingUrl": "https://tryauvi.com/products/auvi-luminous-serum-foundation",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 67
-    },
-    {
-      "keyword": "kitchen gadget",
-      "activeAds": 27,
-      "totalAds": 27,
-      "avgRunDays": 0,
-      "platforms": {
-        "FACEBOOK": 27,
-        "INSTAGRAM": 27,
-        "AUDIENCE_NETWORK": 9,
-        "THREADS": 6
-      },
-      "sampleAds": [
-        {
-          "pageName": "Colleen Gallagher",
-          "headline": "AquaPurr™ Fresh Water Fountain",
-          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
-          "landingUrl": "https://catmom.shop/products/aquapurr",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Colleen Gallagher",
-          "headline": "Dr. Colleen Gallagher",
-          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
-          "landingUrl": "https://catmom.shop/products/aquapurr",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Daily Cat Care",
-          "headline": "My Cat Was on Rx Food for Over a Year...",
-          "adCopy": "My cat had three urinary blockages in fourteen months. The 3 AM screaming from the litter box. Over $9,000 in emergency vet bills. The vet telling me my only choices left were a $4",
-          "landingUrl": "https://www.pawcore.com/products/urinary-support-drops",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 66
-    },
-    {
-      "keyword": "beauty tools",
-      "activeAds": 20,
-      "totalAds": 20,
-      "avgRunDays": 0,
-      "platforms": {
-        "INSTAGRAM": 20,
-        "FACEBOOK": 16,
+        "FACEBOOK": 5,
+        "INSTAGRAM": 5,
         "AUDIENCE_NETWORK": 5,
-        "THREADS": 14,
-        "WHATSAPP": 3
+        "WHATSAPP": 5,
+        "THREADS": 5
       },
       "sampleAds": [
         {
-          "pageName": "Beauty by Gin",
+          "pageName": "Boxiecat",
           "headline": "",
-          "adCopy": "Looking for a real change… not just another job? This is your opportunity to step into a high-income skill that's changing lives. Learn how to become a Camouflage Tattoo Artist and",
-          "landingUrl": "https://www.instagram.com/",
+          "adCopy": "Some things we just never let ourselves run out of, and BoxiePro cat litter is definitely one of them 💙 @boxiepet #boxiepro #PrimeBigDealDays #ad We’ve been using BoxiePro for Cle",
+          "landingUrl": "https://www.amazon.com/Probiotic-Eliminating-Probiotics-Dust-Free-Fragrances/dp/B0B3556F7K?maas=maas_adg_FED098C7B28BCEA10D37ACD740421891_afap_abs&ref_=aa_maas&tag=maas&th=1",
+          "runDurationDays": 4
+        },
+        {
+          "pageName": "AutoScooper-by-PetPivot",
+          "headline": "Automatic Cleaning, Better Value",
+          "adCopy": "Thinking about upgrading to an automatic litter box? This might be a good time to make the switch. 👀 PetPivot is now available at a more attractive value, making automatic litter ",
+          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box-white",
           "runDurationDays": 0
         },
         {
-          "pageName": "Beauty by Gin",
-          "headline": "",
-          "adCopy": "Looking for a real change… not just another job? This is your opportunity to step into a high-income skill that's changing lives. Learn how to become a Camouflage Tattoo Artist and",
-          "landingUrl": "https://www.instagram.com/",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "milosflies",
-          "headline": "",
-          "adCopy": "The Pheasant Tail Nymph is one of the most recognizable trout flies ever tied—and for good reason. It’s simple, buggy, and has a natural profile that can suggest a variety of mayfl",
-          "landingUrl": "https://instagram.com/milosflies",
+          "pageName": "AutoScooper-by-PetPivot",
+          "headline": "Automatic Cleaning, Better Value",
+          "adCopy": "Thinking about upgrading to an automatic litter box? This might be a good time to make the switch. 👀 PetPivot is now available at a more attractive value, making automatic litter ",
+          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box-white",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 61
-    },
-    {
-      "keyword": "wireless charger",
-      "activeAds": 17,
-      "totalAds": 17,
-      "avgRunDays": 0,
-      "platforms": {
-        "FACEBOOK": 17,
-        "INSTAGRAM": 17,
-        "AUDIENCE_NETWORK": 8,
-        "THREADS": 4,
-        "WHATSAPP": 3,
-        "MESSENGER": 1
-      },
-      "sampleAds": [
-        {
-          "pageName": "Colleen Gallagher",
-          "headline": "AquaPurr™ Fresh Water Fountain",
-          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
-          "landingUrl": "https://catmom.shop/products/aquapurr",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Colleen Gallagher",
-          "headline": "Dr. Colleen Gallagher",
-          "adCopy": "Please STOP scrubbing your cat's water bowl. I know that sounds insane coming from a veterinarian. Let me finish before you put the sponge down. Keep washing the bowl. Please. What",
-          "landingUrl": "https://catmom.shop/products/aquapurr",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Amy Brown",
-          "headline": "Natural Relief in Weeks",
-          "adCopy": "My aunt called me a creep for putting a camera in Nana's living room. Nana called me practical. Then the camera caught something worse than a fall. I need to be clear about one thi",
-          "landingUrl": "https://senvoa.co/products/4-in-1-hip-therapy-belt-2",
-          "runDurationDays": 2
-        }
-      ],
-      "metaAdScore": 59
-    },
-    {
-      "keyword": "general",
-      "activeAds": 10,
-      "totalAds": 10,
-      "avgRunDays": 0,
-      "platforms": {
-        "FACEBOOK": 10,
-        "INSTAGRAM": 9,
-        "AUDIENCE_NETWORK": 1,
-        "THREADS": 1
-      },
-      "sampleAds": [
-        {
-          "pageName": "Shoptemu",
-          "headline": "",
-          "adCopy": "Shop your favorite items on Temu at low prices with great discounts.",
-          "landingUrl": "https://www.temu.com/ul/kuiper/un1.html?subj=feed-un&_bg_fs=1&_p_mat1_type=1&_p_jump_id=725&_x_vst_scene=adg&locale_override=211~~USD&_p_rfs=1&_x_ads_channel=kol_metabca&_x_ads_sub_channel=official_influencer&_x_cid=cm_fywrzbqc90qo_fz0tzrp86fi8&_x_bg_adid=udp2013774196&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Stefanie Gass & Team",
-          "headline": "SALE EXTENDED ON P2P!!! ➡️",
-          "adCopy": "I struggled to build a business for over a DECADE... 😩 Looking back, I’m in disbelief at how HARD I made things for myself. I truly believed I had to show up everywhere, all the t",
-          "landingUrl": "https://stefaniegass.com/letsdothis",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Anti-Aging Challenge",
-          "headline": "One-click away from New Glowing Face! 🔝🥰",
-          "adCopy": "Take a Short Quiz and Get a Personalized Face Yoga Plan for Glowing Skin🔥🌟",
-          "landingUrl": "https://nord.yoga/start",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 51
+      "metaAdScore": 46
     }
   ]
 }
