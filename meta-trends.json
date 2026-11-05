@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T05:02:07.453Z",
+  "updatedAt": "2026-11-05T19:30:20.200Z",
   "source": "Apify Meta Ad Library Scraper",
   "actorId": "webdatalabs/meta-ad-library-scraper",
   "country": "US",
@@ -7,37 +7,37 @@
   "signals": [
     {
       "keyword": "pet products",
-      "activeAds": 77,
-      "totalAds": 77,
+      "activeAds": 72,
+      "totalAds": 72,
       "avgRunDays": 3,
       "platforms": {
-        "FACEBOOK": 77,
-        "INSTAGRAM": 74,
-        "AUDIENCE_NETWORK": 64,
-        "WHATSAPP": 37,
-        "THREADS": 63,
-        "MESSENGER": 2
+        "FACEBOOK": 72,
+        "INSTAGRAM": 66,
+        "AUDIENCE_NETWORK": 51,
+        "THREADS": 51,
+        "WHATSAPP": 35,
+        "MESSENGER": 1
       },
       "sampleAds": [
         {
-          "pageName": "Valerie Hayden",
-          "headline": "This Hidden Gas Making Millions Of Pet Owners Sick",
-          "adCopy": "If you have a litter box in your home you need to know what it’s putting into your air because it’s not just a smell. What your litter box releases into your home every single day ",
-          "landingUrl": "https://www.amberarbor.com/products/litterguard-pro",
+          "pageName": "Feline Health Hub",
+          "headline": "Read This If Your Cat Keeps Getting “Something New”",
+          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
+          "landingUrl": "https://vitacatlabs.com/products/taurine",
           "runDurationDays": 0
         },
         {
-          "pageName": "AutoScooper-by-PetPivot",
-          "headline": "Your Scoop Deserves a Break",
-          "adCopy": "Still scooping the litter box every single day? 😩 PetPivot helps handle waste automatically after your cat uses the box, so clean litter stays ready and your daily routine feels a",
-          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box",
+          "pageName": "Feline Health Hub",
+          "headline": "Over $1,200 in Vet Bills. Nobody Checked This.",
+          "adCopy": "My cat got 5 diagnoses in 2 years. Here’s what I was told, and what I paid for: ❌ Kept getting sick → “weak immune system” → 3 rounds of antibiotics ❌ Threw up after every meal → “",
+          "landingUrl": "https://vitacatlabs.com/products/taurine",
           "runDurationDays": 0
         },
         {
-          "pageName": "AutoScooper-by-PetPivot",
-          "headline": "Your Scoop Deserves a Break",
-          "adCopy": "Still scooping the litter box every single day? 😩 PetPivot helps handle waste automatically after your cat uses the box, so clean litter stays ready and your daily routine feels a",
-          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box",
+          "pageName": "Feline Health Hub",
+          "headline": "Read This If Your Cat Keeps Getting “Something New”",
+          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
+          "landingUrl": "https://vitacatlabs.com/products/taurine",
           "runDurationDays": 0
         }
       ],
@@ -45,36 +45,36 @@
     },
     {
       "keyword": "beauty tools",
-      "activeAds": 31,
-      "totalAds": 31,
+      "activeAds": 30,
+      "totalAds": 30,
       "avgRunDays": 4,
       "platforms": {
-        "INSTAGRAM": 31,
-        "FACEBOOK": 29,
-        "AUDIENCE_NETWORK": 20,
-        "WHATSAPP": 24,
-        "THREADS": 24
+        "FACEBOOK": 30,
+        "INSTAGRAM": 29,
+        "AUDIENCE_NETWORK": 17,
+        "THREADS": 20,
+        "WHATSAPP": 16
       },
       "sampleAds": [
         {
-          "pageName": "Vera4 Beauty Supply",
-          "headline": "",
-          "adCopy": "🚨 VERA 4 BEAUTY SUPPLY WEEKEND SALE! 🚨 📅 FRIDAY • SATURDAY • SUNDAY | NOVEMBER 6–8 THREE DAYS OF AMAZING DEALS! 🛍️🔥 💇🏽‍♀️ WIGS & HAIR DEALS Transparent Wig Sale — 35% OFF 18",
-          "landingUrl": "https://instagram.com/vera4beautysupply",
+          "pageName": "Sally Beauty",
+          "headline": "Nail Supplies, Products & Accessories | Sally Beauty",
+          "adCopy": "Holiday nail colors, gels, press-ons, tools & care. Everything for salon nails at home.",
+          "landingUrl": "https://www.sallybeauty.com/nails/",
           "runDurationDays": 0
         },
         {
-          "pageName": "Mariana Torres",
-          "headline": "Mariana Torres",
-          "adCopy": "100 Illustrated Hair Health Mind Maps ✨🧴 Here's what you'll find: ✅ 100 illustrated visual guides to learn, review, and understand hair and scalp health quickly and practically; ✅",
-          "landingUrl": "https://hair.teamaprovados.online/es",
+          "pageName": "Sally Beauty",
+          "headline": "Nail Supplies, Products & Accessories | Sally Beauty",
+          "adCopy": "Holiday nail colors, gels, press-ons, tools & care. Everything for salon nails at home.",
+          "landingUrl": "https://www.sallybeauty.com/nails/",
           "runDurationDays": 0
         },
         {
-          "pageName": "Mariana Torres",
-          "headline": "Mariana Torres",
-          "adCopy": "100 Illustrated Hair Health Mind Maps ✨🧴 Here's what you'll find: ✅ 100 illustrated visual guides to learn, review, and understand hair and scalp health quickly and practically; ✅",
-          "landingUrl": "https://hair.teamaprovados.online/es",
+          "pageName": "Sally Beauty",
+          "headline": "Nail Supplies, Products & Accessories | Sally Beauty",
+          "adCopy": "Holiday nail colors, gels, press-ons, tools & care. Everything for salon nails at home.",
+          "landingUrl": "https://www.sallybeauty.com/nails/",
           "runDurationDays": 0
         }
       ],
@@ -82,12 +82,12 @@
     },
     {
       "keyword": "skincare",
-      "activeAds": 18,
-      "totalAds": 18,
-      "avgRunDays": 8,
+      "activeAds": 19,
+      "totalAds": 19,
+      "avgRunDays": 9,
       "platforms": {
-        "FACEBOOK": 18,
-        "INSTAGRAM": 18,
+        "FACEBOOK": 19,
+        "INSTAGRAM": 19,
         "AUDIENCE_NETWORK": 18,
         "THREADS": 18,
         "WHATSAPP": 17
@@ -98,173 +98,171 @@
           "headline": "Dull Skin And Fine Lines? Here's The Real Cause",
           "adCopy": "Years of unchecked oxidative stress have been breaking down your skin from the inside. Where no serum, no moisturizer, and no skincare routine has ever reached it. Astaxanthin is o",
           "landingUrl": "https://healthessentialsco.com/products/astaxanthin-24mg-softgels",
-          "runDurationDays": 9
+          "runDurationDays": 10
+        },
+        {
+          "pageName": "Avier",
+          "headline": "The Real #1 Korean Skincare 🇰🇷",
+          "adCopy": "We've been lied to — this isn't the Korean skincare Koreans actually use. THIS is. ✨ Gently removes dirt & dead skin — no scrubbing 💧 Cools & locks in moisture on contact 🧴 Just ",
+          "landingUrl": "https://buyavier.com/products/avier-glow-duo",
+          "runDurationDays": 0
         },
         {
           "pageName": "Jena Injects",
           "headline": "Reveal Your Skin Profile",
           "adCopy": "Stop guessing if your expensive skincare collection is actually working together. BeautyDNA instantly analyzes your face and shelf setup to tell you what works, what doesn't, and w",
           "landingUrl": "https://www.beautydna.com/",
-          "runDurationDays": 12
-        },
-        {
-          "pageName": "abby_thome",
-          "headline": "Get Free Skin Recommendations",
-          "adCopy": "I used to guess what products my skin actually needed until I discovered this free skincare analysis platform. BeautyDNA analyzed my shelf, kept what was already working, and match",
-          "landingUrl": "https://www.beautydna.com/",
-          "runDurationDays": 9
+          "runDurationDays": 13
         }
       ],
-      "metaAdScore": 73
+      "metaAdScore": 75
     },
     {
       "keyword": "cat litter box",
-      "activeAds": 30,
-      "totalAds": 30,
+      "activeAds": 35,
+      "totalAds": 35,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 29,
-        "INSTAGRAM": 28,
-        "AUDIENCE_NETWORK": 21,
-        "WHATSAPP": 19,
-        "THREADS": 20,
-        "MESSENGER": 1
+        "FACEBOOK": 35,
+        "INSTAGRAM": 29,
+        "WHATSAPP": 5,
+        "THREADS": 17,
+        "AUDIENCE_NETWORK": 14
       },
       "sampleAds": [
         {
-          "pageName": "Valerie Hayden",
-          "headline": "This Hidden Gas Making Millions Of Pet Owners Sick",
-          "adCopy": "If you have a litter box in your home you need to know what it’s putting into your air because it’s not just a smell. What your litter box releases into your home every single day ",
-          "landingUrl": "https://www.amberarbor.com/products/litterguard-pro",
+          "pageName": "Whisker",
+          "headline": "Holiday Savings Are Here 🎁",
+          "adCopy": "Scoop up some holiday savings. Save on select Litter-Robot bundles for a limited-time.",
+          "landingUrl": "https://www.whisker.com/",
           "runDurationDays": 0
         },
         {
-          "pageName": "AutoScooper-by-PetPivot",
-          "headline": "Your Scoop Deserves a Break",
-          "adCopy": "Still scooping the litter box every single day? 😩 PetPivot helps handle waste automatically after your cat uses the box, so clean litter stays ready and your daily routine feels a",
-          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box",
+          "pageName": "Optimeal USA",
+          "headline": "Get 35% off trial box + free shipping",
+          "adCopy": "Get 35% off your trial with free shipping and a tote bag! 📦 Discover the perfect blend of European craftsmanship and exceptional ingredients for your feline friend. Guarantee: if ",
+          "landingUrl": "https://optimeal.com/",
           "runDurationDays": 0
         },
         {
-          "pageName": "AutoScooper-by-PetPivot",
-          "headline": "Your Scoop Deserves a Break",
-          "adCopy": "Still scooping the litter box every single day? 😩 PetPivot helps handle waste automatically after your cat uses the box, so clean litter stays ready and your daily routine feels a",
-          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box",
+          "pageName": "Feline Health Hub",
+          "headline": "Read This If Your Cat Keeps Getting “Something New”",
+          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
+          "landingUrl": "https://vitacatlabs.com/products/taurine",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 67
+      "metaAdScore": 69
     },
     {
       "keyword": "kitchen gadget",
-      "activeAds": 24,
-      "totalAds": 24,
+      "activeAds": 26,
+      "totalAds": 26,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 24,
-        "INSTAGRAM": 22,
-        "AUDIENCE_NETWORK": 14,
-        "WHATSAPP": 8,
-        "THREADS": 14
+        "FACEBOOK": 26,
+        "INSTAGRAM": 21,
+        "AUDIENCE_NETWORK": 11,
+        "THREADS": 12,
+        "WHATSAPP": 7
       },
       "sampleAds": [
         {
-          "pageName": "Valerie Hayden",
-          "headline": "This Hidden Gas Making Millions Of Pet Owners Sick",
-          "adCopy": "If you have a litter box in your home you need to know what it’s putting into your air because it’s not just a smell. What your litter box releases into your home every single day ",
-          "landingUrl": "https://www.amberarbor.com/products/litterguard-pro",
+          "pageName": "Feline Health Hub",
+          "headline": "Read This If Your Cat Keeps Getting “Something New”",
+          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
+          "landingUrl": "https://vitacatlabs.com/products/taurine",
           "runDurationDays": 0
         },
         {
-          "pageName": "Eleanor Vance",
-          "headline": "Stop Reusing Your Cat’s Dirty Water",
-          "adCopy": "Please STOP trusting \"filtered\" water fountains for your cat. I fell for the trap for two straight years. I bought into the sleek stainless steel, the fancy \"triple filtration,\" an",
-          "landingUrl": "https://purrmeter.com/pages/cat-water-bowl-bacteria",
+          "pageName": "Feline Health Hub",
+          "headline": "Read This If Your Cat Keeps Getting “Something New”",
+          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
+          "landingUrl": "https://vitacatlabs.com/products/taurine",
           "runDurationDays": 0
         },
         {
-          "pageName": "Viral Home Picks",
-          "headline": "Viral Home Picks",
-          "adCopy": "Tired of worrying about mice and roaches invading your kitchen, pantry and storage spaces, but scared to use harsh poisons that put your kids and pets at risk? Sticky traps are gro",
-          "landingUrl": "https://pexolh.com/products/1?utm_campaign={{campaign.name}}",
+          "pageName": "Nancy Griffith",
+          "headline": "I Wasted a Year Of My Dogs Life (and $300)",
+          "adCopy": "If your dog is on Carprofen, Galliprant, Adequan, or any other joint pain medication — and your vet is talking about increasing the dose or scheduling surgery — stop and read this ",
+          "landingUrl": "https://elkopet.com/pages/stop-meds",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 64
-    },
-    {
-      "keyword": "general",
-      "activeAds": 19,
-      "totalAds": 19,
-      "avgRunDays": 0,
-      "platforms": {
-        "FACEBOOK": 18,
-        "INSTAGRAM": 14,
-        "AUDIENCE_NETWORK": 12,
-        "THREADS": 13,
-        "WHATSAPP": 5
-      },
-      "sampleAds": [
-        {
-          "pageName": "NS-ZQlt-33",
-          "headline": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
-          "adCopy": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
-          "landingUrl": "https://fb.netshort.com/netshort-h5-landing-page/wDCuR8YttJS.html?pid=metaweb_int&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&af_siteid={{site_source_name}}&af_force_deeplink=true&type=1&link_id=2118146432643985410&af_sub2=0",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Ns-Owl-004",
-          "headline": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
-          "adCopy": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
-          "landingUrl": "https://fb.netshort.com/netshort-h5-landing-page/wDCuRgZOvUb.html?pid=metaweb_int&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&af_siteid={{site_source_name}}&af_force_deeplink=true&type=1&link_id=2118146457365221378&af_sub2=0",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "NS-ZQlt-46",
-          "headline": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
-          "adCopy": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
-          "landingUrl": "https://fb.netshort.com/netshort-h5-landing-page/wDCuRw_tIv7.html?pid=metaweb_int&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&af_siteid={{site_source_name}}&af_force_deeplink=true&type=1&link_id=2118146412125462531&af_sub2=0",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 61
+      "metaAdScore": 65
     },
     {
       "keyword": "wireless charger",
-      "activeAds": 18,
-      "totalAds": 18,
+      "activeAds": 15,
+      "totalAds": 15,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 18,
-        "INSTAGRAM": 18,
-        "WHATSAPP": 1,
-        "THREADS": 17,
-        "AUDIENCE_NETWORK": 17
+        "FACEBOOK": 15,
+        "INSTAGRAM": 15,
+        "AUDIENCE_NETWORK": 11,
+        "THREADS": 11,
+        "WHATSAPP": 7
       },
       "sampleAds": [
         {
-          "pageName": "James Walker",
-          "headline": "30,000mAh Solar Power Bank with Built-In Cables",
-          "adCopy": "🔋☀️ A 30,000mAh Solar Power Bank with built-in charging cables, wireless charging, and an emergency flashlight — all in one. When your phone hits 5% during a road trip, camping we",
-          "landingUrl": "https://m.sakerplus.com/funnel/news-sakerplus-30000mah-solar-power-bank-portable-chager-xy1",
+          "pageName": "Austin Plummer",
+          "headline": "2018 Chevrolet Silverado 1500 · Z71 LTZ Pickup 4D 6 1/2 ft",
+          "adCopy": "2018 Chevy Silverado LTZ Z71 4X4 5.3 V8!! Loaded up with heated and cooled leather seats, heated steering, backup camera, parking sensors, center console wireless charger, Southern",
+          "landingUrl": "https://facebook.com/marketplace/item/1780050736444245/",
           "runDurationDays": 0
         },
         {
-          "pageName": "Bright Finds",
-          "headline": "CLICK ABOVE AND DISCOVER HOW TO GET YOURS!",
-          "adCopy": "🎁GET YOUR FREE WIRELESS CHARGER TODAY! Don't miss out on this amazing offer! Claim yours today and enjoy FREE SHIPPING. Click below, answer 2 quick questions, and discover how to ",
-          "landingUrl": "https://cindersprint.com/quiz-lp/?id=shnn1",
+          "pageName": "Cover Crave",
+          "headline": "Luxury Transparent Case For iPhone 18 17 16 15 14 13 12 11 Pro Max Air 18Pro 16Pro For Magsafe Wireless Charge Stand Lens Cover",
+          "adCopy": "Upgrade Your Everyday Tech for Less. 📱✨ Enjoy 30% OFF at CoverCrave and explore a wide range of everyday tech accessories, including phone cases, iPhone covers, Samsung Galaxy cas",
+          "landingUrl": "http://covercrave.com/",
           "runDurationDays": 0
         },
         {
-          "pageName": "Ancienflow.OW09",
-          "headline": "58 % OFF🔥Hot Sale Offers-3-in-1 Foldable Magnetic Wireless Charging Station",
-          "adCopy": "⚡ Goodbye cables, hello freedom. ✨ Meet the 3‑in‑1 Foldable Magnetic Charger – your phone, watch and buds all powered in one go. 📱⌚🎧 Fast, foldable and smart – it’s the charger y",
-          "landingUrl": "https://www.ancienflow.com/products/58-off-hot-sale-offers-3-in-1-foldable-magnetic-wireless-charging-station-18",
+          "pageName": "Scott Terry",
+          "headline": "2020 Hyundai Palisade · Limited Sport Utility 4D",
+          "adCopy": "2020 Hyundai Palisade · Limited Sport Utility 4D - $21,995.00 Beautiful 1 Owner 2020 Hyundai Palisade Limited . Powered by the 3.8 Liter GDI V6 Engine with only 81K miles! This AWD",
+          "landingUrl": "https://facebook.com/marketplace/item/1639359957932305/",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 60
+      "metaAdScore": 57
+    },
+    {
+      "keyword": "general",
+      "activeAds": 5,
+      "totalAds": 5,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 5,
+        "AUDIENCE_NETWORK": 1,
+        "INSTAGRAM": 3,
+        "THREADS": 1
+      },
+      "sampleAds": [
+        {
+          "pageName": "Discount Depot",
+          "headline": "",
+          "adCopy": "🍾🍂FRIDAY RESTOCK 11/06🦃🍁 Online Auctions will be returning to Discount Depot next week! Stay tuned for more info! In the mean time, our bins are filled up with tons of great it",
+          "landingUrl": "",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Sand Freeman",
+          "headline": "Amazon.com. Spend less. Smile more.",
+          "adCopy": "Step 4 Recovery Workbook ✨ Great for sponsors or as a sobriety gift 🎁 Amazon.com/author/sfreeman-recoveryhappens",
+          "landingUrl": "http://www.amazon.com/",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Regional Homes of Robertsdale",
+          "headline": "",
+          "adCopy": "🏡 CHECK OUT THE KINLOCK FALLS 2.0! 🏡 Looking for the perfect place to call home? The Kinlock Falls 2.0 offers 3 bedrooms and 2 bathrooms, giving you plenty of room for comfortabl",
+          "landingUrl": "",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 42
     }
   ]
 }
