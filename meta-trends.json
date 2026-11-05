@@ -1,83 +1,270 @@
 {
-  "updatedAt": "2026-10-06T04:46:16.704Z",
+  "updatedAt": "2026-11-05T05:02:07.453Z",
   "source": "Apify Meta Ad Library Scraper",
   "actorId": "webdatalabs/meta-ad-library-scraper",
   "country": "US",
-  "adCount": 9,
+  "adCount": 120,
   "signals": [
     {
-      "keyword": "cat litter box",
-      "activeAds": 9,
-      "totalAds": 9,
-      "avgRunDays": 1,
+      "keyword": "pet products",
+      "activeAds": 77,
+      "totalAds": 77,
+      "avgRunDays": 3,
       "platforms": {
-        "FACEBOOK": 9,
-        "INSTAGRAM": 9,
-        "AUDIENCE_NETWORK": 9,
-        "WHATSAPP": 7,
-        "THREADS": 9
+        "FACEBOOK": 77,
+        "INSTAGRAM": 74,
+        "AUDIENCE_NETWORK": 64,
+        "WHATSAPP": 37,
+        "THREADS": 63,
+        "MESSENGER": 2
       },
       "sampleAds": [
         {
-          "pageName": "Boxiecat",
-          "headline": "",
-          "adCopy": "Some things we just never let ourselves run out of, and BoxiePro cat litter is definitely one of them 💙 @boxiepet #boxiepro #PrimeBigDealDays #ad We’ve been using BoxiePro for Cle",
-          "landingUrl": "https://www.amazon.com/Probiotic-Eliminating-Probiotics-Dust-Free-Fragrances/dp/B0B3556F7K?maas=maas_adg_FED098C7B28BCEA10D37ACD740421891_afap_abs&ref_=aa_maas&tag=maas&th=1",
-          "runDurationDays": 4
+          "pageName": "Valerie Hayden",
+          "headline": "This Hidden Gas Making Millions Of Pet Owners Sick",
+          "adCopy": "If you have a litter box in your home you need to know what it’s putting into your air because it’s not just a smell. What your litter box releases into your home every single day ",
+          "landingUrl": "https://www.amberarbor.com/products/litterguard-pro",
+          "runDurationDays": 0
         },
         {
-          "pageName": "Boxiecat",
-          "headline": "20% Off BoxiePro Bot on Amazon",
-          "adCopy": "Your automatic litter box called. It wants BoxiePro Bot, now 20% off with Prime Big Deal Days. Deal ends soon!",
-          "landingUrl": "https://www.amazon.com/dp/B0GHPKXGWJ?maas=maas_adg_8551774C7CE4AA1E6A480BBDCE62FEFC_afap_abs&ref_=aa_maas&tag=maas&lv=shuf&channelId=500&plpRedirect=mhFallback&th=1",
-          "runDurationDays": 4
+          "pageName": "AutoScooper-by-PetPivot",
+          "headline": "Your Scoop Deserves a Break",
+          "adCopy": "Still scooping the litter box every single day? 😩 PetPivot helps handle waste automatically after your cat uses the box, so clean litter stays ready and your daily routine feels a",
+          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box",
+          "runDurationDays": 0
         },
         {
-          "pageName": "Boxiecat",
-          "headline": "20% Off BoxiePro Bot on Amazon",
-          "adCopy": "Your automatic litter box called. It wants BoxiePro Bot, now 20% off with Prime Big Deal Days. Deal ends soon!",
-          "landingUrl": "https://www.amazon.com/dp/B0GHPKXGWJ?maas=maas_adg_8551774C7CE4AA1E6A480BBDCE62FEFC_afap_abs&ref_=aa_maas&tag=maas&lv=shuf&channelId=500&plpRedirect=mhFallback&th=1",
-          "runDurationDays": 4
+          "pageName": "AutoScooper-by-PetPivot",
+          "headline": "Your Scoop Deserves a Break",
+          "adCopy": "Still scooping the litter box every single day? 😩 PetPivot helps handle waste automatically after your cat uses the box, so clean litter stays ready and your daily routine feels a",
+          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box",
+          "runDurationDays": 0
         }
       ],
-      "metaAdScore": 54
+      "metaAdScore": 83
     },
     {
-      "keyword": "pet products",
-      "activeAds": 5,
-      "totalAds": 5,
-      "avgRunDays": 1,
+      "keyword": "beauty tools",
+      "activeAds": 31,
+      "totalAds": 31,
+      "avgRunDays": 4,
       "platforms": {
-        "FACEBOOK": 5,
-        "INSTAGRAM": 5,
-        "AUDIENCE_NETWORK": 5,
-        "WHATSAPP": 5,
-        "THREADS": 5
+        "INSTAGRAM": 31,
+        "FACEBOOK": 29,
+        "AUDIENCE_NETWORK": 20,
+        "WHATSAPP": 24,
+        "THREADS": 24
       },
       "sampleAds": [
         {
-          "pageName": "Boxiecat",
+          "pageName": "Vera4 Beauty Supply",
           "headline": "",
-          "adCopy": "Some things we just never let ourselves run out of, and BoxiePro cat litter is definitely one of them 💙 @boxiepet #boxiepro #PrimeBigDealDays #ad We’ve been using BoxiePro for Cle",
-          "landingUrl": "https://www.amazon.com/Probiotic-Eliminating-Probiotics-Dust-Free-Fragrances/dp/B0B3556F7K?maas=maas_adg_FED098C7B28BCEA10D37ACD740421891_afap_abs&ref_=aa_maas&tag=maas&th=1",
-          "runDurationDays": 4
-        },
-        {
-          "pageName": "AutoScooper-by-PetPivot",
-          "headline": "Automatic Cleaning, Better Value",
-          "adCopy": "Thinking about upgrading to an automatic litter box? This might be a good time to make the switch. 👀 PetPivot is now available at a more attractive value, making automatic litter ",
-          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box-white",
+          "adCopy": "🚨 VERA 4 BEAUTY SUPPLY WEEKEND SALE! 🚨 📅 FRIDAY • SATURDAY • SUNDAY | NOVEMBER 6–8 THREE DAYS OF AMAZING DEALS! 🛍️🔥 💇🏽‍♀️ WIGS & HAIR DEALS Transparent Wig Sale — 35% OFF 18",
+          "landingUrl": "https://instagram.com/vera4beautysupply",
           "runDurationDays": 0
         },
         {
-          "pageName": "AutoScooper-by-PetPivot",
-          "headline": "Automatic Cleaning, Better Value",
-          "adCopy": "Thinking about upgrading to an automatic litter box? This might be a good time to make the switch. 👀 PetPivot is now available at a more attractive value, making automatic litter ",
-          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box-white",
+          "pageName": "Mariana Torres",
+          "headline": "Mariana Torres",
+          "adCopy": "100 Illustrated Hair Health Mind Maps ✨🧴 Here's what you'll find: ✅ 100 illustrated visual guides to learn, review, and understand hair and scalp health quickly and practically; ✅",
+          "landingUrl": "https://hair.teamaprovados.online/es",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Mariana Torres",
+          "headline": "Mariana Torres",
+          "adCopy": "100 Illustrated Hair Health Mind Maps ✨🧴 Here's what you'll find: ✅ 100 illustrated visual guides to learn, review, and understand hair and scalp health quickly and practically; ✅",
+          "landingUrl": "https://hair.teamaprovados.online/es",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 46
+      "metaAdScore": 77
+    },
+    {
+      "keyword": "skincare",
+      "activeAds": 18,
+      "totalAds": 18,
+      "avgRunDays": 8,
+      "platforms": {
+        "FACEBOOK": 18,
+        "INSTAGRAM": 18,
+        "AUDIENCE_NETWORK": 18,
+        "THREADS": 18,
+        "WHATSAPP": 17
+      },
+      "sampleAds": [
+        {
+          "pageName": "Revella",
+          "headline": "Dull Skin And Fine Lines? Here's The Real Cause",
+          "adCopy": "Years of unchecked oxidative stress have been breaking down your skin from the inside. Where no serum, no moisturizer, and no skincare routine has ever reached it. Astaxanthin is o",
+          "landingUrl": "https://healthessentialsco.com/products/astaxanthin-24mg-softgels",
+          "runDurationDays": 9
+        },
+        {
+          "pageName": "Jena Injects",
+          "headline": "Reveal Your Skin Profile",
+          "adCopy": "Stop guessing if your expensive skincare collection is actually working together. BeautyDNA instantly analyzes your face and shelf setup to tell you what works, what doesn't, and w",
+          "landingUrl": "https://www.beautydna.com/",
+          "runDurationDays": 12
+        },
+        {
+          "pageName": "abby_thome",
+          "headline": "Get Free Skin Recommendations",
+          "adCopy": "I used to guess what products my skin actually needed until I discovered this free skincare analysis platform. BeautyDNA analyzed my shelf, kept what was already working, and match",
+          "landingUrl": "https://www.beautydna.com/",
+          "runDurationDays": 9
+        }
+      ],
+      "metaAdScore": 73
+    },
+    {
+      "keyword": "cat litter box",
+      "activeAds": 30,
+      "totalAds": 30,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 29,
+        "INSTAGRAM": 28,
+        "AUDIENCE_NETWORK": 21,
+        "WHATSAPP": 19,
+        "THREADS": 20,
+        "MESSENGER": 1
+      },
+      "sampleAds": [
+        {
+          "pageName": "Valerie Hayden",
+          "headline": "This Hidden Gas Making Millions Of Pet Owners Sick",
+          "adCopy": "If you have a litter box in your home you need to know what it’s putting into your air because it’s not just a smell. What your litter box releases into your home every single day ",
+          "landingUrl": "https://www.amberarbor.com/products/litterguard-pro",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "AutoScooper-by-PetPivot",
+          "headline": "Your Scoop Deserves a Break",
+          "adCopy": "Still scooping the litter box every single day? 😩 PetPivot helps handle waste automatically after your cat uses the box, so clean litter stays ready and your daily routine feels a",
+          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "AutoScooper-by-PetPivot",
+          "headline": "Your Scoop Deserves a Break",
+          "adCopy": "Still scooping the litter box every single day? 😩 PetPivot helps handle waste automatically after your cat uses the box, so clean litter stays ready and your daily routine feels a",
+          "landingUrl": "https://petpivot.com/products/autoscooper-12-lite-cat-litter-box",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 67
+    },
+    {
+      "keyword": "kitchen gadget",
+      "activeAds": 24,
+      "totalAds": 24,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 24,
+        "INSTAGRAM": 22,
+        "AUDIENCE_NETWORK": 14,
+        "WHATSAPP": 8,
+        "THREADS": 14
+      },
+      "sampleAds": [
+        {
+          "pageName": "Valerie Hayden",
+          "headline": "This Hidden Gas Making Millions Of Pet Owners Sick",
+          "adCopy": "If you have a litter box in your home you need to know what it’s putting into your air because it’s not just a smell. What your litter box releases into your home every single day ",
+          "landingUrl": "https://www.amberarbor.com/products/litterguard-pro",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Eleanor Vance",
+          "headline": "Stop Reusing Your Cat’s Dirty Water",
+          "adCopy": "Please STOP trusting \"filtered\" water fountains for your cat. I fell for the trap for two straight years. I bought into the sleek stainless steel, the fancy \"triple filtration,\" an",
+          "landingUrl": "https://purrmeter.com/pages/cat-water-bowl-bacteria",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Viral Home Picks",
+          "headline": "Viral Home Picks",
+          "adCopy": "Tired of worrying about mice and roaches invading your kitchen, pantry and storage spaces, but scared to use harsh poisons that put your kids and pets at risk? Sticky traps are gro",
+          "landingUrl": "https://pexolh.com/products/1?utm_campaign={{campaign.name}}",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 64
+    },
+    {
+      "keyword": "general",
+      "activeAds": 19,
+      "totalAds": 19,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 18,
+        "INSTAGRAM": 14,
+        "AUDIENCE_NETWORK": 12,
+        "THREADS": 13,
+        "WHATSAPP": 5
+      },
+      "sampleAds": [
+        {
+          "pageName": "NS-ZQlt-33",
+          "headline": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
+          "adCopy": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
+          "landingUrl": "https://fb.netshort.com/netshort-h5-landing-page/wDCuR8YttJS.html?pid=metaweb_int&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&af_siteid={{site_source_name}}&af_force_deeplink=true&type=1&link_id=2118146432643985410&af_sub2=0",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Ns-Owl-004",
+          "headline": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
+          "adCopy": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
+          "landingUrl": "https://fb.netshort.com/netshort-h5-landing-page/wDCuRgZOvUb.html?pid=metaweb_int&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&af_siteid={{site_source_name}}&af_force_deeplink=true&type=1&link_id=2118146457365221378&af_sub2=0",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "NS-ZQlt-46",
+          "headline": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
+          "adCopy": "God-Tier Beast Tamer: The Beast Girls Fight Over Me",
+          "landingUrl": "https://fb.netshort.com/netshort-h5-landing-page/wDCuRw_tIv7.html?pid=metaweb_int&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&af_siteid={{site_source_name}}&af_force_deeplink=true&type=1&link_id=2118146412125462531&af_sub2=0",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 61
+    },
+    {
+      "keyword": "wireless charger",
+      "activeAds": 18,
+      "totalAds": 18,
+      "avgRunDays": 0,
+      "platforms": {
+        "FACEBOOK": 18,
+        "INSTAGRAM": 18,
+        "WHATSAPP": 1,
+        "THREADS": 17,
+        "AUDIENCE_NETWORK": 17
+      },
+      "sampleAds": [
+        {
+          "pageName": "James Walker",
+          "headline": "30,000mAh Solar Power Bank with Built-In Cables",
+          "adCopy": "🔋☀️ A 30,000mAh Solar Power Bank with built-in charging cables, wireless charging, and an emergency flashlight — all in one. When your phone hits 5% during a road trip, camping we",
+          "landingUrl": "https://m.sakerplus.com/funnel/news-sakerplus-30000mah-solar-power-bank-portable-chager-xy1",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Bright Finds",
+          "headline": "CLICK ABOVE AND DISCOVER HOW TO GET YOURS!",
+          "adCopy": "🎁GET YOUR FREE WIRELESS CHARGER TODAY! Don't miss out on this amazing offer! Claim yours today and enjoy FREE SHIPPING. Click below, answer 2 quick questions, and discover how to ",
+          "landingUrl": "https://cindersprint.com/quiz-lp/?id=shnn1",
+          "runDurationDays": 0
+        },
+        {
+          "pageName": "Ancienflow.OW09",
+          "headline": "58 % OFF🔥Hot Sale Offers-3-in-1 Foldable Magnetic Wireless Charging Station",
+          "adCopy": "⚡ Goodbye cables, hello freedom. ✨ Meet the 3‑in‑1 Foldable Magnetic Charger – your phone, watch and buds all powered in one go. 📱⌚🎧 Fast, foldable and smart – it’s the charger y",
+          "landingUrl": "https://www.ancienflow.com/products/58-off-hot-sale-offers-3-in-1-foldable-magnetic-wireless-charging-station-18",
+          "runDurationDays": 0
+        }
+      ],
+      "metaAdScore": 60
     }
   ]
 }
