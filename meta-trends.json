@@ -1,268 +1,106 @@
 {
-  "updatedAt": "2026-11-05T19:30:20.200Z",
+  "updatedAt": "2026-11-06T05:00:24.050Z",
   "source": "Apify Meta Ad Library Scraper",
   "actorId": "webdatalabs/meta-ad-library-scraper",
   "country": "US",
-  "adCount": 120,
+  "adCount": 9,
   "signals": [
     {
-      "keyword": "pet products",
-      "activeAds": 72,
-      "totalAds": 72,
-      "avgRunDays": 3,
-      "platforms": {
-        "FACEBOOK": 72,
-        "INSTAGRAM": 66,
-        "AUDIENCE_NETWORK": 51,
-        "THREADS": 51,
-        "WHATSAPP": 35,
-        "MESSENGER": 1
-      },
-      "sampleAds": [
-        {
-          "pageName": "Feline Health Hub",
-          "headline": "Read This If Your Cat Keeps Getting “Something New”",
-          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
-          "landingUrl": "https://vitacatlabs.com/products/taurine",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Feline Health Hub",
-          "headline": "Over $1,200 in Vet Bills. Nobody Checked This.",
-          "adCopy": "My cat got 5 diagnoses in 2 years. Here’s what I was told, and what I paid for: ❌ Kept getting sick → “weak immune system” → 3 rounds of antibiotics ❌ Threw up after every meal → “",
-          "landingUrl": "https://vitacatlabs.com/products/taurine",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Feline Health Hub",
-          "headline": "Read This If Your Cat Keeps Getting “Something New”",
-          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
-          "landingUrl": "https://vitacatlabs.com/products/taurine",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 83
-    },
-    {
-      "keyword": "beauty tools",
-      "activeAds": 30,
-      "totalAds": 30,
-      "avgRunDays": 4,
-      "platforms": {
-        "FACEBOOK": 30,
-        "INSTAGRAM": 29,
-        "AUDIENCE_NETWORK": 17,
-        "THREADS": 20,
-        "WHATSAPP": 16
-      },
-      "sampleAds": [
-        {
-          "pageName": "Sally Beauty",
-          "headline": "Nail Supplies, Products & Accessories | Sally Beauty",
-          "adCopy": "Holiday nail colors, gels, press-ons, tools & care. Everything for salon nails at home.",
-          "landingUrl": "https://www.sallybeauty.com/nails/",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Sally Beauty",
-          "headline": "Nail Supplies, Products & Accessories | Sally Beauty",
-          "adCopy": "Holiday nail colors, gels, press-ons, tools & care. Everything for salon nails at home.",
-          "landingUrl": "https://www.sallybeauty.com/nails/",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Sally Beauty",
-          "headline": "Nail Supplies, Products & Accessories | Sally Beauty",
-          "adCopy": "Holiday nail colors, gels, press-ons, tools & care. Everything for salon nails at home.",
-          "landingUrl": "https://www.sallybeauty.com/nails/",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 77
-    },
-    {
-      "keyword": "skincare",
-      "activeAds": 19,
-      "totalAds": 19,
-      "avgRunDays": 9,
-      "platforms": {
-        "FACEBOOK": 19,
-        "INSTAGRAM": 19,
-        "AUDIENCE_NETWORK": 18,
-        "THREADS": 18,
-        "WHATSAPP": 17
-      },
-      "sampleAds": [
-        {
-          "pageName": "Revella",
-          "headline": "Dull Skin And Fine Lines? Here's The Real Cause",
-          "adCopy": "Years of unchecked oxidative stress have been breaking down your skin from the inside. Where no serum, no moisturizer, and no skincare routine has ever reached it. Astaxanthin is o",
-          "landingUrl": "https://healthessentialsco.com/products/astaxanthin-24mg-softgels",
-          "runDurationDays": 10
-        },
-        {
-          "pageName": "Avier",
-          "headline": "The Real #1 Korean Skincare 🇰🇷",
-          "adCopy": "We've been lied to — this isn't the Korean skincare Koreans actually use. THIS is. ✨ Gently removes dirt & dead skin — no scrubbing 💧 Cools & locks in moisture on contact 🧴 Just ",
-          "landingUrl": "https://buyavier.com/products/avier-glow-duo",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Jena Injects",
-          "headline": "Reveal Your Skin Profile",
-          "adCopy": "Stop guessing if your expensive skincare collection is actually working together. BeautyDNA instantly analyzes your face and shelf setup to tell you what works, what doesn't, and w",
-          "landingUrl": "https://www.beautydna.com/",
-          "runDurationDays": 13
-        }
-      ],
-      "metaAdScore": 75
-    },
-    {
       "keyword": "cat litter box",
-      "activeAds": 35,
-      "totalAds": 35,
+      "activeAds": 8,
+      "totalAds": 8,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 35,
-        "INSTAGRAM": 29,
+        "FACEBOOK": 8,
+        "INSTAGRAM": 8,
+        "AUDIENCE_NETWORK": 8,
         "WHATSAPP": 5,
-        "THREADS": 17,
-        "AUDIENCE_NETWORK": 14
+        "THREADS": 8
       },
       "sampleAds": [
         {
-          "pageName": "Whisker",
-          "headline": "Holiday Savings Are Here 🎁",
-          "adCopy": "Scoop up some holiday savings. Save on select Litter-Robot bundles for a limited-time.",
-          "landingUrl": "https://www.whisker.com/",
+          "pageName": "PetMist",
+          "headline": "Stop Masking It. Eliminate It",
+          "adCopy": "For the first time, there's a way to eliminate pet odor at the actual source — not mask it, not dilute it, destroy it. The PetMist Nano Bio-Enzyme Deodorizer combines two things th",
+          "landingUrl": "https://petmist.co/products/petmist-sprayer",
           "runDurationDays": 0
         },
         {
-          "pageName": "Optimeal USA",
-          "headline": "Get 35% off trial box + free shipping",
-          "adCopy": "Get 35% off your trial with free shipping and a tote bag! 📦 Discover the perfect blend of European craftsmanship and exceptional ingredients for your feline friend. Guarantee: if ",
-          "landingUrl": "https://optimeal.com/",
+          "pageName": "PetMist",
+          "headline": "Stop Masking It. Eliminate It",
+          "adCopy": "For the first time, there's a way to eliminate pet odor at the actual source — not mask it, not dilute it, destroy it. The PetMist Nano Bio-Enzyme Deodorizer combines two things th",
+          "landingUrl": "https://petmist.co/products/petmist-sprayer",
           "runDurationDays": 0
         },
         {
-          "pageName": "Feline Health Hub",
-          "headline": "Read This If Your Cat Keeps Getting “Something New”",
-          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
-          "landingUrl": "https://vitacatlabs.com/products/taurine",
+          "pageName": "Homerunpet",
+          "headline": "Care Made Easy",
+          "adCopy": "Most automatic litter boxes clean themselves. ✨Only one refills itself. ✅Meet the world's largest self-cleaning litter box with the industry's first built-in Auto-Refill System. Le",
+          "landingUrl": "https://homerunpet.com/products/cs106-self-cleaning-litter-box",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 69
+      "metaAdScore": 48
     },
     {
-      "keyword": "kitchen gadget",
-      "activeAds": 26,
-      "totalAds": 26,
+      "keyword": "pet products",
+      "activeAds": 8,
+      "totalAds": 8,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 26,
-        "INSTAGRAM": 21,
-        "AUDIENCE_NETWORK": 11,
-        "THREADS": 12,
-        "WHATSAPP": 7
+        "FACEBOOK": 8,
+        "INSTAGRAM": 8,
+        "AUDIENCE_NETWORK": 8,
+        "WHATSAPP": 5,
+        "THREADS": 8
       },
       "sampleAds": [
         {
-          "pageName": "Feline Health Hub",
-          "headline": "Read This If Your Cat Keeps Getting “Something New”",
-          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
-          "landingUrl": "https://vitacatlabs.com/products/taurine",
+          "pageName": "PetMist",
+          "headline": "Stop Masking It. Eliminate It",
+          "adCopy": "For the first time, there's a way to eliminate pet odor at the actual source — not mask it, not dilute it, destroy it. The PetMist Nano Bio-Enzyme Deodorizer combines two things th",
+          "landingUrl": "https://petmist.co/products/petmist-sprayer",
           "runDurationDays": 0
         },
         {
-          "pageName": "Feline Health Hub",
-          "headline": "Read This If Your Cat Keeps Getting “Something New”",
-          "adCopy": "I am going to say something that nobody in this group wants to hear and I honestly don’t care if it makes you mad. Another vet visit for another symptom is not going to save your c",
-          "landingUrl": "https://vitacatlabs.com/products/taurine",
+          "pageName": "PetMist",
+          "headline": "Stop Masking It. Eliminate It",
+          "adCopy": "For the first time, there's a way to eliminate pet odor at the actual source — not mask it, not dilute it, destroy it. The PetMist Nano Bio-Enzyme Deodorizer combines two things th",
+          "landingUrl": "https://petmist.co/products/petmist-sprayer",
           "runDurationDays": 0
         },
         {
-          "pageName": "Nancy Griffith",
-          "headline": "I Wasted a Year Of My Dogs Life (and $300)",
-          "adCopy": "If your dog is on Carprofen, Galliprant, Adequan, or any other joint pain medication — and your vet is talking about increasing the dose or scheduling surgery — stop and read this ",
-          "landingUrl": "https://elkopet.com/pages/stop-meds",
+          "pageName": "Homerunpet",
+          "headline": "Care Made Easy",
+          "adCopy": "Most automatic litter boxes clean themselves. ✨Only one refills itself. ✅Meet the world's largest self-cleaning litter box with the industry's first built-in Auto-Refill System. Le",
+          "landingUrl": "https://homerunpet.com/products/cs106-self-cleaning-litter-box",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 65
-    },
-    {
-      "keyword": "wireless charger",
-      "activeAds": 15,
-      "totalAds": 15,
-      "avgRunDays": 0,
-      "platforms": {
-        "FACEBOOK": 15,
-        "INSTAGRAM": 15,
-        "AUDIENCE_NETWORK": 11,
-        "THREADS": 11,
-        "WHATSAPP": 7
-      },
-      "sampleAds": [
-        {
-          "pageName": "Austin Plummer",
-          "headline": "2018 Chevrolet Silverado 1500 · Z71 LTZ Pickup 4D 6 1/2 ft",
-          "adCopy": "2018 Chevy Silverado LTZ Z71 4X4 5.3 V8!! Loaded up with heated and cooled leather seats, heated steering, backup camera, parking sensors, center console wireless charger, Southern",
-          "landingUrl": "https://facebook.com/marketplace/item/1780050736444245/",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Cover Crave",
-          "headline": "Luxury Transparent Case For iPhone 18 17 16 15 14 13 12 11 Pro Max Air 18Pro 16Pro For Magsafe Wireless Charge Stand Lens Cover",
-          "adCopy": "Upgrade Your Everyday Tech for Less. 📱✨ Enjoy 30% OFF at CoverCrave and explore a wide range of everyday tech accessories, including phone cases, iPhone covers, Samsung Galaxy cas",
-          "landingUrl": "http://covercrave.com/",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Scott Terry",
-          "headline": "2020 Hyundai Palisade · Limited Sport Utility 4D",
-          "adCopy": "2020 Hyundai Palisade · Limited Sport Utility 4D - $21,995.00 Beautiful 1 Owner 2020 Hyundai Palisade Limited . Powered by the 3.8 Liter GDI V6 Engine with only 81K miles! This AWD",
-          "landingUrl": "https://facebook.com/marketplace/item/1639359957932305/",
-          "runDurationDays": 0
-        }
-      ],
-      "metaAdScore": 57
+      "metaAdScore": 48
     },
     {
       "keyword": "general",
-      "activeAds": 5,
-      "totalAds": 5,
+      "activeAds": 1,
+      "totalAds": 1,
       "avgRunDays": 0,
       "platforms": {
-        "FACEBOOK": 5,
+        "FACEBOOK": 1,
+        "INSTAGRAM": 1,
         "AUDIENCE_NETWORK": 1,
-        "INSTAGRAM": 3,
+        "WHATSAPP": 1,
         "THREADS": 1
       },
       "sampleAds": [
         {
-          "pageName": "Discount Depot",
-          "headline": "",
-          "adCopy": "🍾🍂FRIDAY RESTOCK 11/06🦃🍁 Online Auctions will be returning to Discount Depot next week! Stay tuned for more info! In the mean time, our bins are filled up with tons of great it",
-          "landingUrl": "",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Sand Freeman",
-          "headline": "Amazon.com. Spend less. Smile more.",
-          "adCopy": "Step 4 Recovery Workbook ✨ Great for sponsors or as a sobriety gift 🎁 Amazon.com/author/sfreeman-recoveryhappens",
-          "landingUrl": "http://www.amazon.com/",
-          "runDurationDays": 0
-        },
-        {
-          "pageName": "Regional Homes of Robertsdale",
-          "headline": "",
-          "adCopy": "🏡 CHECK OUT THE KINLOCK FALLS 2.0! 🏡 Looking for the perfect place to call home? The Kinlock Falls 2.0 offers 3 bedrooms and 2 bathrooms, giving you plenty of room for comfortabl",
-          "landingUrl": "",
+          "pageName": "Ns-XK-YL101",
+          "headline": "SSS Support: No Magic, Only Violence",
+          "adCopy": "SSS Support: No Magic, Only Violence",
+          "landingUrl": "https://fb.h5short.com/netshort-h5-landing-page/wDbNbz-v70D.html?pid=metaweb_int&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&af_siteid={{site_source_name}}&af_force_deeplink=true&type=1&link_id=2118532836792610818&af_sub2=0",
           "runDurationDays": 0
         }
       ],
-      "metaAdScore": 42
+      "metaAdScore": 26
     }
   ]
 }
